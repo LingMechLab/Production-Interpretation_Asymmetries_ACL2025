@@ -1,0 +1,1083 @@
+﻿itemID,stimuli,gender,verb,study,language,subject,object,predicate,binary_choice_response,binary_choice,yes_no_response,yes_no_choice,subject_yes_probability,continuation_response,cont_choice,prompt
+I01,Mike aggravated Tony.,M,IC1,Rohde & Kehler (2014),english,Mike,Tony,aggravated,Mike,Subject,No,Object,0.998073226,Tony clenched his fists.,Object,free
+I02,Tony amazed Eric.,M,IC1,Rohde & Kehler (2014),english,Tony,Eric,amazed,Tony,Subject,No,Object,0.952574109,Eric couldn't believe what he had just seen.,Object,free
+I03,Eric amused Zack.,M,IC1,Rohde & Kehler (2014),english,Eric,Zack,amused,Eric,Subject,No,Object,0.924141771,Zack let out a hearty laugh.,Object,free
+I04,Zack annoyed Ben.,M,IC1,Rohde & Kehler (2014),english,Zack,Ben,annoyed,Z,Subject,No,Object,0.99682733,Ben glared at Zack.,Object,free
+I05,Ben apologized to Paul.,M,IC1,Rohde & Kehler (2014),english,Ben,Paul,apologized to,Ben,Subject,No,Object,0.777299867,Paul accepted his apology with a nod.,Object,free
+I06,Paul bored David.,M,IC1,Rohde & Kehler (2014),english,Paul,David,bored,Paul,Subject,No,Object,0.880796994,David struggled to stay engaged.,Object,free
+I07,David charmed Nick.,M,IC1,Rohde & Kehler (2014),english,David,Nick,charmed,David,Subject,No,Object,0.999088952,Nick smiled warmly.,Object,free
+I08,Nick offended Steve.,M,IC1,Rohde & Kehler (2014),english,Nick,Steve,offended,Nick,Subject,No,Object,0.999738698,Steve clenched his fists.,Object,free
+I09,Steve confessed to Brian.,M,IC1,Rohde & Kehler (2014),english,Steve,Brian,confessed to,Steve,Subject,Yes,Subject,0.904650432,Brian took a deep breath and asked him to explain everything.,Object,free
+I10,Brian deceived Frank.,M,IC1,Rohde & Kehler (2014),english,Brian,Frank,deceived,Brian,Subject,No,Object,0.993307127,Frank sought revenge.,Object,free
+I11,Frank disappointd Simon.,M,IC1,Rohde & Kehler (2014),english,Frank,Simon,disappointd,Frank,Subject,Yes,Subject,0.148047208,Simon crossed his arms and looked away.,Object,free
+I12,Simon exasperated Justin.,M,IC1,Rohde & Kehler (2014),english,Simon,Justin,exasperated,Simon,Subject,No,Object,0.995929904,Justin clenched his fists and took a deep breath.,Object,free
+I13,Justin fascinated Mike.,M,IC1,Rohde & Kehler (2014),english,Justin,Mike,fascinated,Justin,Subject,No,Object,0.985936321,Mike couldn't help but ask Justin how he knew so much.,Object,free
+I14,Mike frightened Eric.,M,IC1,Rohde & Kehler (2014),english,Mike,Eric,frightened,Mike,Subject,No,Object,0.993307127,Eric stepped back cautiously.,Object,free
+I15,Tony humiliated Zack.,M,IC1,Rohde & Kehler (2014),english,Tony,Zack,humiliated,Tony,Subject,No,Object,0.998073226,"Zack clenched his fists, determined to prove him wrong.",Object,free
+I16,Eric infuriated Ben.,M,IC1,Rohde & Kehler (2014),english,Eric,Ben,infuriated,Ben,Object,No,Object,0.999290323,"Ben clenched his fists, trying to keep his composure.",Object,free
+I17,Zack inspires Paul.,M,IC1,Rohde & Kehler (2014),english,Zack,Paul,inspires,Z,Subject,No,Object,0.982013776,Paul begins to see new possibilities for his future.,Object,free
+I18,Ben intimidates David.,M,IC1,Rohde & Kehler (2014),english,Ben,David,intimidates,Ben,Subject,Yes,Subject,0.622459311,David takes a step back.,Object,free
+I19,Paul scares Nick.,M,IC1,Rohde & Kehler (2014),english,Paul,Nick,scares,Paul,Subject,No,Object,0.880796994,Nick takes a step back.,Object,free
+I20,David surprised Steve.,M,IC1,Rohde & Kehler (2014),english,David,Steve,surprised,David,Subject,No,Object,0.995929904,Steve couldn't believe what he was seeing.,Object,free
+I21,Nick consulted Brian.,M,IC1,Ferstl et al.(2010),english,Nick,Brian,consulted,Nick,Subject,No,Object,0.999738698,Brian nodded thoughtfully.,Object,free
+I22,Steve attracted Frank.,M,IC1,Ferstl et al.(2010),english,Steve,Frank,attracted,Steve,Subject,No,Object,0.679178676,Frank couldn't help but feel intrigued.,Object,free
+I23,Brian agitated Simon.,M,IC1,Ferstl et al.(2010),english,Brian,Simon,agitated,Brian,Subject,Yes,Subject,0.970687705,Simon clenched his fists.,Object,free
+I24,Frank angered Justin.,M,IC1,Ferstl et al.(2010),english,Frank,Justin,angered,Frank,Subject,No,Object,0.998498768,Justin clenched his fists.,Object,free
+I25,Simon delighted Mike.,M,IC1,Ferstl et al.(2010),english,Simon,Mike,delighted,Simon,Subject,No,Object,0.982013776,Mike couldn't help but smile.,Object,free
+I26,Justin pleased Tony.,M,IC1,Ferstl et al.(2010),english,Justin,Tony,pleased,Justin,Subject,No,Object,0.999290323,Tony smiled in response.,Object,free
+I27,Mike called Zack.,M,IC1,Ferstl et al.(2010),english,Mike,Zack,called,Mike,Subject,Yes,Subject,0.377540668,Zack quickly picked up the phone.,Object,free
+I28,Tony telephoned Ben.,M,IC1,Ferstl et al.(2010),english,Tony,Ben,telephoned,Tony,Subject,No,Object,0.998498768,Ben answered on the third ring.,Object,free
+I29,Eric concerned Paul.,M,IC1,Ferstl et al.(2010),english,Eric,Paul,concerned,Eric,Subject,No,Object,0.977022617,Paul noticed Eric's anxious expression.,Object,free
+I30,Zack irritated David.,M,IC1,Ferstl et al.(2010),english,Zack,David,irritated,Z,Subject,No,Object,0.970687705,David clenched his fists.,Object,free
+I31,Ben antagonized Nick.,M,IC1,Ferstl et al.(2010),english,Ben,Nick,antagonized,Ben,Subject,No,Object,0.924141771,Nick clenched his fists in frustration.,Object,free
+I32,Paul frustrated Steve.,M,IC1,Ferstl et al.(2010),english,Paul,Steve,frustrated,Paul,Subject,Yes,Subject,0.222700147,Steve clenched his fists.,Object,free
+I33,David appalled Brian.,M,IC1,Ferstl et al.(2010),english,David,Brian,appalled,David,Subject,No,Object,0.4378235,"Brian stepped back, his face tightening with disbelief.",Object,free
+I34,Nick captivated Frank.,M,IC1,Ferstl et al.(2010),english,Nick,Frank,captivated,Nick,Subject,No,Object,0.99682733,Frank couldn't help but lean in closer.,Object,free
+I35,Steve inspired Simon.,M,IC1,Ferstl et al.(2010),english,Steve,Simon,inspired,Steve,Subject,No,Object,0.999903852,Simon decided to pursue his dream of becoming an artist.,Object,free
+I36,Brian lied to Justin.,M,IC1,Ferstl et al.(2010),english,Brian,Justin,lied to,Brian,Subject,Yes,Subject,0.999841528,Justin immediately saw through it.,Object,free
+I37,Frank maddened Mike.,M,IC1,Ferstl et al.(2010),english,Frank,Mike,maddened,Mike,Object,No,Object,0.985936321,Mike clenched his fists.,Object,free
+I38,Simon peeved Tony.,M,IC1,Ferstl et al.(2010),english,Simon,Tony,peeved,Simon,Subject,No,Object,0.904650432,Tony clenched his fists and took a step closer.,Object,free
+I39,Justin entranced Eric.,M,IC1,Ferstl et al.(2010),english,Justin,Eric,entranced,Justin,Subject,No,Object,0.679178676,Eric couldn't look away.,Object,free
+I40,Mike intrigued Ben.,M,IC1,Ferstl et al.(2010),english,Mike,Ben,intrigued,Mike,Subject,No,Object,0.952574109,"Ben leaned in, eager to hear more.",Object,free
+I41,Tony repulsed Paul.,M,IC1,Ferstl et al.(2010),english,Tony,Paul,repulsed,Tony,Subject,No,Object,0.952574109,Paul clenched his fists and took a step back.,Object,free
+I42,Eric worried David.,M,IC1,Ferstl et al.(2010),english,Eric,David,worried,Eric,Subject,No,Object,0.993307127,David couldn't understand why Eric was acting so distant.,Object,free
+I43,Zack betrayed Nick.,M,IC1,Ferstl et al.(2010),english,Zack,Nick,betrayed,Z,Subject,Yes,Subject,0.182425503,Nick vowed to make him regret it.,Object,free
+I44,Ben confessed to Steve.,M,IC1,Ferstl et al.(2010),english,Ben,Steve,confessed to,Ben,Subject,No,Object,0.997527403,Steve took a moment to process what he had just heard.,Object,free
+I45,Paul scared Brian.,M,IC1,Ferstl et al.(2010),english,Paul,Brian,scared,Paul,Subject,No,Object,0.622459311,"Brian stepped back, his face pale with shock.",Object,free
+I46,David wowed Frank.,M,IC1,Ferstl et al.(2010),english,David,Frank,wowed,David,Subject,No,Object,0.904650432,Frank couldn't help but applaud.,Object,free
+I47,Nick disappointed Simon.,M,IC1,Ferstl et al.(2010),english,Nick,Simon,disappointed,Nick,Subject,No,Object,0.939913259,Simon frowned and looked away.,Object,free
+I48,Steve intimidated Justin.,M,IC1,Ferstl et al.(2010),english,Steve,Justin,intimidated,Steve,Subject,Yes,Subject,0.499999999,"Justin took a step back, trying to mask his unease.",Object,free
+I49,Brian bugged Mike.,M,IC1,Ferstl et al.(2010),english,Brian,Mike,bugged,Brian,Subject,No,Object,0.817574431,Mike turned around with an annoyed expression.,Object,free
+I50,Frank daunted Tony.,M,IC1,Ferstl et al.(2010),english,Frank,Tony,daunted,Frank,Subject,Yes,Subject,0.377540668,Tony clenched his fists in defiance.,Object,free
+I51,Simon echoed Eric.,M,IC1,Ferstl et al.(2010),english,Simon,Eric,echoed,Simon,Subject,Yes,Subject,0.952574109,"He tilted his head, waiting for a response.",Subject,free
+I52,Justin enthralled Zack.,M,IC1,Ferstl et al.(2010),english,Justin,Zack,enthralled,Justin,Subject,No,Object,0.562176503,Zack couldn't help but feel a spark of curiosity.,Object,free
+I53,Mike excited Paul.,M,IC1,Ferstl et al.(2010),english,Mike,Paul,excited,Mike,Subject,No,Object,0.985936321,Paul couldn't contain his enthusiasm.,Object,free
+I54,Tony gladdened David.,M,IC1,Ferstl et al.(2010),english,Tony,David,gladdened,Tony,Subject,No,Object,0.989012988,David smiled in response.,Object,free
+I55,Eric mesmerised Nick.,M,IC1,Ferstl et al.(2010),english,Eric,Nick,mesmerised,Eric,Subject,No,Object,0.982013776,Nick couldn't look away.,Object,free
+I56,Zack enraged Steve.,M,IC1,Ferstl et al.(2010),english,Zack,Steve,enraged,Z,Subject,No,Object,0.99682733,"Steve clenched his fists, ready to retaliate.",Object,free
+I57,Ben enticed Brian.,M,IC1,Ferstl et al.(2010),english,Ben,Brian,enticed,Ben,Subject,No,Object,0.952574109,Brian hesitated for a moment.,Object,free
+I58,Paul provoked Frank.,M,IC1,Ferstl et al.(2010),english,Paul,Frank,provoked,Paul,Subject,No,Object,0.962672994,Frank clenched his fists.,Object,free
+I59,David unnerved Simon.,M,IC1,Ferstl et al.(2010),english,David,Simon,unnerved,David,Subject,Yes,Subject,0.904650432,Simon avoided making eye contact.,Object,free
+I60,Nick frightened Justin.,M,IC1,Ferstl et al.(2010),english,Nick,Justin,frightened,Nick,Subject,No,Object,0.995929904,"Justin took a step back, his heart pounding in his chest.",Object,free
+I61,Steve troubled Mike.,M,IC1,Ferstl et al.(2010),english,Steve,Mike,troubled,Steve,Subject,No,Object,0.817574431,Mike decided to confront Steve.,Object,free
+I62,Brian repelled Tony.,M,IC1,Ferstl et al.(2010),english,Brian,Tony,repelled,Brian,Subject,Yes,Subject,0.99142243,Tony clenched his jaw and took a step back.,Object,free
+I63,Frank sickened Eric.,M,IC1,Ferstl et al.(2010),english,Frank,Eric,sickened,Frank,Subject,No,Object,0.679178676,Eric couldn't forget the look in Frank's eyes.,Object,free
+I64,Simon revolted Zack.,M,IC1,Ferstl et al.(2010),english,Simon,Zack,revolted,Simon,Subject,Yes,Subject,0.4378235,Zack glared at Simon and crossed his arms.,Object,free
+I65,Justin trailed Ben.,M,IC1,Ferstl et al.(2010),english,Justin,Ben,trailed,Ben,Object,No,Object,0.880796994,"Ben glanced over his shoulder, sensing the weight of Justin's gaze.",Object,free
+I66,Mike upset David.,M,IC1,Ferstl et al.(2010),english,Mike,David,upset,Mike,Subject,No,Object,0.99966459,David walked away without saying a word.,Object,free
+I67,Tony exhausted Nick.,M,IC1,Ferstl et al.(2010),english,Tony,Nick,exhausted,Tony,Subject,No,Object,0.817574431,Nick sighed heavily.,Object,free
+I68,Eric wearied Steve.,M,IC1,Ferstl et al.(2010),english,Eric,Steve,wearied,Eric,Subject,No,Object,0.119202913,Steve decided to step outside for some fresh air.,Object,free
+I69,Zack staggered Brian.,M,IC1,Ferstl et al.(2010),english,Zack,Brian,staggered,Z,Subject,Yes,Subject,0.880796994,"Brian glared at Zack, his eyes narrowing in disbelief. ",Object,free
+I70,Ben cheated Frank.,M,IC1,Ferstl et al.(2010),english,Ben,Frank,cheated,Ben,Subject,Yes,Subject,0.4378235,Frank decided to confront him.,Object,free
+I71,Paul repaid Simon.,M,IC1,Ferstl et al.(2010),english,Paul,Simon,repaid,Paul,Subject,No,Object,0.4378235,Simon thanked him.,Object,free
+I72,David astounded Justin.,M,IC1,Ferstl et al.(2010),english,David,Justin,astounded,David,Subject,Yes,Subject,0.880796994,Justin struggled to find the right words.,Object,free
+I73,Nick exhilarated Mike.,M,IC1,Ferstl et al.(2010),english,Nick,Mike,exhilarated,Nick,Subject,No,Object,0.995929904,Mike couldn't help but grin.,Object,free
+I74,Steve spooked Tony.,M,IC1,Ferstl et al.(2010),english,Steve,Tony,spooked,Steve,Subject,No,Object,0.817574431,Tony narrowed his eyes and crossed his arms.,Object,free
+I75,Brian unsettled Eric.,M,IC1,Ferstl et al.(2010),english,Brian,Eric,unsettled,Brian,Subject,No,Object,0.989012988,"Eric took a step back, his brow furrowing in confusion.",Object,free
+I76,Frank flabbergasted Zack.,M,IC1,Ferstl et al.(2010),english,Frank,Zack,flabbergasted,Frank,Subject,Yes,Subject,0.268941405,"Zack stood frozen, struggling to find the right words.",Object,free
+I77,Simon kissed Ben.,M,IC1,Ferstl et al.(2010),english,Simon,Ben,kissed,Simon,Subject,No,Object,0.999998138,Ben smiled softly.,Object,free
+I78,Justin nuzzled Paul.,M,IC1,Ferstl et al.(2010),english,Justin,Paul,nuzzled,Justin,Subject,No,Object,0.999088952,Paul smiled softly in response.,Object,free
+I79,Mike pained Nick.,M,IC1,Ferstl et al.(2010),english,Mike,Nick,pained,Mike,Subject,No,Object,0.998830459,Nick clenched his fists.,Object,free
+I80,Tony confused Steve.,M,IC1,Ferstl et al.(2010),english,Tony,Steve,confused,Tony,Subject,Yes,Subject,0.939913259,Steve furrowed his brow in frustration.,Object,free
+I81,Eric distressed Brian.,M,IC1,Ferstl et al.(2010),english,Eric,Brian,distressed,Eric,Subject,No,Object,0.679178676,Brian clenched his fists in frustration.,Object,free
+I82,Zack vexed Frank.,M,IC1,Ferstl et al.(2010),english,Zack,Frank,vexed,Z,Subject,No,Object,0.997527403,Frank clenched his fists.,Object,free
+I83,Ben bothered Simon.,M,IC1,Ferstl et al.(2010),english,Ben,Simon,bothered,Ben,Subject,Yes,Subject,0.99142243,Simon turned to face him.,Object,free
+I84,Paul alarmed Justin.,M,IC1,Ferstl et al.(2010),english,Paul,Justin,alarmed,Paul,Subject,No,Object,0.268941405,Justin immediately took a step back.,Object,free
+I85,David disgruntled Mike.,M,IC1,Ferstl et al.(2010),english,David,Mike,disgruntled,David,Subject,No,Object,0.995929904,Mike clenched his fists in frustration.,Object,free
+I86,Nick plagued Tony.,M,IC1,Ferstl et al.(2010),english,Nick,Tony,plagued,Nick,Subject,No,Object,0.622459256,Tony clenched his fists.,Object,free
+I87,Steve shadowed Eric.,M,IC1,Ferstl et al.(2010),english,Steve,Eric,shadowed,Steve,Subject,No,Object,0.985936321,"Eric glanced over his shoulder, sensing the presence.",Object,free
+I88,Brian tailed Zack.,M,IC1,Ferstl et al.(2010),english,Brian,Zack,tailed,Brian,Subject,Yes,Subject,0.970687705,He wondered what Zack was hiding.,Subject,free
+I89,Frank incensed Ben.,M,IC1,Ferstl et al.(2010),english,Frank,Ben,incensed,Frank,Subject,Yes,Subject,0.817574431,Ben clenched his fists in frustration.,Object,free
+I90,Simon baffled Paul.,M,IC1,Ferstl et al.(2010),english,Simon,Paul,baffled,Simon,Subject,No,Object,0.817574431,Paul shook his head in disbelief.,Object,free
+I91,Justin shocked David.,M,IC1,Ferstl et al.(2010),english,Justin,David,shocked,Justin,Subject,No,Object,0.985936321,"David stumbled back, his face twisted in confusion.",Object,free
+I92,Mike disobeyed Steve.,M,IC1,Ferstl et al.(2010),english,Mike,Steve,disobeyed,Mike,Subject,No,Object,0.995929904,Steve glared at him in frustration.,Object,free
+I93,Tony distracted Brian.,M,IC1,Ferstl et al.(2010),english,Tony,Brian,distracted,Tony,Subject,No,Object,0.679178676,Brian turned to see what Tony was pointing at.,Object,free
+I94,Eric married Frank.,M,IC1,Ferstl et al.(2010),english,Eric,Frank,married,Eric,Subject,No,Object,0.998498649,They decided to move to a quiet house in the countryside.,they,free
+I95,Zack met Simon.,M,IC1,Ferstl et al.(2010),english,Zack,Simon,met,Z,Subject,No,Object,0.268941405,Simon extended his hand for a firm handshake.,Object,free
+I96,Ben ordered around Justin.,M,IC1,Ferstl et al.(2010),english,Ben,Justin,ordered around,Ben,Subject,No,Object,0.982013659,Justin clenched his fists but took a deep breath to stay calm.,Object,free
+I97,Paul harmed Mike.,M,IC1,Ferstl et al.(2010),english,Paul,Mike,harmed,Paul,Subject,No,Object,0.982013776,Mike decided to confront Paul about his actions.,Object,free
+I98,David astonished Tony.,M,IC1,Ferstl et al.(2010),english,David,Tony,astonished,David,Subject,No,Object,0.962672994,Tony took a moment to process what just happened.,Object,free
+I99,Nick bewildered Eric.,M,IC1,Ferstl et al.(2010),english,Nick,Eric,bewildered,Nick,Subject,Yes,Subject,0.952574109,"Eric took a step back, trying to process what had just happened.",Object,free
+I100,Steve invigorated Zack.,M,IC1,Ferstl et al.(2010),english,Steve,Zack,invigorated,Steve,Subject,No,Object,0.99979648,"Zack stood up straighter, feeling a surge of determination.",Object,free
+I101,Brian tantalized Ben.,M,IC1,Ferstl et al.(2010),english,Brian,Ben,tantalized,Brian,Subject,No,Object,0.998498768,Ben clenched his fists in frustration.,Object,free
+I102,Frank battled Paul.,M,IC1,Ferstl et al.(2010),english,Frank,Paul,battled,Frank,Subject,No,Object,0.989012988,Paul countered with a swift strike.,Object,free
+I103,Simon hurt David.,M,IC1,Ferstl et al.(2010),english,Simon,David,hurt,Simon,Subject,No,Object,0.999986933,"David stepped back, clutching his arm in shock.",Object,free
+I104,Justin followed Nick.,M,IC1,Ferstl et al.(2010),english,Justin,Nick,followed,Justin,Subject,Yes,Subject,0.998073226,He wondered where Nick was leading him.,Subject,free
+I105,Mike tormented Brian.,M,IC1,Ferstl et al.(2010),english,Mike,Brian,tormented,Mike,Subject,No,Object,0.977022617,Brian decided to confront Mike.,Object,free
+I106,Tony grazed Frank.,M,IC1,Ferstl et al.(2010),english,Tony,Frank,grazed,Tony,Subject,No,Object,0.991422312,"Frank staggered back, his jaw tightening.",Object,free
+I107,Eric played Simon.,M,IC1,Ferstl et al.(2010),english,Eric,Simon,played,Eric,Subject,No,Object,0.777299797,Simon responded with a smirk.,Object,free
+I108,Zack dumbfounded Justin.,M,IC1,Ferstl et al.(2010),english,Zack,Justin,dumbfounded,Z,Subject,No,Object,0.437823474,Justin stared at Zack in disbelief.,Object,free
+I109,Ben flattered Mike.,M,IC1,Ferstl et al.(2010),english,Ben,Mike,flattered,Ben,Subject,No,Object,0.999980972,"Mike smiled, appreciating the compliment.",Object,free
+I110,Paul alienated Tony.,M,IC1,Ferstl et al.(2010),english,Paul,Tony,alienated,Tony,Object,Yes,Subject,0.320821271,Tony decided to keep his distance.,Object,free
+I111,David harassed Eric.,M,IC1,Ferstl et al.(2010),english,David,Eric,harassed,David,Subject,No,Object,0.904650432,Eric decided to report David's behavior to their supervisor.,Object,free
+I112,Nick approached Zack.,M,IC1,Ferstl et al.(2010),english,Nick,Zack,approached,Nick,Subject,No,Object,0.970687705,Zack looked up and gave a faint smile.,Object,free
+I113,Steve beguiled Ben.,M,IC1,Ferstl et al.(2010),english,Steve,Ben,beguiled,Steve,Subject,Yes,Subject,0.148047208,Ben retaliated swiftly.,Object,free
+I114,Brian caressed Paul.,M,IC1,Ferstl et al.(2010),english,Brian,Paul,caressed,Brian,Subject,No,Object,0.99999623,Paul leaned into the touch.,Object,free
+I115,Frank enlivened David.,M,IC1,Ferstl et al.(2010),english,Frank,David,enlivened,Frank,Subject,No,Object,0.995929904,David smiled for the first time in days.,Object,free
+I116,Simon corrupted Nick.,M,IC1,Ferstl et al.(2010),english,Simon,Nick,corrupted,Simon,Subject,No,Object,0.995929904,Nick sought revenge.,Object,free
+I117,Justin confounded Steve.,M,IC1,Ferstl et al.(2010),english,Justin,Steve,confounded,Justin,Subject,Yes,Subject,0.817574431,"Steve paused, trying to make sense of what had just happened.",Object,free
+I118,Mike deserted Frank.,M,IC1,Ferstl et al.(2010),english,Mike,Frank,deserted,Mike,Subject,No,Object,0.998830459,"Frank stood in silence, unsure of what to do next.",Object,free
+I119,Tony discouraged Simon.,M,IC1,Ferstl et al.(2010),english,Tony,Simon,discouraged,Tony,Subject,No,Object,0.904650432,Simon refused to back down.,Object,free
+I120,Eric tracked Justin.,M,IC1,Ferstl et al.(2010),english,Eric,Justin,tracked,Eric,Subject,No,Object,0.999290323,He moved stealthily to avoid being noticed.,Subject,free
+I121,Zack startled Mike.,M,IC1,Ferstl et al.(2010),english,Zack,Mike,startled,Z,Subject,No,Object,0.994779909,"Mike took a step back, his eyes wide with surprise.",Object,free
+I122,Ben defamed Tony.,M,IC1,Ferstl et al.(2010),english,Ben,Tony,defamed,Ben,Subject,No,Object,0.999964523,Tony decided to confront Ben.,Object,free
+I123,Paul abandoned Eric.,M,IC1,Ferstl et al.(2010),english,Paul,Eric,abandoned,Paul,Subject,Yes,Subject,0.851952735,"Eric stood motionless, staring after him.",Object,free
+I124,David courted Zack.,M,IC1,Ferstl et al.(2010),english,David,Zack,courted,David,Subject,No,Object,0.970687705,Zack found himself unexpectedly intrigued.,Object,free
+I125,Nick wounded Ben.,M,IC1,Ferstl et al.(2010),english,Nick,Ben,wounded,Nick,Subject,No,Object,0.995929904,"Ben staggered backward, clutching his side.",Object,free
+I126,Steve chilled Paul.,M,IC1,Ferstl et al.(2010),english,Steve,Paul,chilled,Steve,Subject,No,Object,0.731058513,Paul shivered uncontrollably.,Object,free
+I127,Brian nettled David.,M,IC1,Ferstl et al.(2010),english,Brian,David,nettled,Brian,Subject,No,Object,0.851952824,David clenched his fists.,Object,free
+I128,Frank pursued Nick.,M,IC1,Ferstl et al.(2010),english,Frank,Nick,pursued,Frank,Subject,No,Object,0.998498768,Nick darted into the alley.,Object,free
+I129,Simon dreamed about Steve.,M,IC1,Ferstl et al.(2010),english,Simon,Steve,dreamed about,Simon,Subject,No,Object,0.999997899,"Steve stood at the edge of a vast, glowing forest, beckoning him to follow.",Object,free
+I130,Justin galled Brian.,M,IC1,Ferstl et al.(2010),english,Justin,Brian,galled,Justin,Subject,Yes,Subject,0.904650432,Brian clenched his fists in frustration.,Object,free
+I131,Mike stimulated Simon.,M,IC1,Ferstl et al.(2010),english,Mike,Simon,stimulated,Mike,Subject,No,Object,0.999290323,Simon responded with a puzzled expression.,Object,free
+I132,Tony affected Justin.,M,IC1,Ferstl et al.(2010),english,Tony,Justin,affected,Tony,Subject,No,Object,0.982013776,Justin felt the weight of Tony's words.,Object,free
+I133,Eric embraced Mike.,M,IC1,Ferstl et al.(2010),english,Eric,Mike,embraced,Eric,Subject,No,Object,0.999569424,Mike patted Eric on the back.,Object,free
+I134,Zack fazed Tony.,M,IC1,Ferstl et al.(2010),english,Zack,Tony,fazed,Z,Subject,Yes,Subject,0.880796994,Tony clenched his fists.,Object,free
+I135,Ben debated with Eric.,M,IC1,Ferstl et al.(2010),english,Ben,Eric,debated with,Ben,Subject,No,Object,0.851952824,Eric stood his ground firmly.,Object,free
+I136,Paul defied Zack.,M,IC1,Ferstl et al.(2010),english,Paul,Zack,defied,Paul,Subject,No,Object,0.904650432,Zack clenched his fists.,Object,free
+I137,David questioned Ben.,M,IC1,Ferstl et al.(2010),english,David,Ben,questioned,David,Subject,No,Object,0.99944712,Ben hesitated before giving his response.,Object,free
+I138,Nick assisted Paul.,M,IC2,Rohde & Kehler (2014),english,Nick,Paul,assisted,Nick,Subject,No,Object,0.924141771,Paul thanked Nick for his help.,Object,free
+I139,Steve blames David.,M,IC2,Rohde & Kehler (2014),english,Steve,David,blames,Steve,Subject,No,Object,0.999738698,David denies responsibility.,Object,free
+I140,Brian comforted Nick.,M,IC2,Rohde & Kehler (2014),english,Brian,Nick,comforted,Brian,Subject,No,Object,0.99944712,Nick appreciated Brian's support.,Object,free
+I141,Frank congratulated Steve.,M,IC2,Rohde & Kehler (2014),english,Frank,Steve,congratulated,Frank,Subject,No,Object,0.999997661,Steve thanked him warmly.,Object,free
+I142,Simon corrected Brian.,M,IC2,Rohde & Kehler (2014),english,Simon,Brian,corrected,Simon,Subject,No,Object,0.952574109,Brian nodded thoughtfully.,Object,free
+I143,Justin detests Frank.,M,IC2,Rohde & Kehler (2014),english,Justin,Frank,detests,Justin,Subject,No,Object,0.995929904,Frank is oblivious to Justin's feelings.,Object,free
+I144,Mike fears Justin.,M,IC2,Rohde & Kehler (2014),english,Mike,Justin,fears,Mike,Subject,No,Object,0.999948431,Justin senses Mike's unease.,Object,free
+I145,Tony envies Mike.,M,IC2,Rohde & Kehler (2014),english,Tony,Mike,envies,Tony,Subject,No,Object,0.999903852,Mike inspires Tony.,Object,free
+I146,Eric hates Tony.,M,IC2,Rohde & Kehler (2014),english,Eric,Tony,hates,Eric,Subject,No,Object,0.970687705,Tony knows this.,Object,free
+I147,Zack helped Eric.,M,IC2,Rohde & Kehler (2014),english,Zack,Eric,helped,Z,Subject,No,Object,0.777299867,Eric thanked Zack.,Object,free
+I148,Ben mocked Zack.,M,IC2,Rohde & Kehler (2014),english,Ben,Zack,mocked,Ben,Subject,No,Object,0.99142243,Zack clenched his fists.,Object,free
+I149,Paul noticed Ben.,M,IC2,Rohde & Kehler (2014),english,Paul,Ben,noticed,Paul,Subject,No,Object,0.999738698,"Ben looked away, pretending not to see him.",Object,free
+I150,David pacified Paul.,M,IC2,Rohde & Kehler (2014),english,David,Paul,pacified,David,Subject,No,Object,0.982013776,Paul took a deep breath.,Object,free
+I151,Nick praised David.,M,IC2,Rohde & Kehler (2014),english,Nick,David,praised,Nick,Subject,No,Object,0.99997239,David smiled modestly.,Object,free
+I152,Steve reproached Nick.,M,IC2,Rohde & Kehler (2014),english,Steve,Nick,reproached,Steve,Subject,No,Object,0.99966459,Nick looked away silently.,Object,free
+I153,Brian scolded Steve.,M,IC2,Rohde & Kehler (2014),english,Brian,Steve,scolded,Brian,Subject,No,Object,0.952574109,Steve clenched his fists in frustration.,Object,free
+I154,Frank stared at Brian.,M,IC2,Rohde & Kehler (2014),english,Frank,Brian,stared at,Frank,Subject,No,Object,0.999997422,Brian met his gaze with a hint of defiance.,Object,free
+I155,Simon thanked Frank.,M,IC2,Rohde & Kehler (2014),english,Simon,Frank,thanked,Simon,Subject,No,Object,0.999993727,Frank nodded in acknowledgment.,Object,free
+I156,Justin trusted Simon.,M,IC2,Rohde & Kehler (2014),english,Justin,Simon,trusted,Justin,Subject,No,Object,0.777299867,Simon had never given him a reason not to.,Object,free
+I157,Mike values Tony.,M,IC2,Rohde & Kehler (2014),english,Mike,Tony,values,Mike,Subject,No,Object,0.999925069,Tony respects Mike.,Object,free
+I158,Tony cuddled Eric.,M,IC2,Ferstl et al.(2010),english,Tony,Eric,cuddled,Tony,Subject,No,Object,0.997527403,Eric smiled softly.,Object,free
+I159,Eric decried Zack.,M,IC2,Ferstl et al.(2010),english,Eric,Zack,decried,Eric,Subject,No,Object,0.989012988,"Zack stood silently, his expression unyielding.",Object,free
+I160,Zack moved Ben.,M,IC2,Ferstl et al.(2010),english,Zack,Ben,moved,Z,Subject,Yes,Subject,0.562176503,Ben stumbled but quickly regained his balance.,Object,free
+I161,Ben deprecated Paul.,M,IC2,Ferstl et al.(2010),english,Ben,Paul,deprecated,Ben,Subject,No,Object,0.999088952,Paul ignored him.,Object,free
+I162,Paul encouraged David.,M,IC2,Ferstl et al.(2010),english,Paul,David,encouraged,Paul,Subject,No,Object,0.997527403,David nodded thoughtfully.,Object,free
+I163,David played with Nick.,M,IC2,Ferstl et al.(2010),english,David,Nick,played with,David,Subject,No,Object,0.993307127,Nick laughed as he tried to dodge the ball.,Object,free
+I164,Nick hit Steve.,M,IC2,Ferstl et al.(2010),english,Nick,Steve,hit,Nick,Subject,No,Object,0.952574109,Steve stumbled backward.,Object,free
+I165,Steve reproved Brian.,M,IC2,Ferstl et al.(2010),english,Steve,Brian,reproved,Steve,Subject,No,Object,0.99142243,Brian crossed his arms and looked away.,Object,free
+I166,Brian forgot Frank.,M,IC2,Ferstl et al.(2010),english,Brian,Frank,forgot,Brian,Subject,No,Object,0.999569424,Frank remembered Brian.,Object,free
+I167,Frank exalted Simon.,M,IC2,Ferstl et al.(2010),english,Frank,Simon,exalted,Frank,Subject,No,Object,0.999738698,Simon humbly nodded in acknowledgment.,Object,free
+I168,Simon instructed Justin.,M,IC2,Ferstl et al.(2010),english,Simon,Justin,instructed,Simon,Subject,Yes,Subject,0.777299867,Justin nodded and got to work.,Object,free
+I169,Justin warned Mike.,M,IC2,Ferstl et al.(2010),english,Justin,Mike,warned,Justin,Subject,No,Object,0.939913259,Mike hesitated before responding.,Object,free
+I170,Mike welcomed Eric.,M,IC2,Ferstl et al.(2010),english,Mike,Eric,welcomed,Mike,Subject,No,Object,0.989012988,Eric smiled warmly.,Object,free
+I171,Tony rebuked Zack.,M,IC2,Ferstl et al.(2010),english,Tony,Zack,rebuked,Tony,Subject,No,Object,0.99944712,Zack clenched his fists in frustration.,Object,free
+I172,Eric blessed Ben.,M,IC2,Ferstl et al.(2010),english,Eric,Ben,blessed,Eric,Subject,No,Object,0.999876565,Ben thanked Eric warmly.,Object,free
+I173,Zack divorced Paul.,M,IC2,Ferstl et al.(2010),english,Zack,Paul,divorced,Z,Subject,No,Object,0.99142243,Paul moved to a new city.,Object,free
+I174,Ben persecuted David.,M,IC2,Ferstl et al.(2010),english,Ben,David,persecuted,Ben,Subject,No,Object,0.952574109,David decided to confront Ben.,Object,free
+I175,Paul derided Nick.,M,IC2,Ferstl et al.(2010),english,Paul,Nick,derided,Paul,Subject,No,Object,0.962672994,Nick remained calm.,Object,free
+I176,David wanted Steve.,M,IC2,Ferstl et al.(2010),english,David,Steve,wanted,David,Subject,No,Object,0.998498768,Steve had always been the one who understood him best.,Object,free
+I177,Nick advised Brian.,M,IC2,Ferstl et al.(2010),english,Nick,Brian,advised,Nick,Subject,Yes,Subject,0.008577485,Brian took a moment to consider the suggestion.,Object,free
+I178,Steve supported Frank.,M,IC2,Ferstl et al.(2010),english,Steve,Frank,supported,Steve,Subject,No,Object,0.995929904,Frank appreciated Steve's kindness.,Object,free
+I179,Brian chastened Simon.,M,IC2,Ferstl et al.(2010),english,Brian,Simon,chastened,Brian,Subject,No,Object,0.970687705,"Simon lowered his gaze, his shoulders slumping under the weight of the rebuke.",Object,free
+I180,Frank led Justin.,M,IC2,Ferstl et al.(2010),english,Frank,Justin,led,Frank,Subject,Yes,Subject,0.99142243,Justin followed hesitantly.,Object,free
+I181,Simon petted Mike.,M,IC2,Ferstl et al.(2010),english,Simon,Mike,petted,Simon,Subject,No,Object,0.999925069,Mike wagged his tail.,Object,free
+I182,Justin admonished Tony.,M,IC2,Ferstl et al.(2010),english,Justin,Tony,admonished,Justin,Subject,Yes,Subject,0.029312226,Tony lowered his gaze apologetically.,Object,free
+I183,Mike rushed to Zack.,M,IC2,Ferstl et al.(2010),english,Mike,Zack,rushed to,Mike,Subject,Yes,Subject,0.320821271,Zack turned to him with a worried expression.,Object,free
+I184,Tony venerated Ben.,M,IC2,Ferstl et al.(2010),english,Tony,Ben,venerated,Tony,Subject,No,Object,0.999569424,He often looked to him for guidance and inspiration.,Subject,free
+I185,Eric chased Paul.,M,IC2,Ferstl et al.(2010),english,Eric,Paul,chased,Eric,Subject,No,Object,0.985936321,Paul darted around the corner.,Object,free
+I186,Zack deplored David.,M,IC2,Ferstl et al.(2010),english,Zack,David,deplored,Z,Subject,No,Object,0.989012988,David remained indifferent.,Object,free
+I187,Ben chided Nick.,M,IC2,Ferstl et al.(2010),english,Ben,Nick,chided,Ben,Subject,No,Object,0.993307127,Nick crossed his arms and frowned.,Object,free
+I188,Paul cautioned Steve.,M,IC2,Ferstl et al.(2010),english,Paul,Steve,cautioned,Paul,Subject,No,Object,0.777299867,Steve nodded thoughtfully.,Object,free
+I189,David denounced Brian.,M,IC2,Ferstl et al.(2010),english,David,Brian,denounced,David,Subject,No,Object,0.999088952,Brian remained silent.,Object,free
+I190,Nick escorted Frank.,M,IC2,Ferstl et al.(2010),english,Nick,Frank,escorted,Nick,Subject,No,Object,0.993307127,They walked in silence for a moment.,they,free
+I191,Steve lauded Simon.,M,IC2,Ferstl et al.(2010),english,Steve,Simon,lauded,Steve,Subject,No,Object,0.999989793,Simon graciously accepted the compliment.,Object,free
+I192,Brian pardoned Justin.,M,IC2,Ferstl et al.(2010),english,Brian,Justin,pardoned,Brian,Subject,Yes,Subject,0.182425503,Justin smiled softly.,Object,free
+I193,Frank disdained Mike.,M,IC2,Ferstl et al.(2010),english,Frank,Mike,disdained,Frank,Subject,No,Object,0.939913259,Mike remained oblivious to Frank's contempt.,Object,free
+I194,Simon caught Tony.,M,IC2,Ferstl et al.(2010),english,Simon,Tony,caught,Simon,Subject,No,Object,0.679178676,Tony struggled to break free.,Object,free
+I195,Justin prosecuted Eric.,M,IC2,Ferstl et al.(2010),english,Justin,Eric,prosecuted,Justin,Subject,No,Object,0.985936321,Eric defended himself passionately.,Object,free
+I196,Mike castigated Ben.,M,IC2,Ferstl et al.(2010),english,Mike,Ben,castigated,Mike,Subject,No,Object,0.999941637,"Ben remained silent, his jaw tightening.",Object,free
+I197,Tony criticized Paul.,M,IC2,Ferstl et al.(2010),english,Tony,Paul,criticized,Tony,Subject,No,Object,0.999738698,Paul defended himself.,Object,free
+I198,Eric hailed David.,M,IC2,Ferstl et al.(2010),english,Eric,David,hailed,Eric,Subject,No,Object,0.999088952,"David turned around, surprised.",Object,free
+I199,Zack missed Nick.,M,IC2,Ferstl et al.(2010),english,Zack,Nick,missed,Z,Subject,No,Object,0.999569424,He decided to give him a call.,Subject,free
+I200,Ben visited Steve.,M,IC2,Ferstl et al.(2010),english,Ben,Steve,visited,Ben,Subject,No,Object,0.994779909,Steve greeted Ben warmly.,Object,free
+I201,Paul complimented Brian.,M,IC2,Ferstl et al.(2010),english,Paul,Brian,complimented,Paul,Subject,No,Object,0.999986933,Brian smiled appreciatively.,Object,free
+I202,David grieved Frank.,M,IC2,Ferstl et al.(2010),english,David,Frank,grieved,David,Subject,No,Object,0.99682733,He couldn't fathom a world without his closest friend.,Subject,free
+I203,Nick protected Simon.,M,IC2,Ferstl et al.(2010),english,Nick,Simon,protected,Nick,Subject,Yes,Subject,0.777299867,Simon thanked Nick sincerely.,Object,free
+I204,Steve relished Justin.,M,IC2,Ferstl et al.(2010),english,Steve,Justin,relished,Steve,Subject,No,Object,0.977022617,"Justin smiled, sensing the warmth behind Steve's expression.",Object,free
+I205,Brian shook Mike.,M,IC2,Ferstl et al.(2010),english,Brian,Mike,shook,Brian,Subject,No,Object,0.731058579,Mike looked at him with confusion.,Object,free
+I206,Frank accompanied Tony.,M,IC2,Ferstl et al.(2010),english,Frank,Tony,accompanied,Frank,Subject,Yes,Subject,0.970687705,They walked together toward the bustling marketplace.,they,free
+I207,Simon cheered Eric.,M,IC2,Ferstl et al.(2010),english,Simon,Eric,cheered,Simon,Subject,No,Object,0.994779909,Eric smiled warmly.,Object,free
+I208,Justin saluted Zack.,M,IC2,Ferstl et al.(2010),english,Justin,Zack,saluted,Justin,Subject,No,Object,0.999569424,Zack nodded in acknowledgment.,Object,free
+I209,Mike scorned Paul.,M,IC2,Ferstl et al.(2010),english,Mike,Paul,scorned,Mike,Subject,No,Object,0.999569424,Paul glared back at Mike.,Object,free
+I210,Tony excused David.,M,IC2,Ferstl et al.(2010),english,Tony,David,excused,Tony,Subject,No,Object,0.99944712,David nodded quietly and walked away.,Object,free
+I211,Eric reprimanded Nick.,M,IC2,Ferstl et al.(2010),english,Eric,Nick,reprimanded,Eric,Subject,No,Object,0.998830459,"Nick looked away, avoiding Eric's glare.",Object,free
+I213,Ben chastized Brian.,M,IC2,Ferstl et al.(2010),english,Ben,Brian,chastized,Ben,Subject,No,Object,0.99142243,Brian crossed his arms and looked away.,Object,free
+I214,Paul freed Frank.,M,IC2,Ferstl et al.(2010),english,Paul,Frank,freed,Paul,Subject,No,Object,0.995929904,Frank thanked Paul.,Object,free
+I216,Nick cherished Justin.,M,IC2,Ferstl et al.(2010),english,Nick,Justin,cherished,Nick,Subject,No,Object,0.99979648,Justin always appreciated the way Nick expressed his care.,Object,free
+I217,Steve esteemed Mike.,M,IC2,Ferstl et al.(2010),english,Steve,Mike,esteemed,Steve,Subject,No,Object,0.999738698,Mike appreciated Steve.,Object,free
+I218,Brian believed Tony.,M,IC2,Ferstl et al.(2010),english,Brian,Tony,believed,Brian,Subject,No,Object,0.994779909,He knew that Tony had never lied to him before.,Subject,free
+I219,Frank worshipped Eric.,M,IC2,Ferstl et al.(2010),english,Frank,Eric,worshipped,Frank,Subject,No,Object,0.999985144,Eric enjoyed the admiration.,Object,free
+I220,Simon banished Zack.,M,IC2,Ferstl et al.(2010),english,Simon,Zack,banished,Simon,Subject,Yes,Subject,0.320821271,Zack vowed to return stronger.,Object,free
+I221,Justin complemented Ben.,M,IC2,Ferstl et al.(2010),english,Justin,Ben,complemented,Justin,Subject,No,Object,0.999290323,Ben smiled in appreciation.,Object,free
+I222,Mike abhorred David.,M,IC2,Ferstl et al.(2010),english,Mike,David,abhorred,Mike,Subject,No,Object,0.999841528,He avoided him at every opportunity.,Subject,free
+I223,Tony honoured Nick.,M,IC2,Ferstl et al.(2010),english,Tony,Nick,honoured,Tony,Subject,No,Object,0.999290323,Nick graciously accepted the recognition.,Object,free
+I224,Eric revered Steve.,M,IC2,Ferstl et al.(2010),english,Eric,Steve,revered,Steve,Object,Yes,Subject,0.989012988,He sought his guidance in difficult times.,Subject,free
+I225,Zack yelled at Brian.,M,IC2,Ferstl et al.(2010),english,Zack,Brian,yelled at,Z,Subject,Yes,Subject,0.622459311,Brian clenched his fists in frustration.,Object,free
+I226,Ben acclaimed Frank.,M,IC2,Ferstl et al.(2010),english,Ben,Frank,acclaimed,Ben,Subject,No,Object,0.998830459,Frank nodded in appreciation.,Object,free
+I227,Paul censured Simon.,M,IC2,Ferstl et al.(2010),english,Paul,Simon,censured,Paul,Subject,No,Object,0.99997239,Simon remained silent.,Object,free
+I228,David ridiculed Justin.,M,IC2,Ferstl et al.(2010),english,David,Justin,ridiculed,David,Subject,No,Object,0.977022617,Justin clenched his fists.,Object,free
+I229,Nick reassured Mike.,M,IC2,Ferstl et al.(2010),english,Nick,Mike,reassured,Nick,Subject,No,Object,0.995929904,Mike nodded slowly.,Object,free
+I230,Steve condemned Tony.,M,IC2,Ferstl et al.(2010),english,Steve,Tony,condemned,Steve,Subject,Yes,Subject,0.880796994,Tony remained silent.,Object,free
+I231,Brian answered Eric.,M,IC2,Ferstl et al.(2010),english,Brian,Eric,answered,Brian,Subject,Yes,Subject,0.970687705,"Eric tilted his head, trying to process Brian's words.",Object,free
+I232,Frank toasted Zack.,M,IC2,Ferstl et al.(2010),english,Frank,Zack,toasted,Frank,Subject,No,Object,0.99682733,Zack raised his glass with a grin.,Object,free
+I233,Simon hired Ben.,M,IC2,Ferstl et al.(2010),english,Simon,Ben,hired,Simon,Subject,No,Object,0.999088952,Ben started working immediately.,Object,free
+I234,Justin idolized Paul.,M,IC2,Ferstl et al.(2010),english,Justin,Paul,idolized,Paul,Object,No,Object,0.999964523,He wanted to emulate his confidence and charisma.,Subject,free
+I235,Mike counseled Nick.,M,IC2,Ferstl et al.(2010),english,Mike,Nick,counseled,Mike,Subject,No,Object,0.998830459,Nick took a deep breath and nodded.,Object,free
+I237,Eric worried about Brian.,M,IC2,Ferstl et al.(2010),english,Eric,Brian,worried about,Eric,Subject,No,Object,0.999738698,Brian seemed unusually quiet.,Object,free
+I238,Zack celebrated Frank.,M,IC2,Ferstl et al.(2010),english,Zack,Frank,celebrated,Z,Subject,No,Object,0.999876565,Frank smiled warmly and raised his glass in acknowledgment.,Object,free
+I239,Ben mourned Simon.,M,IC2,Ferstl et al.(2010),english,Ben,Simon,mourned,Ben,Subject,No,Object,0.939913259,He struggled to accept the silence Simon left behind.,Subject,free
+I240,Paul spanked Justin.,M,IC2,Ferstl et al.(2010),english,Paul,Justin,spanked,Paul,Subject,Yes,Subject,0.924141771,Justin turned around and glared at Paul.,Object,free
+I241,David dreaded Mike.,M,IC2,Ferstl et al.(2010),english,David,Mike,dreaded,David,Subject,No,Object,0.99979648,He knew their next encounter would be tense.,Subject,free
+I242,Nick guided Tony.,M,IC2,Ferstl et al.(2010),english,Nick,Tony,guided,Nick,Subject,Yes,Subject,0.994779909,Tony followed closely behind.,Object,free
+I243,Steve adored Eric.,M,IC2,Ferstl et al.(2010),english,Steve,Eric,adored,Steve,Subject,No,Object,0.999990985,He always admired his unwavering determination.,Subject,free
+I244,Brian consoled Zack.,M,IC2,Ferstl et al.(2010),english,Brian,Zack,consoled,Brian,Subject,Yes,Subject,0.679178676,He reassured him that everything would eventually be okay.,Subject,free
+I245,Frank prized Ben.,M,IC2,Ferstl et al.(2010),english,Frank,Ben,prized,Frank,Subject,No,Object,0.993307127,Ben valued Frank.,Object,free
+I246,Simon distrusted Paul.,M,IC2,Ferstl et al.(2010),english,Simon,Paul,distrusted,Simon,Subject,No,Object,0.999569424,Paul sensed the tension immediately.,Object,free
+I247,Justin employed David.,M,IC2,Ferstl et al.(2010),english,Justin,David,employed,Justin,Subject,No,Object,0.939913259,David quickly adapted to his new responsibilities.,Object,free
+I248,Mike punished Steve.,M,IC2,Ferstl et al.(2010),english,Mike,Steve,punished,Mike,Subject,No,Object,0.904650432,Steve glared at Mike.,Object,free
+I249,Tony resented Brian.,M,IC2,Ferstl et al.(2010),english,Tony,Brian,resented,Tony,Subject,No,Object,0.999290323,He couldn't shake the feeling of betrayal.,Subject,free
+I250,Eric treasured Frank.,M,IC2,Ferstl et al.(2010),english,Eric,Frank,treasured,Eric,Subject,No,Object,0.99979648,Frank valued Eric.,Object,free
+I251,Zack penalized Simon.,M,IC2,Ferstl et al.(2010),english,Zack,Simon,penalized,Z,Subject,No,Object,0.679178676,Simon remained silent.,Object,free
+I252,Ben sued Justin.,M,IC2,Ferstl et al.(2010),english,Ben,Justin,sued,Ben,Subject,Yes,Subject,0.562176503,Justin denied the allegations.,Object,free
+I253,Paul detested Mike.,M,IC2,Ferstl et al.(2010),english,Paul,Mike,detested,Paul,Subject,No,Object,0.999569424,Mike didn't care.,Object,free
+I255,Nick loved Eric.,M,IC2,Ferstl et al.(2010),english,Nick,Eric,loved,Nick,Subject,No,Object,0.999738698,Eric felt the same way about Nick.,Object,free
+I256,Steve commended Zack.,M,IC2,Ferstl et al.(2010),english,Steve,Zack,commended,Steve,Subject,No,Object,0.999941637,Zack responded with a grateful smile.,Object,free
+I257,Brian pitied Ben.,M,IC2,Ferstl et al.(2010),english,Brian,Ben,pitied,Brian,Subject,No,Object,0.999925069,He could see the exhaustion in his eyes.,Subject,free
+I258,Frank applauded Paul.,M,IC2,Ferstl et al.(2010),english,Frank,Paul,applauded,Frank,Subject,No,Object,0.99999921,Paul smiled warmly.,Object,free
+I259,Simon feared David.,M,IC2,Ferstl et al.(2010),english,Simon,David,feared,Simon,Subject,No,Object,0.999876565,He knew that David had a temper that could ignite without warning.,Subject,free
+I260,Justin fed Nick.,M,IC2,Ferstl et al.(2010),english,Justin,Nick,fed,Justin,Subject,No,Object,0.999569424,Nick thanked him.,Object,free
+I261,Mike loathed Brian.,M,IC2,Ferstl et al.(2010),english,Mike,Brian,loathed,Mike,Subject,No,Object,0.99682733,"Brian knew it, but he didn‚Äôt care.",Object,free
+I262,Tony rewarded Frank.,M,IC2,Ferstl et al.(2010),english,Tony,Frank,rewarded,Tony,Subject,No,Object,0.999569424,He handed him a crisp stack of hundred-dollar bills.,Subject,free
+I263,Eric appreciated Simon.,M,IC2,Ferstl et al.(2010),english,Eric,Simon,appreciated,Eric,Subject,No,Object,0.999841528,He admired his calm and thoughtful demeanor.,Subject,free
+I264,Zack despised Justin.,M,IC2,Ferstl et al.(2010),english,Zack,Justin,despised,Z,Subject,No,Object,0.99682733,He couldn‚Äôt understand how someone could be so arrogant.,Subject,free
+I265,Ben disliked Mike.,M,IC2,Ferstl et al.(2010),english,Ben,Mike,disliked,Ben,Subject,No,Object,0.994779909,Mike didn't seem to mind.,Object,free
+I266,Paul favoured Tony.,M,IC2,Ferstl et al.(2010),english,Paul,Tony,favoured,Paul,Subject,No,Object,0.998498768,Tony appreciated Paul's support.,Object,free
+I267,David hated Eric.,M,IC2,Ferstl et al.(2010),english,David,Eric,hated,David,Subject,No,Object,0.977022617,He couldn't stand the way Eric always acted like he was better than everyone else.,Subject,free
+I268,Nick liked Zack.,M,IC2,Ferstl et al.(2010),english,Nick,Zack,liked,Nick,Subject,No,Object,0.999941637,They often hung out after school.,they,free
+I269,Steve respected Ben.,M,IC2,Ferstl et al.(2010),english,Steve,Ben,respected,Steve,Subject,No,Object,0.999983237,Ben appreciated Steve's trust.,Object,free
+I270,Brian admired Paul.,M,IC2,Ferstl et al.(2010),english,Brian,Paul,admired,Brian,Subject,No,Object,0.999990985,Paul smiled warmly.,Object,free
+I271,Frank carried David.,M,IC2,Ferstl et al.(2010),english,Frank,David,carried,Frank,Subject,Yes,Subject,0.499999999,David rested his head on Frank's shoulder.,Object,free
+I272,Simon envied Nick.,M,IC2,Ferstl et al.(2010),english,Simon,Nick,envied,Simon,Subject,No,Object,0.999290323,He wished he possessed the same effortless charm.,Subject,free
+I273,Justin fancied Steve.,M,IC2,Ferstl et al.(2010),english,Justin,Steve,fancied,Justin,Subject,No,Object,0.99944712,Steve had no idea.,Object,free
+I274,Mike laughed at Frank.,M,IC2,Ferstl et al.(2010),english,Mike,Frank,laughed at,Mike,Subject,No,Object,0.993307127,Frank shook his head and smiled.,Object,free
+I275,Sarah aggravated Emily.,F,IC1,Rohde & Kehler (2014),english,Sarah,Emily,aggravated,Sarah,Subject,No,Object,0.995929904,Emily decided to walk away in silence.,Object,free
+I276,Emily amazed Megan.,F,IC1,Rohde & Kehler (2014),english,Emily,Megan,amazed,Emily,Subject,No,Object,0.997527403,Megan couldn't help but smile.,Object,free
+I277,Megan amused Angela.,F,IC1,Rohde & Kehler (2014),english,Megan,Angela,amused,M,Subject,No,Object,0.679178676,Angela couldn't help but laugh.,Object,free
+I278,Angela annoyed Anna.,F,IC1,Rohde & Kehler (2014),english,Angela,Anna,annoyed,Angela,Subject,No,Object,0.977022617,Anna crossed her arms and glared.,Object,free
+I279,Anna apologized to Nicole.,F,IC1,Rohde & Kehler (2014),english,Anna,Nicole,apologized to,Anna,Subject,No,Object,0.994779909,Nicole smiled and said it was okay.,Object,free
+I280,Nicole bored Claire.,F,IC1,Rohde & Kehler (2014),english,Nicole,Claire,bored,Nicole,Subject,No,Object,0.952574109,Claire sighed and glanced at her phone.,Object,free
+I281,Claire charmed Jane.,F,IC1,Rohde & Kehler (2014),english,Claire,Jane,charmed,Claire,Subject,No,Object,0.993307127,Jane smiled warmly.,Object,free
+I282,Jane offended Tina.,F,IC1,Rohde & Kehler (2014),english,Jane,Tina,offended,Jane,Subject,No,Object,0.999925069,Tina decided to confront Jane about her comments.,Object,free
+I283,Tina confessed to Kate.,F,IC1,Rohde & Kehler (2014),english,Tina,Kate,confessed to,T,Subject,No,Object,0.99979648,Kate looked at her with a mix of surprise and concern.,Object,free
+I284,Kate deceived Amy.,F,IC1,Rohde & Kehler (2014),english,Kate,Amy,deceived,Kate,Subject,No,Object,0.999290323,Amy realized the betrayal and confronted Kate directly.,Object,free
+I285,Amy disappointd Alice.,F,IC1,Rohde & Kehler (2014),english,Amy,Alice,disappointd,Amy,Subject,No,Object,0.924141771,Alice crossed her arms and looked away.,Object,free
+I286,Alice exasperated Sarah.,F,IC1,Rohde & Kehler (2014),english,Alice,Sarah,exasperated,Alice,Subject,No,Object,0.994779909,Sarah crossed her arms and narrowed her eyes.,Object,free
+I287,Sarah fascinated Megan.,F,IC1,Rohde & Kehler (2014),english,Sarah,Megan,fascinated,Sarah,Subject,No,Object,0.998830459,Megan couldn't help but admire her confidence.,Object,free
+I288,Emily frightened Angela.,F,IC1,Rohde & Kehler (2014),english,Emily,Angela,frightened,Emily,Subject,No,Object,0.999769431,"Angela took a step back, her eyes wide with alarm.",Object,free
+I289,Megan humiliated Anna.,F,IC1,Rohde & Kehler (2014),english,Megan,Anna,humiliated,M,Subject,No,Object,0.962672994,Anna refused to let it show.,Object,free
+I290,Angela infuriated Nicole.,F,IC1,Rohde & Kehler (2014),english,Angela,Nicole,infuriated,Angela,Subject,No,Object,0.99944712,Nicole clenched her fists and took a deep breath.,Object,free
+I291,Anna inspires Claire.,F,IC1,Rohde & Kehler (2014),english,Anna,Claire,inspires,Anna,Subject,No,Object,0.982013776,Claire begins to see new possibilities for her future.,Object,free
+I292,Nicole intimidates Jane.,F,IC1,Rohde & Kehler (2014),english,Nicole,Jane,intimidates,Nicole,Subject,No,Object,0.851952824,Jane tries to stand her ground.,Object,free
+I293,Claire scares Tina.,F,IC1,Rohde & Kehler (2014),english,Claire,Tina,scares,Claire,Subject,No,Object,0.99682733,Tina runs out of the room.,Object,free
+I294,Jane surprised Kate.,F,IC1,Rohde & Kehler (2014),english,Jane,Kate,surprised,Jane,Subject,No,Object,0.99944712,Kate couldn't hide her excitement.,Object,free
+I295,Tina consulted Amy.,F,IC1,Ferstl et al.(2010),english,Tina,Amy,consulted,T,Subject,No,Object,0.999968695,Amy suggested a different approach.,Object,free
+I296,Kate attracted Alice.,F,IC1,Ferstl et al.(2010),english,Kate,Alice,attracted,Kate,Subject,Yes,Subject,0.182425503,Alice couldn't help but feel drawn to Kate's magnetic energy.,Object,free
+I297,Amy agitated Sarah.,F,IC1,Ferstl et al.(2010),english,Amy,Sarah,agitated,Amy,Subject,No,Object,0.977022617,Sarah crossed her arms and glared at Amy.,Object,free
+I298,Alice angered Emily.,F,IC1,Ferstl et al.(2010),english,Alice,Emily,angered,Alice,Subject,No,Object,0.999980972,Emily clenched her fists.,Object,free
+I299,Sarah delighted Angela.,F,IC1,Ferstl et al.(2010),english,Sarah,Angela,delighted,Sarah,Subject,No,Object,0.999088952,Angela smiled warmly.,Object,free
+I300,Emily pleased Anna.,F,IC1,Ferstl et al.(2010),english,Emily,Anna,pleased,Emily,Subject,No,Object,0.999569424,Anna smiled warmly.,Object,free
+I301,Megan called Nicole.,F,IC1,Ferstl et al.(2010),english,Megan,Nicole,called,M,Subject,No,Object,0.997527403,She wanted to discuss the plans for the weekend.,Subject,free
+I302,Angela telephoned Claire.,F,IC1,Ferstl et al.(2010),english,Angela,Claire,telephoned,Angela,Subject,No,Object,0.99944712,Claire answered after the third ring.,Object,free
+I303,Anna concerned Jane.,F,IC1,Ferstl et al.(2010),english,Anna,Jane,concerned,Anna,Subject,No,Object,0.817574431,Jane decided to ask Anna what was wrong.,Object,free
+I304,Nicole irritated Tina.,F,IC1,Ferstl et al.(2010),english,Nicole,Tina,irritated,Nicole,Subject,No,Object,0.999569424,Tina crossed her arms and glared at Nicole.,Object,free
+I305,Claire antagonized Kate.,F,IC1,Ferstl et al.(2010),english,Claire,Kate,antagonized,Claire,Subject,No,Object,0.99966459,Kate refused to back down.,Object,free
+I306,Jane frustrated Amy.,F,IC1,Ferstl et al.(2010),english,Jane,Amy,frustrated,Jane,Subject,No,Object,0.99142243,Amy clenched her fists.,Object,free
+I307,Tina appalled Alice.,F,IC1,Ferstl et al.(2010),english,Tina,Alice,appalled,T,Subject,No,Object,0.562176469,"Alice took a step back, her voice trembling as she responded.",Object,free
+I308,Kate captivated Sarah.,F,IC1,Ferstl et al.(2010),english,Kate,Sarah,captivated,Kate,Subject,No,Object,0.999841528,Sarah couldn't help but smile.,Object,free
+I309,Amy inspired Emily.,F,IC1,Ferstl et al.(2010),english,Amy,Emily,inspired,Amy,Subject,No,Object,0.999876565,Emily decided to pursue her dreams.,Object,free
+I310,Alice lied to Megan.,F,IC1,Ferstl et al.(2010),english,Alice,Megan,lied to,Alice,Subject,Yes,Subject,0.222700147,Megan didn't believe her.,Object,free
+I311,Sarah maddened Anna.,F,IC1,Ferstl et al.(2010),english,Sarah,Anna,maddened,Sarah,Subject,No,Object,0.989012988,Anna clenched her fists in frustration.,Object,free
+I312,Emily peeved Nicole.,F,IC1,Ferstl et al.(2010),english,Emily,Nicole,peeved,Emily,Subject,No,Object,0.562176503,Nicole shot her a sharp glare.,Object,free
+I313,Megan entranced Claire.,F,IC1,Ferstl et al.(2010),english,Megan,Claire,entranced,M,Subject,No,Object,0.962672994,Claire couldn't look away.,Object,free
+I314,Angela intrigued Jane.,F,IC1,Ferstl et al.(2010),english,Angela,Jane,intrigued,Angela,Subject,No,Object,0.970687705,Jane decided to ask Angela more questions.,Object,free
+I315,Anna repulsed Tina.,F,IC1,Ferstl et al.(2010),english,Anna,Tina,repulsed,Anna,Subject,No,Object,0.924141771,"Tina stepped back, her face darkening with hurt.",Object,free
+I316,Nicole worried Kate.,F,IC1,Ferstl et al.(2010),english,Nicole,Kate,worried,Nicole,Subject,No,Object,0.970687705,Kate could sense the tension in Nicole's voice.,Object,free
+I317,Claire betrayed Amy.,F,IC1,Ferstl et al.(2010),english,Claire,Amy,betrayed,Claire,Subject,No,Object,0.999841528,Amy vowed to uncover the truth.,Object,free
+I318,Jane confessed to Alice.,F,IC1,Ferstl et al.(2010),english,Jane,Alice,confessed to,Jane,Subject,Yes,Subject,0.4378235,Alice took a deep breath and nodded.,Object,free
+I319,Tina scared Sarah.,F,IC1,Ferstl et al.(2010),english,Tina,Sarah,scared,T,Subject,No,Object,0.993307127,Sarah let out a startled scream.,Object,free
+I320,Kate wowed Emily.,F,IC1,Ferstl et al.(2010),english,Kate,Emily,wowed,Kate,Subject,No,Object,0.99682733,Emily couldn't help but smile.,Object,free
+I321,Amy disappointed Megan.,F,IC1,Ferstl et al.(2010),english,Amy,Megan,disappointed,Amy,Subject,No,Object,0.999903852,Megan decided to confront her about it.,Object,free
+I322,Alice intimidated Angela.,F,IC1,Ferstl et al.(2010),english,Alice,Angela,intimidated,Alice,Subject,No,Object,0.962672994,Angela took a step back.,Object,free
+I323,Sarah bugged Nicole.,F,IC1,Ferstl et al.(2010),english,Sarah,Nicole,bugged,Sarah,Subject,Yes,Subject,0.622459311,Nicole rolled her eyes.,Object,free
+I324,Emily daunted Claire.,F,IC1,Ferstl et al.(2010),english,Emily,Claire,daunted,Emily,Subject,No,Object,0.679178676,"Claire took a step back, her confidence faltering.",Object,free
+I325,Megan echoed Jane.,F,IC1,Ferstl et al.(2010),english,Megan,Jane,echoed,M,Subject,Yes,Subject,0.4378235,Jane nodded thoughtfully.,Object,free
+I326,Angela enthralled Tina.,F,IC1,Ferstl et al.(2010),english,Angela,Tina,enthralled,Angela,Subject,No,Object,0.985936321,Tina couldn't help but smile.,Object,free
+I327,Anna excited Kate.,F,IC1,Ferstl et al.(2010),english,Anna,Kate,excited,Anna,Subject,Yes,Subject,0.037326879,Kate couldn't help but smile.,Object,free
+I328,Nicole gladdened Amy.,F,IC1,Ferstl et al.(2010),english,Nicole,Amy,gladdened,Nicole,Subject,No,Object,0.998073226,Amy smiled warmly in return.,Object,free
+I329,Claire mesmerised Alice.,F,IC1,Ferstl et al.(2010),english,Claire,Alice,mesmerised,Claire,Subject,No,Object,0.880796994,Alice couldn‚Äôt help but smile.,Object,free
+I330,Jane enraged Sarah.,F,IC1,Ferstl et al.(2010),english,Jane,Sarah,enraged,Jane,Subject,No,Object,0.999876565,Sarah walked away without saying a word.,Object,free
+I331,Tina enticed Emily.,F,IC1,Ferstl et al.(2010),english,Tina,Emily,enticed,T,Subject,No,Object,0.99142243,"Emily hesitated, unsure of what Tina had in mind.",Object,free
+I332,Kate provoked Megan.,F,IC1,Ferstl et al.(2010),english,Kate,Megan,provoked,M,Object,No,Object,0.952574109,Megan decided to confront her directly.,Object,free
+I333,Amy unnerved Angela.,F,IC1,Ferstl et al.(2010),english,Amy,Angela,unnerved,Amy,Subject,Yes,Subject,0.182425503,"Angela took a step back, her eyes narrowing cautiously.",Object,free
+I334,Alice frightened Anna.,F,IC1,Ferstl et al.(2010),english,Alice,Anna,frightened,Alice,Subject,No,Object,0.994779909,Anna stepped back cautiously.,Object,free
+I335,Sarah troubled Claire.,F,IC1,Ferstl et al.(2010),english,Sarah,Claire,troubled,Sarah,Subject,No,Object,0.851952824,Claire decided to confront her about it.,Object,free
+I336,Emily repelled Jane.,F,IC1,Ferstl et al.(2010),english,Emily,Jane,repelled,Emily,Subject,No,Object,0.777299867,Jane walked away without a word.,Object,free
+I337,Megan sickened Tina.,F,IC1,Ferstl et al.(2010),english,Megan,Tina,sickened,M,Subject,No,Object,0.562176503,Tina decided to leave the room.,Object,free
+I338,Angela revolted Kate.,F,IC1,Ferstl et al.(2010),english,Angela,Kate,revolted,Angela,Subject,No,Object,0.851952735,"Kate stepped back, her face twisting in disbelief.",Object,free
+I339,Anna trailed Amy.,F,IC1,Ferstl et al.(2010),english,Anna,Amy,trailed,Amy,Subject,Yes,Subject,0.562176503,"Amy glanced over her shoulder, quickening her pace.",Object,free
+I340,Nicole upset Alice.,F,IC1,Ferstl et al.(2010),english,Nicole,Alice,upset,Nicole,Subject,No,Object,0.99142243,Alice chose to walk away in silence.,Object,free
+I341,Claire exhausted Sarah.,F,IC1,Ferstl et al.(2010),english,Claire,Sarah,exhausted,Claire,Subject,No,Object,0.989012988,Sarah decided to take a moment to catch her breath.,Object,free
+I342,Jane wearied Emily.,F,IC1,Ferstl et al.(2010),english,Jane,Emily,wearied,Jane,Subject,No,Object,0.562176469,Emily sighed heavily.,Object,free
+I343,Tina staggered Megan.,F,IC1,Ferstl et al.(2010),english,Tina,Megan,staggered,T,Subject,No,Object,0.904650331,Megan quickly regained her balance and glared at Tina.,Object,free
+I344,Kate cheated Angela.,F,IC1,Ferstl et al.(2010),english,Kate,Angela,cheated,Kate,Subject,No,Object,0.679178676,Angela decided it was time to confront her about it.,Object,free
+I345,Amy repaid Anna.,F,IC1,Ferstl et al.(2010),english,Amy,Anna,repaid,Amy,Subject,No,Object,0.998830459,Anna smiled warmly.,Object,free
+I346,Alice astounded Nicole.,F,IC1,Ferstl et al.(2010),english,Alice,Nicole,astounded,Alice,Subject,No,Object,0.970687705,"Nicole took a step back, her expression shifting from surprise to curiosity.",Object,free
+I347,Sarah exhilarated Jane.,F,IC1,Ferstl et al.(2010),english,Sarah,Jane,exhilarated,Sarah,Subject,No,Object,0.999903852,Jane couldn't stop smiling.,Object,free
+I348,Emily spooked Tina.,F,IC1,Ferstl et al.(2010),english,Emily,Tina,spooked,Emily,Subject,No,Object,0.817574431,Tina yelped and jumped back.,Object,free
+I349,Megan unsettled Kate.,F,IC1,Ferstl et al.(2010),english,Megan,Kate,unsettled,M,Subject,No,Object,0.999290323,Kate crossed her arms and took a step back.,Object,free
+I350,Angela flabbergasted Amy.,F,IC1,Ferstl et al.(2010),english,Angela,Amy,flabbergasted,Angela,Subject,No,Object,0.679178616,"Amy took a step back, her eyes wide with disbelief.",Object,free
+I351,Anna kissed Alice.,F,IC1,Ferstl et al.(2010),english,Anna,Alice,kissed,Anna,Subject,No,Object,0.99944712,Alice smiled softly.,Object,free
+I352,Nicole nuzzled Sarah.,F,IC1,Ferstl et al.(2010),english,Nicole,Sarah,nuzzled,Nicole,Subject,No,Object,0.99944712,Sarah smiled softly.,Object,free
+I353,Claire pained Emily.,F,IC1,Ferstl et al.(2010),english,Claire,Emily,pained,Claire,Subject,No,Object,0.985936321,Emily glared at Claire in silence.,Object,free
+I354,Jane confused Megan.,F,IC1,Ferstl et al.(2010),english,Jane,Megan,confused,Jane,Subject,No,Object,0.777299867,Megan took a moment to process what Jane had said.,Object,free
+I355,Tina distressed Angela.,F,IC1,Ferstl et al.(2010),english,Tina,Angela,distressed,T,Subject,No,Object,0.977022617,Angela took a deep breath and tried to steady herself.,Object,free
+I356,Kate vexed Anna.,F,IC1,Ferstl et al.(2010),english,Kate,Anna,vexed,Kate,Subject,No,Object,0.99966459,Anna crossed her arms and glared.,Object,free
+I357,Amy bothered Nicole.,F,IC1,Ferstl et al.(2010),english,Amy,Nicole,bothered,Amy,Subject,No,Object,0.982013776,Nicole sighed and crossed her arms.,Object,free
+I358,Alice alarmed Claire.,F,IC1,Ferstl et al.(2010),english,Alice,Claire,alarmed,Alice,Subject,No,Object,0.622459311,Claire stepped back cautiously.,Object,free
+I359,Sarah disgruntled Tina.,F,IC1,Ferstl et al.(2010),english,Sarah,Tina,disgruntled,Sarah,Subject,No,Object,0.998073226,Tina crossed her arms and frowned in response.,Object,free
+I360,Emily plagued Kate.,F,IC1,Ferstl et al.(2010),english,Emily,Kate,plagued,Emily,Subject,No,Object,0.977022617,Kate refused to let it show.,Object,free
+I361,Megan shadowed Amy.,F,IC1,Ferstl et al.(2010),english,Megan,Amy,shadowed,M,Subject,No,Object,0.999915056,"Amy glanced over her shoulder, her expression unreadable.",Object,free
+I362,Angela tailed Alice.,F,IC1,Ferstl et al.(2010),english,Angela,Alice,tailed,Angela,Subject,No,Object,0.880796994,"Alice quickened her pace, glancing over her shoulder with a wary expression.",Object,free
+I363,Anna incensed Sarah.,F,IC1,Ferstl et al.(2010),english,Anna,Sarah,incensed,Anna,Subject,No,Object,0.904650432,Sarah clenched her fists.,Object,free
+I364,Nicole baffled Emily.,F,IC1,Ferstl et al.(2010),english,Nicole,Emily,baffled,Nicole,Subject,No,Object,0.904650432,Emily struggled to understand what Nicole meant.,Object,free
+I365,Claire shocked Megan.,F,IC1,Ferstl et al.(2010),english,Claire,Megan,shocked,Claire,Subject,No,Object,0.993307127,"Megan took a step back, her face pale with disbelief.",Object,free
+I366,Jane disobeyed Angela.,F,IC1,Ferstl et al.(2010),english,Jane,Angela,disobeyed,Jane,Subject,No,Object,0.998073226,Angela decided to confront her directly.,Object,free
+I367,Tina distracted Anna.,F,IC1,Ferstl et al.(2010),english,Tina,Anna,distracted,T,Subject,No,Object,0.977022617,"Anna glanced over, momentarily losing focus.",Object,free
+I368,Kate married Nicole.,F,IC1,Ferstl et al.(2010),english,Kate,Nicole,married,Kate,Subject,No,Object,0.999088952,They built a life together filled with love and happiness.,they,free
+I369,Amy met Claire.,F,IC1,Ferstl et al.(2010),english,Amy,Claire,met,Amy,Subject,No,Object,0.998830459,They decided to grab coffee together.,they,free
+I370,Alice ordered around Jane.,F,IC1,Ferstl et al.(2010),english,Alice,Jane,ordered around,Alice,Subject,No,Object,0.962672994,Jane hesitated but eventually complied.,Object,free
+I371,Sarah harmed Kate.,F,IC1,Ferstl et al.(2010),english,Sarah,Kate,harmed,Sarah,Subject,No,Object,0.999975608,Kate sought help immediately.,Object,free
+I372,Emily astonished Amy.,F,IC1,Ferstl et al.(2010),english,Emily,Amy,astonished,Emily,Subject,No,Object,0.970687705,"Amy stood silently, trying to process what had just happened.",Object,free
+I373,Megan bewildered Alice.,F,IC1,Ferstl et al.(2010),english,Megan,Alice,bewildered,M,Subject,No,Object,0.679178676,"Alice took a step back, unsure of how to respond.",Object,free
+I374,Angela invigorated Sarah.,F,IC1,Ferstl et al.(2010),english,Angela,Sarah,invigorated,Angela,Subject,No,Object,0.999925069,Sarah smiled brightly.,Object,free
+I375,Anna tantalized Emily.,F,IC1,Ferstl et al.(2010),english,Anna,Emily,tantalized,Anna,Subject,No,Object,0.994779909,Emily struggled to hide her intrigue.,Object,free
+I376,Nicole battled Megan.,F,IC1,Ferstl et al.(2010),english,Nicole,Megan,battled,Nicole,Subject,No,Object,0.817574187,Megan countered fiercely.,Object,free
+I377,Claire hurt Angela.,F,IC1,Ferstl et al.(2010),english,Claire,Angela,hurt,Claire,Subject,No,Object,0.999890979,Angela turned away in silence.,Object,free
+I378,Jane followed Anna.,F,IC1,Ferstl et al.(2010),english,Jane,Anna,followed,Jane,Subject,No,Object,0.999088952,"She called out to her, hoping she would stop.",Subject,free
+I379,Tina tormented Nicole.,F,IC1,Ferstl et al.(2010),english,Tina,Nicole,tormented,T,Subject,No,Object,0.997527403,Nicole plotted her revenge.,Object,free
+I380,Kate grazed Claire.,F,IC1,Ferstl et al.(2010),english,Kate,Claire,grazed,Kate,Subject,No,Object,0.977022617,"Claire stumbled back, her eyes narrowing in confusion.",Object,free
+I381,Amy played Jane.,F,IC1,Ferstl et al.(2010),english,Amy,Jane,played,Amy,Subject,Yes,Subject,0.904650432,She delivered a powerful performance.,Subject,free
+I382,Alice dumbfounded Tina.,F,IC1,Ferstl et al.(2010),english,Alice,Tina,dumbfounded,Alice,Subject,No,Object,0.977022617,Tina stared at Alice in disbelief.,Object,free
+I383,Sarah flattered Amy.,F,IC1,Ferstl et al.(2010),english,Sarah,Amy,flattered,Sarah,Subject,No,Object,0.999983237,Amy smiled warmly.,Object,free
+I384,Emily alienated Alice.,F,IC1,Ferstl et al.(2010),english,Emily,Alice,alienated,Emily,Subject,No,Object,0.985936321,Alice decided to keep her distance.,Object,free
+I385,Megan harassed Sarah.,F,IC1,Ferstl et al.(2010),english,Megan,Sarah,harassed,M,Subject,No,Object,0.999290323,Sarah decided to report the behavior to someone she trusted.,Object,free
+I386,Angela approached Emily.,F,IC1,Ferstl et al.(2010),english,Angela,Emily,approached,Angela,Subject,No,Object,0.982013776,Emily turned to face her with a warm smile.,Object,free
+I387,Anna beguiled Megan.,F,IC1,Ferstl et al.(2010),english,Anna,Megan,beguiled,Anna,Subject,No,Object,0.924141771,Megan raised an eyebrow skeptically.,Object,free
+I388,Nicole caressed Angela.,F,IC1,Ferstl et al.(2010),english,Nicole,Angela,caressed,Nicole,Subject,No,Object,0.999993012,Angela smiled softly.,Object,free
+I389,Claire enlivened Anna.,F,IC1,Ferstl et al.(2010),english,Claire,Anna,enlivened,Claire,Subject,No,Object,0.970687705,Anna smiled warmly.,Object,free
+I390,Jane corrupted Nicole.,F,IC1,Ferstl et al.(2010),english,Jane,Nicole,corrupted,Jane,Subject,No,Object,0.99142243,Nicole sought revenge.,Object,free
+I391,Tina confounded Claire.,F,IC1,Ferstl et al.(2010),english,Tina,Claire,confounded,T,Subject,No,Object,0.731058579,Claire struggled to understand what Tina meant.,Object,free
+I392,Kate deserted Jane.,F,IC1,Ferstl et al.(2010),english,Kate,Jane,deserted,Kate,Subject,No,Object,0.999841528,"Jane stood silently, watching her disappear into the distance.",Object,free
+I393,Amy discouraged Tina.,F,IC1,Ferstl et al.(2010),english,Amy,Tina,discouraged,Amy,Subject,No,Object,0.998498768,Tina decided to prove Amy wrong.,Object,free
+I394,Alice tracked Kate.,F,IC1,Ferstl et al.(2010),english,Alice,Kate,tracked,Alice,Subject,No,Object,0.999925069,"Kate turned around, sensing someone behind her.",Object,free
+I395,Sarah startled Alice.,F,IC1,Ferstl et al.(2010),english,Sarah,Alice,startled,Sarah,Subject,No,Object,0.997527403,"Alice took a step back, her eyes wide with surprise.",Object,free
+I396,Emily defamed Sarah.,F,IC1,Ferstl et al.(2010),english,Emily,Sarah,defamed,Emily,Subject,No,Object,0.999925069,Sarah decided to confront Emily about the accusations.,Object,free
+I397,Megan abandoned Emily.,F,IC1,Ferstl et al.(2010),english,Megan,Emily,abandoned,M,Subject,No,Object,0.998073226,"Emily stood silently, watching her walk away.",Object,free
+I398,Angela courted Megan.,F,IC1,Ferstl et al.(2010),english,Angela,Megan,courted,Angela,Subject,No,Object,0.999995754,Megan responded with a shy smile.,Object,free
+I399,Anna wounded Angela.,F,IC1,Ferstl et al.(2010),english,Anna,Angela,wounded,Anna,Subject,No,Object,0.998073226,"Angela stumbled back, clutching her side in pain.",Object,free
+I400,Nicole chilled Anna.,F,IC1,Ferstl et al.(2010),english,Nicole,Anna,chilled,Nicole,Subject,No,Object,0.924141771,Anna shivered and wrapped her arms around herself.,Object,free
+I401,Claire nettled Nicole.,F,IC1,Ferstl et al.(2010),english,Claire,Nicole,nettled,Claire,Subject,No,Object,0.622459311,Nicole glared at Claire.,Object,free
+I402,Jane pursued Claire.,F,IC1,Ferstl et al.(2010),english,Jane,Claire,pursued,Jane,Subject,No,Object,0.999998138,"Claire quickened her pace, glancing over her shoulder.",Object,free
+I403,Tina dreamed about Jane.,F,IC1,Ferstl et al.(2010),english,Tina,Jane,dreamed about,T,Subject,No,Object,0.99999921,She wondered if Jane ever thought about her too.,Subject,free
+I404,Kate galled Tina.,F,IC1,Ferstl et al.(2010),english,Kate,Tina,galled,Kate,Subject,Yes,Subject,0.377540668,Tina clenched her fists and stood her ground.,Object,free
+I405,Amy stimulated Kate.,F,IC1,Ferstl et al.(2010),english,Amy,Kate,stimulated,Amy,Subject,No,Object,0.999925069,Kate responded with a curious smile.,Object,free
+I406,Alice affected Amy.,F,IC1,Ferstl et al.(2010),english,Alice,Amy,affected,Alice,Subject,No,Object,0.99682733,"Amy stepped back, startled.",Object,free
+I407,Julia embraced Sarah.,F,IC1,Ferstl et al.(2010),english,Julia,Sarah,embraced,Julia,Subject,No,Object,0.999975608,Sarah smiled warmly in return.,Object,free
+I408,Julia fazed Emily.,F,IC1,Ferstl et al.(2010),english,Julia,Emily,fazed,Julia,Subject,Yes,Subject,0.562176503,"Emily stumbled back, her expression a mix of confusion and hurt.",Object,free
+I409,Julia debated with Megan.,F,IC1,Ferstl et al.(2010),english,Julia,Megan,debated with,Julia,Subject,No,Object,0.499999999,Megan stood her ground firmly.,Object,free
+I410,Julia defied Angela.,F,IC1,Ferstl et al.(2010),english,Julia,Angela,defied,Julia,Subject,No,Object,0.939913259,Angela stood her ground.,Object,free
+I411,Julia questioned Anna.,F,IC1,Ferstl et al.(2010),english,Julia,Anna,questioned,Julia,Subject,No,Object,0.999903852,Anna hesitated before answering.,Object,free
+I412,Julia assisted Nicole.,F,IC2,Rohde & Kehler (2014),english,Julia,Nicole,assisted,Julia,Subject,No,Object,0.999738698,Nicole thanked her warmly.,Object,free
+I413,Julia blames Claire.,F,IC2,Rohde & Kehler (2014),english,Julia,Claire,blames,Julia,Subject,No,Object,0.995929904,Claire denies responsibility.,Object,free
+I414,Julia comforted Jane.,F,IC2,Rohde & Kehler (2014),english,Julia,Jane,comforted,Julia,Subject,No,Object,0.999985144,She assured her that everything would be okay.,Subject,free
+I415,Julia congratulated Tina.,F,IC2,Rohde & Kehler (2014),english,Julia,Tina,congratulated,Julia,Subject,No,Object,0.999998138,Tina smiled warmly in response.,Object,free
+I416,Julia corrected Kate.,F,IC2,Rohde & Kehler (2014),english,Julia,Kate,corrected,Julia,Subject,No,Object,0.995929904,Kate nodded thoughtfully.,Object,free
+I417,Julia detests Amy.,F,IC2,Rohde & Kehler (2014),english,Julia,Amy,detests,Julia,Subject,No,Object,0.998830459,Amy remains oblivious to Julia's feelings.,Object,free
+I418,Julia fears Alice.,F,IC2,Rohde & Kehler (2014),english,Julia,Alice,fears,Julia,Subject,No,Object,0.999569424,She wonders if Alice knows her secret.,Subject,free
+I419,Sarah envies Julia.,F,IC2,Rohde & Kehler (2014),english,Sarah,Julia,envies,Sarah,Subject,No,Object,0.999903852,She wishes she had Julia's confidence.,Subject,free
+I420,Emily hates Julia.,F,IC2,Rohde & Kehler (2014),english,Emily,Julia,hates,Emily,Subject,No,Object,0.998073226,She avoids her at every opportunity.,Subject,free
+I421,Megan helped Julia.,F,IC2,Rohde & Kehler (2014),english,Megan,Julia,helped,M,Subject,No,Object,0.998073226,Julia thanked her warmly.,Object,free
+I422,Angela mocked Julia.,F,IC2,Rohde & Kehler (2014),english,Angela,Julia,mocked,Angela,Subject,No,Object,0.99979648,Julia clenched her fists but took a deep breath to steady herself.,Object,free
+I423,Anna noticed Julia.,F,IC2,Rohde & Kehler (2014),english,Anna,Julia,noticed,Anna,Subject,No,Object,0.999988482,"She was standing by the window, lost in thought.",Subject,free
+I424,Nicole pacified Julia.,F,IC2,Rohde & Kehler (2014),english,Nicole,Julia,pacified,Nicole,Subject,No,Object,0.99944712,Julia took a deep breath and nodded.,Object,free
+I425,Claire praised Julia.,F,IC2,Rohde & Kehler (2014),english,Claire,Julia,praised,Claire,Subject,No,Object,0.999997065,Julia smiled warmly.,Object,free
+I426,Jane reproached Julia.,F,IC2,Rohde & Kehler (2014),english,Jane,Julia,reproached,Jane,Subject,No,Object,0.999988482,"Julia looked away, her face flushing with a mix of guilt and frustration.",Object,free
+I427,Tina scolded Julia.,F,IC2,Rohde & Kehler (2014),english,Tina,Julia,scolded,T,Subject,No,Object,0.99966459,Julia crossed her arms and looked away.,Object,free
+I428,Kate stared at Julia.,F,IC2,Rohde & Kehler (2014),english,Kate,Julia,stared at,Kate,Subject,No,Object,0.999989793,"Julia held her gaze, unflinching.",Object,free
+I429,Amy thanked Julia.,F,IC2,Rohde & Kehler (2014),english,Amy,Julia,thanked,Amy,Subject,No,Object,0.999983237,Julia smiled warmly.,Object,free
+I430,Alice trusted Julia.,F,IC2,Rohde & Kehler (2014),english,Alice,Julia,trusted,Alice,Subject,No,Object,0.999978469,Julia valued Alice's confidence deeply.,Object,free
+I431,Sarah values Emily.,F,IC2,Rohde & Kehler (2014),english,Sarah,Emily,values,Sarah,Subject,No,Object,0.999569424,Emily trusts Sarah.,Object,free
+I432,Emily cuddled Megan.,F,IC2,Ferstl et al.(2010),english,Emily,Megan,cuddled,Emily,Subject,No,Object,0.999975608,Megan smiled warmly.,Object,free
+I433,Megan decried Angela.,F,IC2,Ferstl et al.(2010),english,Megan,Angela,decried,M,Subject,No,Object,0.998498768,Angela stood her ground.,Object,free
+I434,Angela moved Anna.,F,IC2,Ferstl et al.(2010),english,Angela,Anna,moved,Angela,Subject,No,Object,0.962672994,Anna stumbled slightly but quickly regained her balance.,Object,free
+I435,Anna deprecated Nicole.,F,IC2,Ferstl et al.(2010),english,Anna,Nicole,deprecated,Anna,Subject,No,Object,0.99142243,Nicole remained unfazed.,Object,free
+I436,Nicole encouraged Claire.,F,IC2,Ferstl et al.(2010),english,Nicole,Claire,encouraged,Nicole,Subject,No,Object,0.999088952,Claire nodded and took a deep breath.,Object,free
+I437,Claire played with Jane.,F,IC2,Ferstl et al.(2010),english,Claire,Jane,played with,Claire,Subject,No,Object,0.999290323,Jane laughed loudly.,Object,free
+I438,Jane hit Tina.,F,IC2,Ferstl et al.(2010),english,Jane,Tina,hit,Jane,Subject,No,Object,0.999986933,Tina stumbled backward.,Object,free
+I439,Tina reproved Kate.,F,IC2,Ferstl et al.(2010),english,Tina,Kate,reproved,T,Subject,No,Object,0.999569424,"Kate looked away, her cheeks flushing with embarrassment.",Object,free
+I440,Kate forgot Amy.,F,IC2,Ferstl et al.(2010),english,Kate,Amy,forgot,Kate,Subject,No,Object,0.999903852,Amy remembered Kate.,Object,free
+I441,Amy exalted Alice.,F,IC2,Ferstl et al.(2010),english,Amy,Alice,exalted,Amy,Subject,No,Object,0.999704027,She admired her unwavering dedication.,Subject,free
+I442,Alice instructed Sarah.,F,IC2,Ferstl et al.(2010),english,Alice,Sarah,instructed,Alice,Subject,No,Object,0.998073226,Sarah nodded in understanding.,Object,free
+I443,Sarah warned Megan.,F,IC2,Ferstl et al.(2010),english,Sarah,Megan,warned,Sarah,Subject,No,Object,0.989012988,Megan hesitated before responding.,Object,free
+I444,Emily welcomed Angela.,F,IC2,Ferstl et al.(2010),english,Emily,Angela,welcomed,Emily,Subject,No,Object,0.998073226,Angela smiled warmly.,Object,free
+I445,Megan rebuked Anna.,F,IC2,Ferstl et al.(2010),english,Megan,Anna,rebuked,M,Subject,No,Object,0.99142243,"Anna crossed her arms, frustration evident on her face.",Object,free
+I446,Angela blessed Nicole.,F,IC2,Ferstl et al.(2010),english,Angela,Nicole,blessed,Angela,Subject,No,Object,0.999841528,Nicole felt a comforting warmth surround her.,Object,free
+I447,Anna divorced Claire.,F,IC2,Ferstl et al.(2010),english,Anna,Claire,divorced,Anna,Subject,No,Object,0.994779909,She moved to a new city to start over.,Subject,free
+I448,Nicole persecuted Jane.,F,IC2,Ferstl et al.(2010),english,Nicole,Jane,persecuted,Nicole,Subject,No,Object,0.994779909,Jane decided to confront Nicole about her actions.,Object,free
+I449,Claire derided Tina.,F,IC2,Ferstl et al.(2010),english,Claire,Tina,derided,Claire,Subject,No,Object,0.999569424,Tina crossed her arms and glared at Claire.,Object,free
+I450,Jane wanted Kate.,F,IC2,Ferstl et al.(2010),english,Jane,Kate,wanted,Jane,Subject,No,Object,0.999941637,"Kate knew it, but she wasn‚Äôt sure if she felt the same.",Object,free
+I451,Tina advised Amy.,F,IC2,Ferstl et al.(2010),english,Tina,Amy,advised,T,Subject,No,Object,0.998498768,Amy decided to follow Tina's suggestion.,Object,free
+I452,Kate supported Alice.,F,IC2,Ferstl et al.(2010),english,Kate,Alice,supported,Kate,Subject,No,Object,0.999841528,Alice thanked her sincerely.,Object,free
+I453,Amy chastened Sarah.,F,IC2,Ferstl et al.(2010),english,Amy,Sarah,chastened,Amy,Subject,No,Object,0.999569424,"Sarah looked away, her cheeks flushing with embarrassment.",Object,free
+I454,Alice led Emily.,F,IC2,Ferstl et al.(2010),english,Alice,Emily,led,Alice,Subject,No,Object,0.622459311,Emily followed close behind.,Object,free
+I455,Sarah petted Angela.,F,IC2,Ferstl et al.(2010),english,Sarah,Angela,petted,Sarah,Subject,No,Object,0.999738698,Angela wagged her tail.,Object,free
+I456,Emily admonished Anna.,F,IC2,Ferstl et al.(2010),english,Emily,Anna,admonished,Emily,Subject,No,Object,0.998073226,"Anna lowered her gaze, murmuring a quiet apology.",Object,free
+I457,Megan rushed to Nicole.,F,IC2,Ferstl et al.(2010),english,Megan,Nicole,rushed to,M,Subject,Yes,Subject,0.499999999,"Nicole turned quickly, concern flashing across her face.",Object,free
+I458,Angela venerated Claire.,F,IC2,Ferstl et al.(2010),english,Angela,Claire,venerated,Angela,Subject,No,Object,0.99999623,She admired her unwavering determination.,Subject,free
+I459,Anna chased Jane.,F,IC2,Ferstl et al.(2010),english,Anna,Jane,chased,Anna,Subject,No,Object,0.999569424,"Jane ran faster, glancing back over her shoulder.",Object,free
+I460,Nicole deplored Tina.,F,IC2,Ferstl et al.(2010),english,Nicole,Tina,deplored,Nicole,Subject,No,Object,0.989012988,She decided to keep her distance from her.,Subject,free
+I461,Claire chided Kate.,F,IC2,Ferstl et al.(2010),english,Claire,Kate,chided,Claire,Subject,No,Object,0.999978469,Kate crossed her arms and looked away.,Object,free
+I462,Jane cautioned Amy.,F,IC2,Ferstl et al.(2010),english,Jane,Amy,cautioned,Jane,Subject,No,Object,0.999290323,Amy nodded thoughtfully.,Object,free
+I463,Tina denounced Alice.,F,IC2,Ferstl et al.(2010),english,Tina,Alice,denounced,T,Subject,No,Object,0.999841528,Alice remained silent.,Object,free
+I464,Kate escorted Sarah.,F,IC2,Ferstl et al.(2010),english,Kate,Sarah,escorted,Kate,Subject,No,Object,0.999959874,They walked silently through the dimly lit hallway.,they,free
+I465,Amy lauded Emily.,F,IC2,Ferstl et al.(2010),english,Amy,Emily,lauded,Amy,Subject,No,Object,0.999948431,Emily thanked Amy warmly.,Object,free
+I466,Alice pardoned Megan.,F,IC2,Ferstl et al.(2010),english,Alice,Megan,pardoned,Alice,Subject,No,Object,0.999993012,Megan nodded in gratitude.,Object,free
+I467,Sarah disdained Anna.,F,IC2,Ferstl et al.(2010),english,Sarah,Anna,disdained,Sarah,Subject,No,Object,0.977022617,Anna noticed but chose to remain silent.,Object,free
+I468,Emily caught Nicole.,F,IC2,Ferstl et al.(2010),english,Emily,Nicole,caught,Emily,Subject,No,Object,0.939913259,Nicole struggled to break free.,Object,free
+I469,Megan prosecuted Claire.,F,IC2,Ferstl et al.(2010),english,Megan,Claire,prosecuted,M,Subject,No,Object,0.880796994,Claire denied the allegations.,Object,free
+I470,Angela castigated Jane.,F,IC2,Ferstl et al.(2010),english,Angela,Jane,castigated,Angela,Subject,No,Object,0.997527403,Jane clenched her fists but kept her composure.,Object,free
+I471,Anna criticized Tina.,F,IC2,Ferstl et al.(2010),english,Anna,Tina,criticized,Anna,Subject,No,Object,0.999983237,Tina defended herself.,Object,free
+I472,Nicole hailed Kate.,F,IC2,Ferstl et al.(2010),english,Nicole,Kate,hailed,Nicole,Subject,No,Object,0.999903852,Kate turned around and smiled.,Object,free
+I473,Claire missed Amy.,F,IC2,Ferstl et al.(2010),english,Claire,Amy,missed,Claire,Subject,No,Object,0.999088952,She decided to call her.,Subject,free
+I474,Jane visited Alice.,F,IC2,Ferstl et al.(2010),english,Jane,Alice,visited,Jane,Subject,Yes,Subject,0.962672994,Alice welcomed her warmly.,Object,free
+I475,Tina complimented Sarah.,F,IC2,Ferstl et al.(2010),english,Tina,Sarah,complimented,T,Subject,No,Object,0.999994561,Sarah thanked her warmly.,Object,free
+I476,Kate grieved Emily.,F,IC2,Ferstl et al.(2010),english,Kate,Emily,grieved,Kate,Subject,No,Object,0.995929904,"She visited her favorite spot at the park, holding onto memories they had shared.",Subject,free
+I477,Amy protected Megan.,F,IC2,Ferstl et al.(2010),english,Amy,Megan,protected,Amy,Subject,No,Object,0.997527403,Megan thanked Amy with a relieved smile.,Object,free
+I478,Alice relished Angela.,F,IC2,Ferstl et al.(2010),english,Alice,Angela,relished,Alice,Subject,No,Object,0.99944712,She admired the way Angela carried herself with quiet confidence.,Subject,free
+I479,Sarah shook Nicole.,F,IC2,Ferstl et al.(2010),english,Sarah,Nicole,shook,Sarah,Subject,No,Object,0.982013776,Nicole blinked in confusion.,Object,free
+I480,Emily accompanied Claire.,F,IC2,Ferstl et al.(2010),english,Emily,Claire,accompanied,Emily,Subject,Yes,Subject,0.989012988,"They wandered through the bustling market, marveling at the vibrant displays.",they,free
+I481,Megan cheered Jane.,F,IC2,Ferstl et al.(2010),english,Megan,Jane,cheered,M,Subject,No,Object,0.962672994,Jane smiled brightly in response.,Object,free
+I482,Angela saluted Tina.,F,IC2,Ferstl et al.(2010),english,Angela,Tina,saluted,Angela,Subject,No,Object,0.999995158,Tina nodded in acknowledgment.,Object,free
+I483,Anna scorned Kate.,F,IC2,Ferstl et al.(2010),english,Anna,Kate,scorned,Anna,Subject,No,Object,0.995929904,Kate refused to look away.,Object,free
+I484,Nicole excused Amy.,F,IC2,Ferstl et al.(2010),english,Nicole,Amy,excused,Nicole,Subject,No,Object,0.998498768,Amy nodded quietly.,Object,free
+I485,Claire reprimanded Alice.,F,IC2,Ferstl et al.(2010),english,Claire,Alice,reprimanded,Claire,Subject,No,Object,0.998830459,Alice crossed her arms and looked away.,Object,free
+I487,Tina chastized Emily.,F,IC2,Ferstl et al.(2010),english,Tina,Emily,chastized,T,Subject,No,Object,0.999738698,Emily frowned but said nothing.,Object,free
+I488,Kate freed Megan.,F,IC2,Ferstl et al.(2010),english,Kate,Megan,freed,Kate,Subject,No,Object,0.999925069,"Megan stumbled forward, her breath catching as she looked back at Kate.",Object,free
+I489,Amy calmed Angela.,F,IC2,Ferstl et al.(2010),english,Amy,Angela,calmed,Amy,Subject,Yes,Subject,0.904650432,Angela took a deep breath and nodded.,Object,free
+I490,Alice cherished Anna.,F,IC2,Ferstl et al.(2010),english,Alice,Anna,cherished,Alice,Subject,No,Object,0.999569424,Anna felt the warmth of Alice's affection.,Object,free
+I491,Sarah esteemed Claire.,F,IC2,Ferstl et al.(2010),english,Sarah,Claire,esteemed,Sarah,Subject,No,Object,0.999738698,Claire valued Sarah in return.,Object,free
+I492,Emily believed Jane.,F,IC2,Ferstl et al.(2010),english,Emily,Jane,believed,Emily,Subject,No,Object,0.880796994,She trusted her with secrets she hadn't shared with anyone else.,Subject,free
+I493,Megan worshipped Tina.,F,IC2,Ferstl et al.(2010),english,Megan,Tina,worshipped,M,Subject,No,Object,0.999990985,Tina reveled in the attention.,Object,free
+I494,Angela banished Kate.,F,IC2,Ferstl et al.(2010),english,Angela,Kate,banished,Angela,Subject,No,Object,0.998498768,Kate vowed to return stronger.,Object,free
+I495,Anna complemented Amy.,F,IC2,Ferstl et al.(2010),english,Anna,Amy,complemented,Anna,Subject,No,Object,0.998830459,Amy smiled warmly.,Object,free
+I496,Nicole abhorred Alice.,F,IC2,Ferstl et al.(2010),english,Nicole,Alice,abhorred,Nicole,Subject,No,Object,0.939913259,She couldn't stand the way Alice always seemed to manipulate every situation to her advantage.,Subject,free
+I497,Claire honoured Sarah.,F,IC2,Ferstl et al.(2010),english,Claire,Sarah,honoured,Claire,Subject,No,Object,0.999994561,Sarah felt a deep sense of gratitude.,Object,free
+I498,Jane revered Emily.,F,IC2,Ferstl et al.(2010),english,Jane,Emily,revered,Emily,Object,Yes,Subject,0.731058579,She often sought her advice on matters both personal and professional.,Subject,free
+I499,Tina yelled at Megan.,F,IC2,Ferstl et al.(2010),english,Tina,Megan,yelled at,T,Subject,No,Object,0.99682733,Megan took a deep breath and walked away.,Object,free
+I500,Kate acclaimed Angela.,F,IC2,Ferstl et al.(2010),english,Kate,Angela,acclaimed,Kate,Subject,No,Object,0.999569424,Angela nodded in appreciation.,Object,free
+I501,Amy censured Anna.,F,IC2,Ferstl et al.(2010),english,Amy,Anna,censured,Amy,Subject,No,Object,0.999290323,Anna remained silent.,Object,free
+I502,Alice ridiculed Nicole.,F,IC2,Ferstl et al.(2010),english,Alice,Nicole,ridiculed,Alice,Subject,No,Object,0.999925069,Nicole dismissed her with a cold smile.,Object,free
+I503,Sarah reassured Jane.,F,IC2,Ferstl et al.(2010),english,Sarah,Jane,reassured,Sarah,Subject,No,Object,0.851952824,Jane nodded slowly.,Object,free
+I504,Emily condemned Tina.,F,IC2,Ferstl et al.(2010),english,Emily,Tina,condemned,Emily,Subject,No,Object,0.998073226,Tina refused to apologize.,Object,free
+I505,Megan answered Kate.,F,IC2,Ferstl et al.(2010),english,Megan,Kate,answered,M,Subject,No,Object,0.731058579,She wanted to clarify her point.,Subject,free
+I506,Angela toasted Amy.,F,IC2,Ferstl et al.(2010),english,Angela,Amy,toasted,Angela,Subject,No,Object,0.995929904,Amy smiled and raised her glass in return.,Object,free
+I507,Anna hired Alice.,F,IC2,Ferstl et al.(2010),english,Anna,Alice,hired,Anna,Subject,No,Object,0.999290323,Alice started organizing the project immediately.,Object,free
+I508,Nicole idolized Sarah.,F,IC2,Ferstl et al.(2010),english,Nicole,Sarah,idolized,Nicole,Subject,No,Object,0.999988482,She admired the confidence and grace with which Sarah carried herself.,Subject,free
+I509,Claire counseled Emily.,F,IC2,Ferstl et al.(2010),english,Claire,Emily,counseled,Claire,Subject,No,Object,0.998830459,Emily considered Claire's advice carefully.,Object,free
+I511,Tina worried about Angela.,F,IC2,Ferstl et al.(2010),english,Tina,Angela,worried about,T,Subject,No,Object,0.999975608,She wondered if her friend was truly coping as well as she claimed.,Subject,free
+I512,Kate celebrated Anna.,F,IC2,Ferstl et al.(2010),english,Kate,Anna,celebrated,Kate,Subject,No,Object,0.99682733,Anna smiled warmly.,Object,free
+I513,Amy mourned Nicole.,F,IC2,Ferstl et al.(2010),english,Amy,Nicole,mourned,Amy,Subject,No,Object,0.999841528,She placed flowers on her grave every Sunday.,Subject,free
+I514,Alice spanked Claire.,F,IC2,Ferstl et al.(2010),english,Alice,Claire,spanked,Alice,Subject,No,Object,0.998073226,"Claire turned to face her, her cheeks flushed with both embarrassment and defiance.",Object,free
+I515,Sarah dreaded Tina.,F,IC2,Ferstl et al.(2010),english,Sarah,Tina,dreaded,Sarah,Subject,No,Object,0.99997239,She knew their next conversation would inevitably lead to conflict.,Subject,free
+I516,Emily guided Kate.,F,IC2,Ferstl et al.(2010),english,Emily,Kate,guided,Emily,Subject,No,Object,0.939913259,Kate followed closely behind.,Object,free
+I517,Megan adored Amy.,F,IC2,Ferstl et al.(2010),english,Megan,Amy,adored,M,Subject,No,Object,0.99966459,Amy felt the same way about Megan.,Object,free
+I518,Angela consoled Alice.,F,IC2,Ferstl et al.(2010),english,Angela,Alice,consoled,Angela,Subject,No,Object,0.998830459,Alice wiped away her tears and gave Angela a faint smile.,Object,free
+I519,Anna prized Sarah.,F,IC2,Ferstl et al.(2010),english,Anna,Sarah,prized,Anna,Subject,No,Object,0.99682733,She admired her unwavering determination.,Subject,free
+I520,Nicole distrusted Emily.,F,IC2,Ferstl et al.(2010),english,Nicole,Emily,distrusted,Nicole,Subject,No,Object,0.999738698,She felt that Emily was hiding something important.,Subject,free
+I521,Claire employed Megan.,F,IC2,Ferstl et al.(2010),english,Claire,Megan,employed,Claire,Subject,No,Object,0.999738698,Megan excelled in her new role.,Object,free
+I522,Jane punished Angela.,F,IC2,Ferstl et al.(2010),english,Jane,Angela,punished,Jane,Subject,No,Object,0.998498768,Angela started to cry.,Object,free
+I523,Tina resented Anna.,F,IC2,Ferstl et al.(2010),english,Tina,Anna,resented,T,Subject,No,Object,0.999915056,Anna noticed the tension and decided to confront her about it.,Object,free
+I524,Kate treasured Nicole.,F,IC2,Ferstl et al.(2010),english,Kate,Nicole,treasured,Kate,Subject,No,Object,0.994779909,Nicole cherished Kate.,Object,free
+I525,Amy penalized Claire.,F,IC2,Ferstl et al.(2010),english,Amy,Claire,penalized,Amy,Subject,No,Object,0.962672994,Claire apologized sincerely.,Object,free
+I526,Alice sued Jane.,F,IC2,Ferstl et al.(2010),english,Alice,Jane,sued,Alice,Subject,No,Object,0.999738698,Jane decided to hire a lawyer.,Object,free
+I527,Sarah detested Kate.,F,IC2,Ferstl et al.(2010),english,Sarah,Kate,detested,Sarah,Subject,No,Object,0.99682733,"Kate knew it, but she pretended not to care.",Object,free
+I529,Megan loved Alice.,F,IC2,Ferstl et al.(2010),english,Megan,Alice,loved,M,Subject,No,Object,0.952574109,Alice felt the same way about Megan.,Object,free
+I530,Angela commended Sarah.,F,IC2,Ferstl et al.(2010),english,Angela,Sarah,commended,Angela,Subject,No,Object,0.999988482,Sarah smiled warmly in response.,Object,free
+I531,Anna pitied Emily.,F,IC2,Ferstl et al.(2010),english,Anna,Emily,pitied,Anna,Subject,No,Object,0.999948431,She reached out to offer her support.,Subject,free
+I532,Nicole applauded Megan.,F,IC2,Ferstl et al.(2010),english,Nicole,Megan,applauded,Nicole,Subject,No,Object,0.999999806,Megan smiled in appreciation.,Object,free
+I533,Claire feared Angela.,F,IC2,Ferstl et al.(2010),english,Claire,Angela,feared,Claire,Subject,No,Object,0.99995451,Angela smiled knowingly.,Object,free
+I534,Jane fed Anna.,F,IC2,Ferstl et al.(2010),english,Jane,Anna,fed,Jane,Subject,No,Object,0.999968695,Anna smiled gratefully.,Object,free
+I535,Tina loathed Nicole.,F,IC2,Ferstl et al.(2010),english,Tina,Nicole,loathed,T,Subject,No,Object,0.999860117,She avoided her at every opportunity.,Subject,free
+I536,Kate rewarded Claire.,F,IC2,Ferstl et al.(2010),english,Kate,Claire,rewarded,Kate,Subject,No,Object,0.999964523,Claire smiled gratefully.,Object,free
+I537,Amy appreciated Jane.,F,IC2,Ferstl et al.(2010),english,Amy,Jane,appreciated,Amy,Subject,No,Object,0.999925069,She admired her dedication and work ethic.,Subject,free
+I538,Alice despised Tina.,F,IC2,Ferstl et al.(2010),english,Alice,Tina,despised,Alice,Subject,No,Object,0.999860117,"Tina, however, remained oblivious to Alice's feelings.",Object,free
+I539,Sarah disliked Amy.,F,IC2,Ferstl et al.(2010),english,Sarah,Amy,disliked,Sarah,Subject,No,Object,0.777299867,She avoided her whenever possible.,Subject,free
+I540,Emily favoured Alice.,F,IC2,Ferstl et al.(2010),english,Emily,Alice,favoured,Emily,Subject,No,Object,0.998073226,Alice appreciated the gesture.,Object,free
+I541,Megan hated Sarah.,F,IC2,Ferstl et al.(2010),english,Megan,Sarah,hated,M,Subject,No,Object,0.997527403,She couldn‚Äôt stand the way Sarah always acted superior.,Subject,free
+I542,Angela liked Emily.,F,IC2,Ferstl et al.(2010),english,Angela,Emily,liked,Angela,Subject,No,Object,0.999876565,Emily admired Angela.,Object,free
+I543,Anna respected Megan.,F,IC2,Ferstl et al.(2010),english,Anna,Megan,respected,Anna,Subject,No,Object,0.999986933,She admired her dedication and work ethic.,Subject,free
+I544,Nicole admired Angela.,F,IC2,Ferstl et al.(2010),english,Nicole,Angela,admired,Nicole,Subject,No,Object,0.999999806,She wondered how Angela always seemed so confident.,Subject,free
+I545,Claire carried Anna.,F,IC2,Ferstl et al.(2010),english,Claire,Anna,carried,Claire,Subject,No,Object,0.4378235,Anna rested her head on Claire's shoulder.,Object,free
+I546,Jane envied Nicole.,F,IC2,Ferstl et al.(2010),english,Jane,Nicole,envied,Jane,Subject,No,Object,0.999999568,She always seemed to have everything perfectly together.,Subject,free
+I547,Tina fancied Claire.,F,IC2,Ferstl et al.(2010),english,Tina,Claire,fancied,T,Subject,No,Object,0.999996588,Claire hadn't yet noticed.,Object,free
+I548,Kate laughed at Jane.,F,IC2,Ferstl et al.(2010),english,Kate,Jane,laughed at,Kate,Subject,No,Object,0.999738698,Jane rolled her eyes in mock exasperation.,Object,free
+I01,Mike aggravated Tony. He,M,IC1,Rohde & Kehler (2014),english,Mike,Tony,aggravated,Mike,Subject,Yes,Subject,0.267430973,felt frustrated and walked away.,Object,pronoun
+I02,Tony amazed Eric. He,M,IC1,Rohde & Kehler (2014),english,Tony,Eric,amazed,Tony,Subject,Yes,Subject,0.99097654,couldn't believe what Tony had accomplished.,Object,pronoun
+I03,Eric amused Zack. He,M,IC1,Rohde & Kehler (2014),english,Eric,Zack,amused,Eric,Subject,Yes,Subject,0.998041764,laughed at the joke Eric told.,Object,pronoun
+I04,Zack annoyed Ben. He,M,IC1,Rohde & Kehler (2014),english,Zack,Ben,annoyed,Z,Subject,No,Object,0.268870882,refused to listen to what Ben was saying.,Subject,pronoun
+I05,Ben apologized to Paul. He,M,IC1,Rohde & Kehler (2014),english,Ben,Paul,apologized to,Ben,Subject,Yes,Subject,0.999611109,explained that he didn‚Äôt mean to upset him.,Subject,pronoun
+I06,Paul bored David. He,M,IC1,Rohde & Kehler (2014),english,Paul,David,bored,Paul,Subject,Yes,Subject,0.999437474,found their conversation uninteresting.,Subject,pronoun
+I07,David charmed Nick. He,M,IC1,Rohde & Kehler (2014),english,David,Nick,charmed,David,Subject,Yes,Subject,0.999791594,seemed genuinely interested in what Nick had to say.,Subject,pronoun
+I08,Nick offended Steve. He,M,IC1,Rohde & Kehler (2014),english,Nick,Steve,offended,Nick,Subject,Yes,Subject,0.725525835,apologized sincerely to mend their friendship.,Object,pronoun
+I09,Steve confessed to Brian. He,M,IC1,Rohde & Kehler (2014),english,Steve,Brian,confessed to,Steve,Subject,Yes,Subject,0.87911481,apologized for his mistake.,Subject,pronoun
+I10,Brian deceived Frank. He,M,IC1,Rohde & Kehler (2014),english,Brian,Frank,deceived,Brian,Subject,No,Object,0.999083603,apologized later when the truth came out.,Subject,pronoun
+I11,Frank disappointd Simon. He,M,IC1,Rohde & Kehler (2014),english,Frank,Simon,disappointd,Frank,Subject,Yes,Subject,0.949338064,apologized immediately for his mistake.,Object,pronoun
+I12,Simon exasperated Justin. He,M,IC1,Rohde & Kehler (2014),english,Simon,Justin,exasperated,Simon,Subject,Yes,Subject,0.999122154,threw his hands up in frustration and walked away.,Object,pronoun
+I13,Justin fascinated Mike. He,M,IC1,Rohde & Kehler (2014),english,Justin,Mike,fascinated,Justin,Subject,Yes,Subject,0.985935972,admired Justin's unique perspective on things.,Subject,pronoun
+I14,Mike frightened Eric. He,M,IC1,Rohde & Kehler (2014),english,Mike,Eric,frightened,Mike,Subject,Yes,Subject,0.996691125,bolted out of the room without looking back.,Object,pronoun
+I15,Tony humiliated Zack. He,M,IC1,Rohde & Kehler (2014),english,Tony,Zack,humiliated,Tony,Subject,No,Object,0.998498054,felt a pang of regret afterward.,Subject,pronoun
+I16,Eric infuriated Ben. He,M,IC1,Rohde & Kehler (2014),english,Eric,Ben,infuriated,Eric,Subject,Yes,Subject,0.994293298,refused to apologize for his actions.,Subject,pronoun
+I17,Zack inspires Paul. He,M,IC1,Rohde & Kehler (2014),english,Zack,Paul,inspires,Z,Subject,No,Object,0.182422263,always encourages him to pursue his dreams.,Subject,pronoun
+I18,Ben intimidates David. He,M,IC1,Rohde & Kehler (2014),english,Ben,David,intimidates,Ben,Subject,Yes,Subject,0.851952215,often makes sarcastic remarks to undermine his confidence.,Subject,pronoun
+I19,Paul scares Nick. He,M,IC1,Rohde & Kehler (2014),english,Paul,Nick,scares,Paul,Subject,Yes,Subject,0.999841289,jumps out from behind the door to startle him.,Subject,pronoun
+I20,David surprised Steve. He,M,IC1,Rohde & Kehler (2014),english,David,Steve,surprised,David,Subject,Yes,Subject,0.993281131,"handed him a small, wrapped gift.",Subject,pronoun
+I21,Nick consulted Brian. He,M,IC1,Ferstl et al.(2010),english,Nick,Brian,consulted,Nick,Subject,Yes,Subject,0.985677056,provided a detailed explanation to help clarify Nick's concerns.,Object,pronoun
+I22,Steve attracted Frank. He,M,IC1,Ferstl et al.(2010),english,Steve,Frank,attracted,Steve,Subject,Yes,Subject,0.987894035,was drawn to Steve's charm and confidence.,Object,pronoun
+I23,Brian agitated Simon. He,M,IC1,Ferstl et al.(2010),english,Brian,Simon,agitated,Brian,Subject,Yes,Subject,0.994955368,"raised his voice, trying to make his point more forcefully.",Subject,pronoun
+I24,Frank angered Justin. He,M,IC1,Ferstl et al.(2010),english,Frank,Justin,angered,Frank,Subject,Yes,Subject,0.98547523,stormed out of the room without saying another word.,Object,pronoun
+I25,Simon delighted Mike. He,M,IC1,Ferstl et al.(2010),english,Simon,Mike,delighted,Simon,Subject,Yes,Subject,0.99960218,was thrilled by Simon's kind gesture.,Object,pronoun
+I26,Justin pleased Tony. He,M,IC1,Ferstl et al.(2010),english,Justin,Tony,pleased,Justin,Subject,Yes,Subject,0.990203791,smiled warmly in response.,Object,pronoun
+I27,Mike called Zack. He,M,IC1,Ferstl et al.(2010),english,Mike,Zack,called,Mike,Subject,Yes,Subject,0.997502495,wanted to ask him for advice about the upcoming project.,Subject,pronoun
+I28,Tony telephoned Ben. He,M,IC1,Ferstl et al.(2010),english,Tony,Ben,telephoned,Tony,Subject,Yes,Subject,0.880683156,wanted to discuss the upcoming project with him.,Subject,pronoun
+I29,Eric concerned Paul. He,M,IC1,Ferstl et al.(2010),english,Eric,Paul,concerned,Eric,Subject,Yes,Subject,0.995571997,worried about Paul's well-being.,Subject,pronoun
+I30,Zack irritated David. He,M,IC1,Ferstl et al.(2010),english,Zack,David,irritated,Z,Subject,Yes,Subject,0.994625285,refused to listen to David's suggestions.,Subject,pronoun
+I31,Ben antagonized Nick. He,M,IC1,Ferstl et al.(2010),english,Ben,Nick,antagonized,Ben,Subject,Yes,Subject,0.981991241,retaliated by ignoring him for the rest of the day.,Object,pronoun
+I32,Paul frustrated Steve. He,M,IC1,Ferstl et al.(2010),english,Paul,Steve,frustrated,Paul,Subject,Yes,Subject,0.996805658,struggled to explain his actions.,Subject,pronoun
+I33,David appalled Brian. He,M,IC1,Ferstl et al.(2010),english,David,Brian,appalled,David,Subject,Yes,Subject,0.999271867,couldn't believe what David had done.,Object,pronoun
+I34,Nick captivated Frank. He,M,IC1,Ferstl et al.(2010),english,Nick,Frank,captivated,Nick,Subject,Yes,Subject,0.998114549,admired Nick's charisma and found himself drawn to his energy.,Object,pronoun
+I35,Steve inspired Simon. He,M,IC1,Ferstl et al.(2010),english,Steve,Simon,inspired,Steve,Subject,Yes,Subject,0.997970167,looked up to Steve as a role model.,Object,pronoun
+I36,Brian lied to Justin. He,M,IC1,Ferstl et al.(2010),english,Brian,Justin,lied to,Brian,Subject,Yes,Subject,0.998867571,felt guilty about it immediately.,Subject,pronoun
+I37,Frank maddened Mike. He,M,IC1,Ferstl et al.(2010),english,Frank,Mike,maddened,Frank,Subject,Yes,Subject,0.951415829,lunged at him in frustration.,Object,pronoun
+I38,Simon peeved Tony. He,M,IC1,Ferstl et al.(2010),english,Simon,Tony,peeved,Simon,Subject,Yes,Subject,0.993888866,refused to apologize despite knowing he was in the wrong.,Subject,pronoun
+I39,Justin entranced Eric. He,M,IC1,Ferstl et al.(2010),english,Justin,Eric,entranced,Justin,Subject,Yes,Subject,0.999839263,couldn't look away from Justin's captivating performance.,Object,pronoun
+I40,Mike intrigued Ben. He,M,IC1,Ferstl et al.(2010),english,Mike,Ben,intrigued,Mike,Subject,Yes,Subject,0.981967791,seemed to have a mysterious plan that he wouldn't fully reveal.,Subject,pronoun
+I41,Tony repulsed Paul. He,M,IC1,Ferstl et al.(2010),english,Tony,Paul,repulsed,Tony,Subject,Yes,Subject,0.777256502,couldn't stand his constant bragging and rude behavior.,Object,pronoun
+I42,Eric worried David. He,M,IC1,Ferstl et al.(2010),english,Eric,David,worried,Eric,Subject,Yes,Subject,0.999729045,seemed distant and preoccupied lately.,Object,pronoun
+I43,Zack betrayed Nick. He,M,IC1,Ferstl et al.(2010),english,Zack,Nick,betrayed,Z,Subject,Yes,Subject,0.49998939,felt a deep pang of regret but knew it was too late to undo the damage.,Subject,pronoun
+I44,Ben confessed to Steve. He,M,IC1,Ferstl et al.(2010),english,Ben,Steve,confessed to,Ben,Subject,No,Object,0.814035842,felt guilty about what he had done.,Subject,pronoun
+I45,Paul scared Brian. He,M,IC1,Ferstl et al.(2010),english,Paul,Brian,scared,Paul,Subject,Yes,Subject,0.996783976,ran out of the room screaming.,Object,pronoun
+I46,David wowed Frank. He,M,IC1,Ferstl et al.(2010),english,David,Frank,wowed,David,Subject,Yes,Subject,0.999818048,couldn't believe how talented David was.,Object,pronoun
+I47,Nick disappointed Simon. He,M,IC1,Ferstl et al.(2010),english,Nick,Simon,disappointed,Nick,Subject,Yes,Subject,0.97502628,apologized sincerely for his actions.,Subject,pronoun
+I48,Steve intimidated Justin. He,M,IC1,Ferstl et al.(2010),english,Steve,Justin,intimidated,Steve,Subject,Yes,Subject,0.98900179,refused to make eye contact and kept his distance.,Subject,pronoun
+I49,Brian bugged Mike. He,M,IC1,Ferstl et al.(2010),english,Brian,Mike,bugged,Brian,Subject,Yes,Subject,0.962542317,didn't stop pestering him despite numerous warnings.,Subject,pronoun
+I50,Frank daunted Tony. He,M,IC1,Ferstl et al.(2010),english,Frank,Tony,daunted,Frank,Subject,Yes,Subject,0.99999182,felt intimidated by Frank's imposing presence.,Object,pronoun
+I51,Simon echoed Eric. He,M,IC1,Ferstl et al.(2010),english,Simon,Eric,echoed,Simon,Subject,Yes,Subject,0.998474401,repeated the same concerns with a hint of frustration.,Subject,pronoun
+I52,Justin enthralled Zack. He,M,IC1,Ferstl et al.(2010),english,Justin,Zack,enthralled,Justin,Subject,Yes,Subject,0.999980734,"couldn't look away, captivated by Justin's storytelling.",Object,pronoun
+I53,Mike excited Paul. He,M,IC1,Ferstl et al.(2010),english,Mike,Paul,excited,Mike,Subject,Yes,Subject,0.996812524,couldn't wait to share the news with him.,Object,pronoun
+I54,Tony gladdened David. He,M,IC1,Ferstl et al.(2010),english,Tony,David,gladdened,Tony,Subject,Yes,Subject,0.998069185,smiled warmly at him.,Object,pronoun
+I55,Eric mesmerised Nick. He,M,IC1,Ferstl et al.(2010),english,Eric,Nick,mesmerised,Eric,Subject,Yes,Subject,0.999964284,couldn't take his eyes off the intricate patterns Eric was creating.,Object,pronoun
+I56,Zack enraged Steve. He,M,IC1,Ferstl et al.(2010),english,Zack,Steve,enraged,Z,Subject,No,Object,0.377075701,refused to apologize despite Steve's frustration.,Subject,pronoun
+I57,Ben enticed Brian. He,M,IC1,Ferstl et al.(2010),english,Ben,Brian,enticed,Ben,Subject,Yes,Subject,0.99881571,offered him tickets to the concert he had been wanting to attend.,Subject,pronoun
+I58,Paul provoked Frank. He,M,IC1,Ferstl et al.(2010),english,Paul,Frank,provoked,Paul,Subject,Yes,Subject,0.72382479,became visibly upset and confronted Paul about his behavior.,Object,pronoun
+I59,David unnerved Simon. He,M,IC1,Ferstl et al.(2010),english,David,Simon,unnerved,David,Subject,Yes,Subject,0.999903256,struggled to maintain his composure under David's intense gaze.,Object,pronoun
+I60,Nick frightened Justin. He,M,IC1,Ferstl et al.(2010),english,Nick,Justin,frightened,Nick,Subject,Yes,Subject,0.941263813,"ran away, leaving Justin feeling unsettled.",Subject,pronoun
+I61,Steve troubled Mike. He,M,IC1,Ferstl et al.(2010),english,Steve,Mike,troubled,Steve,Subject,Yes,Subject,0.999764068,refused to explain why he was upset.,Subject,pronoun
+I62,Brian repelled Tony. He,M,IC1,Ferstl et al.(2010),english,Brian,Tony,repelled,Brian,Subject,Yes,Subject,0.999716655,couldn't stand his constant negativity.,Object,pronoun
+I63,Frank sickened Eric. He,M,IC1,Ferstl et al.(2010),english,Frank,Eric,sickened,Frank,Subject,Yes,Subject,0.998022056,vomited after hearing Eric's insensitive remarks.,Subject,pronoun
+I64,Simon revolted Zack. He,M,IC1,Ferstl et al.(2010),english,Simon,Zack,revolted,Simon,Subject,Yes,Subject,0.997497036,was appalled by Zack's behavior.,Subject,pronoun
+I65,Justin trailed Ben. He,M,IC1,Ferstl et al.(2010),english,Justin,Ben,trailed,Justin,Subject,Yes,Subject,0.998471072,was determined to catch up with him before they reached the end of the path.,Subject,pronoun
+I66,Mike upset David. He,M,IC1,Ferstl et al.(2010),english,Mike,David,upset,Mike,Subject,Yes,Subject,0.499741144,apologized sincerely to try to make amends.,Subject,pronoun
+I67,Tony exhausted Nick. He,M,IC1,Ferstl et al.(2010),english,Tony,Nick,exhausted,Tony,Subject,Yes,Subject,0.999891218,"collapsed onto the couch, unable to keep his eyes open.",Object,pronoun
+I68,Eric wearied Steve. He,M,IC1,Ferstl et al.(2010),english,Eric,Steve,wearied,Eric,Subject,Yes,Subject,0.999927214,struggled to keep up with Eric's relentless energy.,Object,pronoun
+I69,Zack staggered Brian. He,M,IC1,Ferstl et al.(2010),english,Zack,Brian,staggered,Z,Subject,Yes,Subject,0.999953795,"struggled to regain his balance, looking visibly shaken.",Object,pronoun
+I70,Ben cheated Frank. He,M,IC1,Ferstl et al.(2010),english,Ben,Frank,cheated,Ben,Subject,Yes,Subject,0.561966947,felt betrayed and hurt by the act.,Object,pronoun
+I71,Paul repaid Simon. He,M,IC1,Ferstl et al.(2010),english,Paul,Simon,repaid,Paul,Subject,Yes,Subject,0.999760135,felt relieved to have settled the debt.,Subject,pronoun
+I72,David astounded Justin. He,M,IC1,Ferstl et al.(2010),english,David,Justin,astounded,David,Subject,Yes,Subject,0.962531388,couldn't believe what had just happened.,Object,pronoun
+I73,Nick exhilarated Mike. He,M,IC1,Ferstl et al.(2010),english,Nick,Mike,exhilarated,Nick,Subject,Yes,Subject,0.977014195,was thrilled by the rush of excitement.,Object,pronoun
+I74,Steve spooked Tony. He,M,IC1,Ferstl et al.(2010),english,Steve,Tony,spooked,Steve,Subject,Yes,Subject,0.996826145,"jumped back in surprise, clutching his chest.",Object,pronoun
+I75,Brian unsettled Eric. He,M,IC1,Ferstl et al.(2010),english,Brian,Eric,unsettled,Brian,Subject,Yes,Subject,0.998436489,seemed distant and avoided making eye contact.,Object,pronoun
+I76,Frank flabbergasted Zack. He,M,IC1,Ferstl et al.(2010),english,Frank,Zack,flabbergasted,Frank,Subject,Yes,Subject,0.997457065,struggled to find the right words to explain himself.,Object,pronoun
+I77,Simon kissed Ben. He,M,IC1,Ferstl et al.(2010),english,Simon,Ben,kissed,Simon,Subject,No,Object,0.996812643,smiled softly and held his hand.,ambiguous,pronoun
+I78,Justin nuzzled Paul. He,M,IC1,Ferstl et al.(2010),english,Justin,Paul,nuzzled,Justin,Subject,Yes,Subject,0.999992297,"leaned closer, whispering something softly into his ear.",Subject,pronoun
+I79,Mike pained Nick. He,M,IC1,Ferstl et al.(2010),english,Mike,Nick,pained,Mike,Subject,Yes,Subject,0.999923757,felt remorseful afterward.,Subject,pronoun
+I80,Tony confused Steve. He,M,IC1,Ferstl et al.(2010),english,Tony,Steve,confused,Tony,Subject,Yes,Subject,0.999210575,couldn't understand why Steve reacted that way.,Subject,pronoun
+I81,Eric distressed Brian. He,M,IC1,Ferstl et al.(2010),english,Eric,Brian,distressed,Eric,Subject,Yes,Subject,0.999669119,struggled to explain his actions.,Subject,pronoun
+I82,Zack vexed Frank. He,M,IC1,Ferstl et al.(2010),english,Zack,Frank,vexed,Z,Subject,Yes,Subject,0.599976606,refused to apologize for his actions.,Subject,pronoun
+I83,Ben bothered Simon. He,M,IC1,Ferstl et al.(2010),english,Ben,Simon,bothered,Ben,Subject,Yes,Subject,0.998796682,apologized later for his behavior.,Subject,pronoun
+I84,Paul alarmed Justin. He,M,IC1,Ferstl et al.(2010),english,Paul,Justin,alarmed,Paul,Subject,Yes,Subject,0.999909454,He frantically explained the situation.,Subject,pronoun
+I85,David disgruntled Mike. He,M,IC1,Ferstl et al.(2010),english,David,Mike,disgruntled,David,Subject,Yes,Subject,0.99996798,refused to apologize for his actions.,Subject,pronoun
+I86,Nick plagued Tony. He,M,IC1,Ferstl et al.(2010),english,Nick,Tony,plagued,Nick,Subject,Yes,Subject,0.999737149,tried to confront him about his actions.,Object,pronoun
+I87,Steve shadowed Eric. He,M,IC1,Ferstl et al.(2010),english,Steve,Eric,shadowed,Steve,Subject,Yes,Subject,0.904639998,was eager to learn from his expertise.,Subject,pronoun
+I88,Brian tailed Zack. He,M,IC1,Ferstl et al.(2010),english,Brian,Zack,tailed,Brian,Subject,Yes,Subject,0.976986201,wanted to see where Zack was going.,Subject,pronoun
+I89,Frank incensed Ben. He,M,IC1,Ferstl et al.(2010),english,Frank,Ben,incensed,Frank,Subject,Yes,Subject,0.29045599,refused to speak to him for the rest of the day.,Object,pronoun
+I90,Simon baffled Paul. He,M,IC1,Ferstl et al.(2010),english,Simon,Paul,baffled,Simon,Subject,Yes,Subject,0.975366846,couldn't understand why Paul was so upset.,Subject,pronoun
+I91,Justin shocked David. He,M,IC1,Ferstl et al.(2010),english,Justin,David,shocked,Justin,Subject,Yes,Subject,0.679138438,couldn't believe what he had just heard.,Object,pronoun
+I92,Mike disobeyed Steve. He,M,IC1,Ferstl et al.(2010),english,Mike,Steve,disobeyed,Mike,Subject,Yes,Subject,0.922241541,refused to follow his instructions despite multiple warnings.,Subject,pronoun
+I93,Tony distracted Brian. He,M,IC1,Ferstl et al.(2010),english,Tony,Brian,distracted,Tony,Subject,No,Object,0.119168131,gestured toward the window to draw his attention away from the conversation.,Subject,pronoun
+I94,Eric married Frank. He,M,IC1,Ferstl et al.(2010),english,Eric,Frank,married,Eric,Subject,No,Object,0.731024613,loves him deeply and cherishes their life together.,ambiguous,pronoun
+I95,Zack met Simon. He,M,IC1,Ferstl et al.(2010),english,Zack,Simon,met,Z,Subject,Yes,Subject,0.316059299,invited him to join the group for dinner.,ambiguous,pronoun
+I96,Ben ordered around Justin. He,M,IC1,Ferstl et al.(2010),english,Ben,Justin,ordered around,Ben,Subject,Yes,Subject,0.98585498,seemed frustrated with how slowly things were progressing.,Subject,pronoun
+I97,Paul harmed Mike. He,M,IC1,Ferstl et al.(2010),english,Paul,Mike,harmed,Paul,Subject,Yes,Subject,0.998069542,regretted his actions immediately.,Subject,pronoun
+I98,David astonished Tony. He,M,IC1,Ferstl et al.(2010),english,David,Tony,astonished,David,Subject,Yes,Subject,0.999561917,couldn't believe what he had just heard.,Object,pronoun
+I99,Nick bewildered Eric. He,M,IC1,Ferstl et al.(2010),english,Nick,Eric,bewildered,Nick,Subject,Yes,Subject,0.99987585,struggled to understand what Nick meant.,Object,pronoun
+I100,Steve invigorated Zack. He,M,IC1,Ferstl et al.(2010),english,Steve,Zack,invigorated,Steve,Subject,No,Object,0.679111924,felt a renewed sense of motivation and energy.,Object,pronoun
+I101,Brian tantalized Ben. He,M,IC1,Ferstl et al.(2010),english,Brian,Ben,tantalized,Brian,Subject,Yes,Subject,0.904127047,struggled to resist the temptation.,Object,pronoun
+I102,Frank battled Paul. He,M,IC1,Ferstl et al.(2010),english,Frank,Paul,battled,Frank,Subject,Yes,Subject,0.467099128,was determined to emerge victorious.,Subject,pronoun
+I103,Simon hurt David. He,M,IC1,Ferstl et al.(2010),english,Simon,David,hurt,Simon,Subject,No,Object,0.952573892,needed medical attention.,Object,pronoun
+I104,Justin followed Nick. He,M,IC1,Ferstl et al.(2010),english,Justin,Nick,followed,Justin,Subject,Yes,Subject,0.970170632,seemed eager to catch up with him.,Subject,pronoun
+I105,Mike tormented Brian. He,M,IC1,Ferstl et al.(2010),english,Mike,Brian,tormented,Mike,Subject,Yes,Subject,0.999993608,felt a pang of guilt afterward.,Subject,pronoun
+I106,Tony grazed Frank. He,M,IC1,Ferstl et al.(2010),english,Tony,Frank,grazed,Tony,Subject,Yes,Subject,0.981976069,stumbled slightly but quickly regained his balance.,Object,pronoun
+I107,Eric played Simon. He,M,IC1,Ferstl et al.(2010),english,Eric,Simon,played,Eric,Subject,Yes,Subject,0.850425313,won the match with ease.,Subject,pronoun
+I108,Zack dumbfounded Justin. He,M,IC1,Ferstl et al.(2010),english,Zack,Justin,dumbfounded,Z,Subject,Yes,Subject,0.998823442,"stared at him in disbelief, trying to process what had just happened.",Object,pronoun
+I109,Ben flattered Mike. He,M,IC1,Ferstl et al.(2010),english,Ben,Mike,flattered,Ben,Subject,No,Object,0.810145348,appreciated the compliment and smiled in response.,Object,pronoun
+I110,Paul alienated Tony. He,M,IC1,Ferstl et al.(2010),english,Paul,Tony,alienated,Paul,Subject,Yes,Subject,0.999744892,refused to apologize for his behavior.,Subject,pronoun
+I111,David harassed Eric. He,M,IC1,Ferstl et al.(2010),english,David,Eric,harassed,David,Subject,Yes,Subject,0.998441123,refused to stop despite multiple warnings.,Subject,pronoun
+I112,Nick approached Zack. He,M,IC1,Ferstl et al.(2010),english,Nick,Zack,approached,Nick,Subject,Yes,Subject,0.939130808,offered him a firm handshake and smiled warmly.,ambiguous,pronoun
+I113,Steve beguiled Ben. He,M,IC1,Ferstl et al.(2010),english,Steve,Ben,beguiled,Steve,Subject,No,Object,0.047425648,charmed him with his clever wit.,Subject,pronoun
+I114,Brian caressed Paul. He,M,IC1,Ferstl et al.(2010),english,Brian,Paul,caressed,Brian,Subject,Yes,Subject,0.924127009,"leaned in closer, his emotions evident in his eyes.",Subject,pronoun
+I115,Frank enlivened David. He,M,IC1,Ferstl et al.(2010),english,Frank,David,enlivened,Frank,Subject,Yes,Subject,0.999957252,brought laughter to the room with his witty jokes.,Subject,pronoun
+I116,Simon corrupted Nick. He,M,IC1,Ferstl et al.(2010),english,Simon,Nick,corrupted,Simon,Subject,Yes,Subject,0.998423062,was always manipulating him for his own benefit.,Subject,pronoun
+I117,Justin confounded Steve. He,M,IC1,Ferstl et al.(2010),english,Justin,Steve,confounded,Justin,Subject,Yes,Subject,0.99993961,struggled to understand what Justin meant.,Object,pronoun
+I118,Mike deserted Frank. He,M,IC1,Ferstl et al.(2010),english,Mike,Frank,deserted,Mike,Subject,No,Object,0.816917481,felt betrayed and confused.,Object,pronoun
+I119,Tony discouraged Simon. He,M,IC1,Ferstl et al.(2010),english,Tony,Simon,discouraged,Tony,Subject,No,Object,0.843325136,felt it was necessary to be honest about the situation.,Subject,pronoun
+I120,Eric tracked Justin. He,M,IC1,Ferstl et al.(2010),english,Eric,Justin,tracked,Eric,Subject,No,Object,0.998204813,was determined to confront him about the missing documents.,Subject,pronoun
+I121,Zack startled Mike. He,M,IC1,Ferstl et al.(2010),english,Zack,Mike,startled,Z,Subject,Yes,Subject,0.997439753,apologized immediately for scaring him.,Subject,pronoun
+I122,Ben defamed Tony. He,M,IC1,Ferstl et al.(2010),english,Ben,Tony,defamed,Ben,Subject,Yes,Subject,0.607407365,faced legal consequences for his actions.,Subject,pronoun
+I123,Paul abandoned Eric. He,M,IC1,Ferstl et al.(2010),english,Paul,Eric,abandoned,Paul,Subject,Yes,Subject,0.988768054,felt betrayed and disappointed.,Object,pronoun
+I124,David courted Zack. He,M,IC1,Ferstl et al.(2010),english,David,Zack,courted,David,Subject,Yes,Subject,0.730970215,expressed his feelings through heartfelt letters and thoughtful gestures.,Subject,pronoun
+I125,Nick wounded Ben. He,M,IC1,Ferstl et al.(2010),english,Nick,Ben,wounded,Nick,Subject,Yes,Subject,0.964041549,was rushed to the hospital for treatment.,Object,pronoun
+I126,Steve chilled Paul. He,M,IC1,Ferstl et al.(2010),english,Steve,Paul,chilled,Steve,Subject,Yes,Subject,0.999964165,did so by turning on the air conditioner to cool down the room.,Subject,pronoun
+I127,Brian nettled David. He,M,IC1,Ferstl et al.(2010),english,Brian,David,nettled,Brian,Subject,No,Object,0.060074387,felt irritated and decided to confront him.,Object,pronoun
+I128,Frank pursued Nick. He,M,IC1,Ferstl et al.(2010),english,Frank,Nick,pursued,Frank,Subject,Yes,Subject,0.999080031,was determined to confront him about the misunderstanding.,Subject,pronoun
+I129,Simon dreamed about Steve. He,M,IC1,Ferstl et al.(2010),english,Simon,Steve,dreamed about,Simon,Subject,No,Object,0.880715624,felt a sense of longing he couldn‚Äôt quite explain.,Subject,pronoun
+I130,Justin galled Brian. He,M,IC1,Ferstl et al.(2010),english,Justin,Brian,galled,Justin,Subject,Yes,Subject,0.988251097,felt deeply frustrated by Justin's behavior.,Object,pronoun
+I131,Mike stimulated Simon. He,M,IC1,Ferstl et al.(2010),english,Mike,Simon,stimulated,Mike,Subject,Yes,Subject,0.999731548,felt a surge of excitement.,Object,pronoun
+I132,Tony affected Justin. He,M,IC1,Ferstl et al.(2010),english,Tony,Justin,affected,Tony,Subject,Yes,Subject,0.985928202,felt deeply impacted by Tony's actions.,Object,pronoun
+I133,Eric embraced Mike. He,M,IC1,Ferstl et al.(2010),english,Eric,Mike,embraced,Eric,Subject,Yes,Subject,0.939624588,"smiled warmly, feeling a sense of comfort and connection.",Object,pronoun
+I134,Zack fazed Tony. He,M,IC1,Ferstl et al.(2010),english,Zack,Tony,fazed,Z,Subject,Yes,Subject,0.999503925,looked at him with a puzzled expression.,Object,pronoun
+I135,Ben debated with Eric. He,M,IC1,Ferstl et al.(2010),english,Ben,Eric,debated with,Ben,Subject,Yes,Subject,0.999738341,argued passionately about his perspective.,Subject,pronoun
+I136,Paul defied Zack. He,M,IC1,Ferstl et al.(2010),english,Paul,Zack,defied,Paul,Subject,Yes,Subject,0.999725947,refused to back down despite Zack's warnings.,Subject,pronoun
+I137,David questioned Ben. He,M,IC1,Ferstl et al.(2010),english,David,Ben,questioned,David,Subject,No,Object,0.730303365,seemed uncertain about the answer.,Subject,pronoun
+I138,Nick assisted Paul. He,M,IC2,Rohde & Kehler (2014),english,Nick,Paul,assisted,Nick,Subject,Yes,Subject,0.996787173,appreciated Nick's help immensely.,Object,pronoun
+I139,Steve blames David. He,M,IC2,Rohde & Kehler (2014),english,Steve,David,blames,Steve,Subject,No,Object,0.561451247,believes David is responsible for the mistake.,Subject,pronoun
+I140,Brian comforted Nick. He,M,IC2,Rohde & Kehler (2014),english,Brian,Nick,comforted,Brian,Subject,Yes,Subject,0.995917371,reassured him that everything would be okay.,Subject,pronoun
+I141,Frank congratulated Steve. He,M,IC2,Rohde & Kehler (2014),english,Frank,Steve,congratulated,Frank,Subject,Yes,Subject,0.962508855,was genuinely happy for his friend's success.,Subject,pronoun
+I142,Simon corrected Brian. He,M,IC2,Rohde & Kehler (2014),english,Simon,Brian,corrected,Simon,Subject,No,Object,0.775354632,apologized for the mistake.,Object,pronoun
+I143,Justin detests Frank. He,M,IC2,Rohde & Kehler (2014),english,Justin,Frank,detests,Justin,Subject,No,Object,0.26890909,avoids him whenever possible.,Subject,pronoun
+I144,Mike fears Justin. He,M,IC2,Rohde & Kehler (2014),english,Mike,Justin,fears,Mike,Subject,No,Object,0.730597336,believes Justin might betray him.,Subject,pronoun
+I145,Tony envies Mike. He,M,IC2,Rohde & Kehler (2014),english,Tony,Mike,envies,Tony,Subject,Yes,Subject,0.880796168,wishes he had Mike's confidence and success.,Subject,pronoun
+I146,Eric hates Tony. He,M,IC2,Rohde & Kehler (2014),english,Eric,Tony,hates,Eric,Subject,No,Object,0.993260197,believes Tony is untrustworthy.,Subject,pronoun
+I147,Zack helped Eric. He,M,IC2,Rohde & Kehler (2014),english,Zack,Eric,helped,Z,Subject,Yes,Subject,0.904218456,appreciated Zack's support greatly.,Object,pronoun
+I148,Ben mocked Zack. He,M,IC2,Rohde & Kehler (2014),english,Ben,Zack,mocked,Ben,Subject,No,Object,0.075840015,"felt a sense of satisfaction, though it was fleeting.",Subject,pronoun
+I149,Paul noticed Ben. He,M,IC2,Rohde & Kehler (2014),english,Paul,Ben,noticed,Paul,Subject,Yes,Subject,0.998393114,seemed deep in thought.,Object,pronoun
+I150,David pacified Paul. He,M,IC2,Rohde & Kehler (2014),english,David,Paul,pacified,David,Subject,Yes,Subject,0.878932623,calmed him down by explaining the situation carefully.,Subject,pronoun
+I151,Nick praised David. He,M,IC2,Rohde & Kehler (2014),english,Nick,David,praised,Nick,Subject,Yes,Subject,0.938841348,was impressed by his hard work and dedication.,Subject,pronoun
+I152,Steve reproached Nick. He,M,IC2,Rohde & Kehler (2014),english,Steve,Nick,reproached,Steve,Subject,Yes,Subject,0.994591199,apologized reluctantly after realizing his mistake.,Object,pronoun
+I153,Brian scolded Steve. He,M,IC2,Rohde & Kehler (2014),english,Brian,Steve,scolded,Brian,Subject,Yes,Subject,0.999661377,"apologized immediately, realizing he had overreacted.",Subject,pronoun
+I154,Frank stared at Brian. He,M,IC2,Rohde & Kehler (2014),english,Frank,Brian,stared at,Frank,Subject,Yes,Subject,0.88006809,seemed unsure of what to say next.,ambiguous,pronoun
+I155,Simon thanked Frank. He,M,IC2,Rohde & Kehler (2014),english,Simon,Frank,thanked,Simon,Subject,Yes,Subject,0.985870971,appreciated his help with the project.,Subject,pronoun
+I156,Justin trusted Simon. He,M,IC2,Rohde & Kehler (2014),english,Justin,Simon,trusted,Justin,Subject,Yes,Subject,0.727764297,always believed in his judgment and sought his advice in difficult situations.,Subject,pronoun
+I157,Mike values Tony. He,M,IC2,Rohde & Kehler (2014),english,Mike,Tony,values,Mike,Subject,Yes,Subject,0.962625381,respects his opinions and often seeks his advice.,Subject,pronoun
+I158,Tony cuddled Eric. He,M,IC2,Ferstl et al.(2010),english,Tony,Eric,cuddled,Tony,Subject,Yes,Subject,0.993286067,"held him tightly, offering comfort.",Subject,pronoun
+I159,Eric decried Zack. He,M,IC2,Ferstl et al.(2010),english,Eric,Zack,decried,Eric,Subject,Yes,Subject,0.851918738,criticized him harshly for his irresponsible behavior.,Subject,pronoun
+I160,Zack moved Ben. He,M,IC2,Ferstl et al.(2010),english,Zack,Ben,moved,Z,Subject,Yes,Subject,0.999657444,helped him carry the heavy box upstairs.,Subject,pronoun
+I161,Ben deprecated Paul. He,M,IC2,Ferstl et al.(2010),english,Ben,Paul,deprecated,Ben,Subject,Yes,Subject,0.88058895,felt that Paul's approach was inefficient.,Subject,pronoun
+I162,Paul encouraged David. He,M,IC2,Ferstl et al.(2010),english,Paul,David,encouraged,Paul,Subject,Yes,Subject,0.99879359,was confident that David could succeed.,Subject,pronoun
+I163,David played with Nick. He,M,IC2,Ferstl et al.(2010),english,David,Nick,played with,David,Subject,Yes,Subject,0.995875039,was excited to show him his new video game.,ambiguous,pronoun
+I164,Nick hit Steve. He,M,IC2,Ferstl et al.(2010),english,Nick,Steve,hit,Nick,Subject,Yes,Subject,0.879731019,fell to the ground.,Object,pronoun
+I165,Steve reproved Brian. He,M,IC2,Ferstl et al.(2010),english,Steve,Brian,reproved,Steve,Subject,Yes,Subject,0.939869562,apologized sincerely for his harsh tone.,Subject,pronoun
+I166,Brian forgot Frank. He,M,IC2,Ferstl et al.(2010),english,Brian,Frank,forgot,Brian,Subject,Yes,Subject,0.561525344,felt guilty about it later.,Subject,pronoun
+I167,Frank exalted Simon. He,M,IC2,Ferstl et al.(2010),english,Frank,Simon,exalted,Frank,Subject,Yes,Subject,0.996703444,was deeply impressed by Simon's achievements.,Subject,pronoun
+I168,Simon instructed Justin. He,M,IC2,Ferstl et al.(2010),english,Simon,Justin,instructed,Simon,Subject,Yes,Subject,0.994635067,followed the instructions carefully.,Object,pronoun
+I169,Justin warned Mike. He,M,IC2,Ferstl et al.(2010),english,Justin,Mike,warned,Justin,Subject,Yes,Subject,0.571938502,might get into trouble if he wasn‚Äôt careful.,Object,pronoun
+I170,Mike welcomed Eric. He,M,IC2,Ferstl et al.(2010),english,Mike,Eric,welcomed,Mike,Subject,Yes,Subject,0.988818525,shook his hand warmly and invited him inside.,Subject,pronoun
+I171,Tony rebuked Zack. He,M,IC2,Ferstl et al.(2010),english,Tony,Zack,rebuked,Tony,Subject,Yes,Subject,0.562013843,felt frustrated by Zack's irresponsible behavior.,Subject,pronoun
+I172,Eric blessed Ben. He,M,IC2,Ferstl et al.(2010),english,Eric,Ben,blessed,Eric,Subject,Yes,Subject,0.7730874,felt grateful for the kind gesture.,Object,pronoun
+I173,Zack divorced Paul. He,M,IC2,Ferstl et al.(2010),english,Zack,Paul,divorced,Z,Subject,No,Object,0.499992489,struggled to adjust to life on his own.,Object,pronoun
+I174,Ben persecuted David. He,M,IC2,Ferstl et al.(2010),english,Ben,David,persecuted,Ben,Subject,Yes,Subject,0.999980853,felt justified in his actions due to their long-standing rivalry.,Object,pronoun
+I175,Paul derided Nick. He,M,IC2,Ferstl et al.(2010),english,Paul,Nick,derided,Paul,Subject,Yes,Subject,0.924139024,mocked him for his poor decision-making.,Subject,pronoun
+I176,David wanted Steve. He,M,IC2,Ferstl et al.(2010),english,David,Steve,wanted,David,Subject,Yes,Subject,0.851272943,approached him to discuss his feelings.,Subject,pronoun
+I177,Nick advised Brian. He,M,IC2,Ferstl et al.(2010),english,Nick,Brian,advised,Nick,Subject,Yes,Subject,0.728669402,should carefully consider all options before making a decision.,Object,pronoun
+I178,Steve supported Frank. He,M,IC2,Ferstl et al.(2010),english,Steve,Frank,supported,Steve,Subject,Yes,Subject,0.918096597,valued their friendship deeply.,Subject,pronoun
+I179,Brian chastened Simon. He,M,IC2,Ferstl et al.(2010),english,Brian,Simon,chastened,Brian,Subject,Yes,Subject,0.977021709,regretted his harsh words and sought to make amends.,Subject,pronoun
+I180,Frank led Justin. He,M,IC2,Ferstl et al.(2010),english,Frank,Justin,led,Frank,Subject,Yes,Subject,0.996753178,guided him through the dense forest carefully.,Subject,pronoun
+I181,Simon petted Mike. He,M,IC2,Ferstl et al.(2010),english,Simon,Mike,petted,Simon,Subject,Yes,Subject,0.970661975,seemed to enjoy the affection.,Object,pronoun
+I182,Justin admonished Tony. He,M,IC2,Ferstl et al.(2010),english,Justin,Tony,admonished,Justin,Subject,Yes,Subject,0.678714888,sternly warned him not to repeat the mistake.,Subject,pronoun
+I183,Mike rushed to Zack. He,M,IC2,Ferstl et al.(2010),english,Mike,Zack,rushed to,Mike,Subject,Yes,Subject,0.999698426,desperately asked if he was okay.,Subject,pronoun
+I184,Tony venerated Ben. He,M,IC2,Ferstl et al.(2010),english,Tony,Ben,venerated,Tony,Subject,Yes,Subject,0.999963569,deeply admired his wisdom and leadership.,Subject,pronoun
+I185,Eric chased Paul. He,M,IC2,Ferstl et al.(2010),english,Eric,Paul,chased,Eric,Subject,No,Object,0.924135767,caught up to him quickly.,Subject,pronoun
+I186,Zack deplored David. He,M,IC2,Ferstl et al.(2010),english,Zack,David,deplored,Z,Subject,No,Object,0.2220804,resented him deeply for the betrayal.,Subject,pronoun
+I187,Ben chided Nick. He,M,IC2,Ferstl et al.(2010),english,Ben,Nick,chided,Ben,Subject,Yes,Subject,0.985881054,regretted his harsh words almost immediately.,Subject,pronoun
+I188,Paul cautioned Steve. He,M,IC2,Ferstl et al.(2010),english,Paul,Steve,cautioned,Paul,Subject,Yes,Subject,0.993322773,warned him about the potential risks.,Subject,pronoun
+I189,David denounced Brian. He,M,IC2,Ferstl et al.(2010),english,David,Brian,denounced,David,Subject,Yes,Subject,0.999642553,claimed that Brian's actions were unacceptable.,Subject,pronoun
+I190,Nick escorted Frank. He,M,IC2,Ferstl et al.(2010),english,Nick,Frank,escorted,Nick,Subject,Yes,Subject,0.992831108,opened the door for him.,Subject,pronoun
+I191,Steve lauded Simon. He,M,IC2,Ferstl et al.(2010),english,Steve,Simon,lauded,Steve,Subject,No,Object,0.119199275,admired his dedication to the project.,Subject,pronoun
+I192,Brian pardoned Justin. He,M,IC2,Ferstl et al.(2010),english,Brian,Justin,pardoned,Brian,Subject,Yes,Subject,0.977004633,didn't want to hold a grudge any longer.,Subject,pronoun
+I193,Frank disdained Mike. He,M,IC2,Ferstl et al.(2010),english,Frank,Mike,disdained,Frank,Subject,Yes,Subject,0.99997835,thought Mike was untrustworthy and avoided him whenever possible.,Subject,pronoun
+I194,Simon caught Tony. He,M,IC2,Ferstl et al.(2010),english,Simon,Tony,caught,Simon,Subject,Yes,Subject,0.985500236,handed him a towel to dry off.,Subject,pronoun
+I195,Justin prosecuted Eric. He,M,IC2,Ferstl et al.(2010),english,Justin,Eric,prosecuted,Justin,Subject,Yes,Subject,0.999790164,argued passionately in court to prove Eric's guilt.,Subject,pronoun
+I196,Mike castigated Ben. He,M,IC2,Ferstl et al.(2010),english,Mike,Ben,castigated,Mike,Subject,Yes,Subject,0.982009637,felt deeply regretful for his harsh words afterward.,Subject,pronoun
+I197,Tony criticized Paul. He,M,IC2,Ferstl et al.(2010),english,Tony,Paul,criticized,Tony,Subject,Yes,Subject,0.215536182,argued that Paul's approach was ineffective.,Subject,pronoun
+I198,Eric hailed David. He,M,IC2,Ferstl et al.(2010),english,Eric,David,hailed,Eric,Subject,Yes,Subject,0.996198383,walked over to greet him with a smile.,ambiguous,pronoun
+I199,Zack missed Nick. He,M,IC2,Ferstl et al.(2010),english,Zack,Nick,missed,Z,Subject,Yes,Subject,0.99135599,longed to see his best friend again and catch up on everything they had missed.,Subject,pronoun
+I200,Ben visited Steve. He,M,IC2,Ferstl et al.(2010),english,Ben,Steve,visited,Ben,Subject,Yes,Subject,0.98578432,seemed happy to see him.,Object,pronoun
+I201,Paul complimented Brian. He,M,IC2,Ferstl et al.(2010),english,Paul,Brian,complimented,Paul,Subject,Yes,Subject,0.988920635,appreciated the effort Brian had put into his work.,Subject,pronoun
+I202,David grieved Frank. He,M,IC2,Ferstl et al.(2010),english,David,Frank,grieved,David,Subject,No,Object,0.998492702,struggled to come to terms with the loss.,Subject,pronoun
+I203,Nick protected Simon. He,M,IC2,Ferstl et al.(2010),english,Nick,Simon,protected,Nick,Subject,Yes,Subject,0.988808032,"stood in front of him, shielding him from harm.",Subject,pronoun
+I204,Steve relished Justin. He,M,IC2,Ferstl et al.(2010),english,Steve,Justin,relished,Steve,Subject,Yes,Subject,0.99681525,admired his dedication and hardworking nature.,Subject,pronoun
+I205,Brian shook Mike. He,M,IC2,Ferstl et al.(2010),english,Brian,Mike,shook,Brian,Subject,Yes,Subject,0.999914103,seemed upset and was trying to get his attention.,Subject,pronoun
+I206,Frank accompanied Tony. He,M,IC2,Ferstl et al.(2010),english,Frank,Tony,accompanied,Frank,Subject,Yes,Subject,0.999931028,was eager to help him with the task at hand.,Subject,pronoun
+I207,Simon cheered Eric. He,M,IC2,Ferstl et al.(2010),english,Simon,Eric,cheered,Simon,Subject,Yes,Subject,0.999874539,was thrilled to see his friend's success.,Subject,pronoun
+I208,Justin saluted Zack. He,M,IC2,Ferstl et al.(2010),english,Justin,Zack,saluted,Justin,Subject,Yes,Subject,0.999903495,acknowledged him with a nod of respect.,Object,pronoun
+I209,Mike scorned Paul. He,M,IC2,Ferstl et al.(2010),english,Mike,Paul,scorned,Mike,Subject,Yes,Subject,0.979327393,refused to acknowledge his efforts.,Subject,pronoun
+I210,Tony excused David. He,M,IC2,Ferstl et al.(2010),english,Tony,David,excused,Tony,Subject,Yes,Subject,0.999258902,apologized for the misunderstanding.,ambiguous,pronoun
+I211,Eric reprimanded Nick. He,M,IC2,Ferstl et al.(2010),english,Eric,Nick,reprimanded,Eric,Subject,Yes,Subject,0.939834914,warned him not to make the same mistake again.,Subject,pronoun
+I213,Ben chastized Brian. He,M,IC2,Ferstl et al.(2010),english,Ben,Brian,chastized,Ben,Subject,Yes,Subject,0.981776327,felt frustrated by Brian's behavior.,Subject,pronoun
+I214,Paul freed Frank. He,M,IC2,Ferstl et al.(2010),english,Paul,Frank,freed,Paul,Subject,Yes,Subject,0.999057537,was grateful for the help.,Object,pronoun
+I216,Nick cherished Justin. He,M,IC2,Ferstl et al.(2010),english,Nick,Justin,cherished,Nick,Subject,Yes,Subject,0.939795747,always admired his kindness and unwavering support.,Subject,pronoun
+I217,Steve esteemed Mike. He,M,IC2,Ferstl et al.(2010),english,Steve,Mike,esteemed,Steve,Subject,Yes,Subject,0.996756383,valued his opinions and often sought his advice.,Subject,pronoun
+I218,Brian believed Tony. He,M,IC2,Ferstl et al.(2010),english,Brian,Tony,believed,Brian,Subject,No,Object,0.304396135,was convinced by his calm and logical explanation.,Subject,pronoun
+I219,Frank worshipped Eric. He,M,IC2,Ferstl et al.(2010),english,Frank,Eric,worshipped,Frank,Subject,Yes,Subject,0.980643532,was captivated by his charisma and unwavering confidence.,Subject,pronoun
+I220,Simon banished Zack. He,M,IC2,Ferstl et al.(2010),english,Simon,Zack,banished,Simon,Subject,Yes,Subject,0.999874181,had grown tired of Zack's constant disruptions.,Subject,pronoun
+I221,Justin complemented Ben. He,M,IC2,Ferstl et al.(2010),english,Justin,Ben,complemented,Justin,Subject,Yes,Subject,0.995921155,thanked him for his kind words.,Object,pronoun
+I222,Mike abhorred David. He,M,IC2,Ferstl et al.(2010),english,Mike,David,abhorred,Mike,Subject,Yes,Subject,0.474280443,constantly avoided interacting with him.,Subject,pronoun
+I223,Tony honoured Nick. He,M,IC2,Ferstl et al.(2010),english,Tony,Nick,honoured,Tony,Subject,Yes,Subject,0.981762543,felt a deep sense of gratitude for his friendship and support.,Object,pronoun
+I224,Eric revered Steve. He,M,IC2,Ferstl et al.(2010),english,Eric,Steve,revered,Steve,Object,Yes,Subject,0.499977976,looked up to him as a role model and sought his guidance in difficult situations.,Subject,pronoun
+I225,Zack yelled at Brian. He,M,IC2,Ferstl et al.(2010),english,Zack,Brian,yelled at,Z,Subject,No,Object,0.838165075,apologized immediately after realizing his mistake.,ambiguous,pronoun
+I226,Ben acclaimed Frank. He,M,IC2,Ferstl et al.(2010),english,Ben,Frank,acclaimed,Ben,Subject,No,Object,0.182416261,was impressed by his talent and dedication.,Subject,pronoun
+I227,Paul censured Simon. He,M,IC2,Ferstl et al.(2010),english,Paul,Simon,censured,Paul,Subject,No,Object,0.92405758,was disappointed by his actions.,Subject,pronoun
+I228,David ridiculed Justin. He,M,IC2,Ferstl et al.(2010),english,David,Justin,ridiculed,David,Subject,Yes,Subject,0.999873228,mocked him in front of their friends.,Subject,pronoun
+I229,Nick reassured Mike. He,M,IC2,Ferstl et al.(2010),english,Nick,Mike,reassured,Nick,Subject,Yes,Subject,0.970523738,understood how stressful the situation had been and wanted to help him through it.,Subject,pronoun
+I230,Steve condemned Tony. He,M,IC2,Ferstl et al.(2010),english,Steve,Tony,condemned,Steve,Subject,Yes,Subject,0.997514119,expressed his disappointment in how Tony handled the situation.,Subject,pronoun
+I231,Brian answered Eric. He,M,IC2,Ferstl et al.(2010),english,Brian,Eric,answered,Brian,Subject,Yes,Subject,0.997508307,explained the situation calmly and in detail.,Subject,pronoun
+I232,Frank toasted Zack. He,M,IC2,Ferstl et al.(2010),english,Frank,Zack,toasted,Frank,Subject,No,Object,0.980549082,raised his glass with a warm smile.,Subject,pronoun
+I233,Simon hired Ben. He,M,IC2,Ferstl et al.(2010),english,Simon,Ben,hired,Simon,Subject,Yes,Subject,0.996591191,was impressed by his qualifications.,Subject,pronoun
+I234,Justin idolized Paul. He,M,IC2,Ferstl et al.(2010),english,Justin,Paul,idolized,Paul,Object,Yes,Subject,0.981669934,looked up to him as a mentor and sought his advice regularly.,Subject,pronoun
+I235,Mike counseled Nick. He,M,IC2,Ferstl et al.(2010),english,Mike,Nick,counseled,Mike,Subject,Yes,Subject,0.948578125,offered advice to help him navigate the situation.,Subject,pronoun
+I237,Eric worried about Brian. He,M,IC2,Ferstl et al.(2010),english,Eric,Brian,worried about,Eric,Subject,Yes,Subject,0.996894498,feared that Brian might not be handling the situation well.,Subject,pronoun
+I238,Zack celebrated Frank. He,M,IC2,Ferstl et al.(2010),english,Zack,Frank,celebrated,Z,Subject,Yes,Subject,0.99882035,applauded his achievements with enthusiasm.,Subject,pronoun
+I239,Ben mourned Simon. He,M,IC2,Ferstl et al.(2010),english,Ben,Simon,mourned,Ben,Subject,Yes,Subject,0.999989317,struggled to find the right words to express his grief.,Subject,pronoun
+I240,Paul spanked Justin. He,M,IC2,Ferstl et al.(2010),english,Paul,Justin,spanked,Paul,Subject,Yes,Subject,0.924122534,"apologized afterward, feeling remorseful for his actions.",Subject,pronoun
+I241,David dreaded Mike. He,M,IC2,Ferstl et al.(2010),english,David,Mike,dreaded,David,Subject,No,Object,0.43775709,avoided him whenever possible.,Subject,pronoun
+I242,Nick guided Tony. He,M,IC2,Ferstl et al.(2010),english,Nick,Tony,guided,Nick,Subject,Yes,Subject,0.939277499,showed him the best route through the forest.,Subject,pronoun
+I243,Steve adored Eric. He,M,IC2,Ferstl et al.(2010),english,Steve,Eric,adored,Steve,Subject,No,Object,0.97068534,looked up to him as a role model.,Subject,pronoun
+I244,Brian consoled Zack. He,M,IC2,Ferstl et al.(2010),english,Brian,Zack,consoled,Brian,Subject,Yes,Subject,0.99882368,reminded him that everything would eventually get better.,Subject,pronoun
+I245,Frank prized Ben. He,M,IC2,Ferstl et al.(2010),english,Frank,Ben,prized,Frank,Subject,Yes,Subject,0.997796265,admired his dedication and work ethic.,Subject,pronoun
+I246,Simon distrusted Paul. He,M,IC2,Ferstl et al.(2010),english,Simon,Paul,distrusted,Simon,Subject,Yes,Subject,0.993255142,often questioned his motives and kept a distance.,Subject,pronoun
+I247,Justin employed David. He,M,IC2,Ferstl et al.(2010),english,Justin,David,employed,Justin,Subject,Yes,Subject,0.999947239,was confident in David's abilities to handle the project.,Subject,pronoun
+I248,Mike punished Steve. He,M,IC2,Ferstl et al.(2010),english,Mike,Steve,punished,Mike,Subject,Yes,Subject,0.962393581,apologized later for being too harsh.,Subject,pronoun
+I249,Tony resented Brian. He,M,IC2,Ferstl et al.(2010),english,Tony,Brian,resented,Tony,Subject,No,Object,0.920349998,felt that Brian always took credit for his ideas.,Subject,pronoun
+I250,Eric treasured Frank. He,M,IC2,Ferstl et al.(2010),english,Eric,Frank,treasured,Eric,Subject,Yes,Subject,0.993279247,valued their friendship deeply and often went out of his way to show his appreciation.,Subject,pronoun
+I251,Zack penalized Simon. He,M,IC2,Ferstl et al.(2010),english,Zack,Simon,penalized,Z,Subject,Yes,Subject,0.999925069,was upset about Simon breaking the rules.,Subject,pronoun
+I252,Ben sued Justin. He,M,IC2,Ferstl et al.(2010),english,Ben,Justin,sued,Ben,Subject,Yes,Subject,0.988933575,claimed that Justin had breached their contract.,Subject,pronoun
+I253,Paul detested Mike. He,M,IC2,Ferstl et al.(2010),english,Paul,Mike,detested,Paul,Subject,Yes,Subject,0.960133014,avoided speaking to him whenever possible.,Subject,pronoun
+I255,Nick loved Eric. He,M,IC2,Ferstl et al.(2010),english,Nick,Eric,loved,Nick,Subject,Yes,Subject,0.437438358,always looked forward to spending time with him.,Subject,pronoun
+I256,Steve commended Zack. He,M,IC2,Ferstl et al.(2010),english,Steve,Zack,commended,Steve,Subject,Yes,Subject,0.851786738,appreciated Zack's hard work and dedication.,Subject,pronoun
+I257,Brian pitied Ben. He,M,IC2,Ferstl et al.(2010),english,Brian,Ben,pitied,Brian,Subject,Yes,Subject,0.562171443,felt that Ben was going through a difficult time.,Subject,pronoun
+I258,Frank applauded Paul. He,M,IC2,Ferstl et al.(2010),english,Frank,Paul,applauded,Frank,Subject,No,Object,0.995915123,was impressed by his performance.,Subject,pronoun
+I259,Simon feared David. He,M,IC2,Ferstl et al.(2010),english,Simon,David,feared,Simon,Subject,Yes,Subject,0.944662226,avoided him whenever possible.,Subject,pronoun
+I260,Justin fed Nick. He,M,IC2,Ferstl et al.(2010),english,Justin,Nick,fed,Justin,Subject,Yes,Subject,0.992823822,seemed satisfied after eating.,Object,pronoun
+I261,Mike loathed Brian. He,M,IC2,Ferstl et al.(2010),english,Mike,Brian,loathed,Mike,Subject,Yes,Subject,0.37725647,refused to speak to him.,Subject,pronoun
+I262,Tony rewarded Frank. He,M,IC2,Ferstl et al.(2010),english,Tony,Frank,rewarded,Tony,Subject,Yes,Subject,0.96627972,gave him a generous bonus for his hard work.,Subject,pronoun
+I263,Eric appreciated Simon. He,M,IC2,Ferstl et al.(2010),english,Eric,Simon,appreciated,Eric,Subject,No,Object,0.924088115,valued his advice and trusted his judgment.,Subject,pronoun
+I264,Zack despised Justin. He,M,IC2,Ferstl et al.(2010),english,Zack,Justin,despised,Z,Subject,Yes,Subject,0.991400871,avoided him whenever possible.,Subject,pronoun
+I265,Ben disliked Mike. He,M,IC2,Ferstl et al.(2010),english,Ben,Mike,disliked,Ben,Subject,No,Object,0.991185908,often avoided interacting with him whenever possible.,Subject,pronoun
+I266,Paul favoured Tony. He,M,IC2,Ferstl et al.(2010),english,Paul,Tony,favoured,Paul,Subject,Yes,Subject,0.999890264,appreciated his dedication and work ethic.,Subject,pronoun
+I267,David hated Eric. He,M,IC2,Ferstl et al.(2010),english,David,Eric,hated,David,Subject,No,Object,0.727898413,always avoided him at social gatherings.,Subject,pronoun
+I268,Nick liked Zack. He,M,IC2,Ferstl et al.(2010),english,Nick,Zack,liked,Nick,Subject,Yes,Subject,0.554012381,enjoyed spending time with him and appreciated his sense of humor.,Subject,pronoun
+I269,Steve respected Ben. He,M,IC2,Ferstl et al.(2010),english,Steve,Ben,respected,Steve,Subject,No,Object,0.814954169,admired his work ethic and often sought his advice.,Subject,pronoun
+I270,Brian admired Paul. He,M,IC2,Ferstl et al.(2010),english,Brian,Paul,admired,Brian,Subject,No,Object,0.962547186,looked up to him for his dedication and leadership.,Subject,pronoun
+I271,Frank carried David. He,M,IC2,Ferstl et al.(2010),english,Frank,David,carried,Frank,Subject,Yes,Subject,0.999848794,was struggling under the weight but refused to stop.,Subject,pronoun
+I272,Simon envied Nick. He,M,IC2,Ferstl et al.(2010),english,Simon,Nick,envied,Simon,Subject,Yes,Subject,0.952314793,wished he had Nick's confidence and charisma.,Subject,pronoun
+I273,Justin fancied Steve. He,M,IC2,Ferstl et al.(2010),english,Justin,Steve,fancied,Justin,Subject,Yes,Subject,0.988988141,wanted to spend more time with him.,Object,pronoun
+I274,Mike laughed at Frank. He,M,IC2,Ferstl et al.(2010),english,Mike,Frank,laughed at,Mike,Subject,No,Object,0.437477157,found the joke far funnier than it actually was.,Subject,pronoun
+I275,Sarah aggravated Emily. She,F,IC1,Rohde & Kehler (2014),english,Sarah,Emily,aggravated,Sarah,Subject,Yes,Subject,0.880636295,felt a wave of frustration building inside her.,Object,pronoun
+I276,Emily amazed Megan. She,F,IC1,Rohde & Kehler (2014),english,Emily,Megan,amazed,Emily,Subject,Yes,Subject,0.997519455,couldn't believe how talented Emily was.,Object,pronoun
+I277,Megan amused Angela. She,F,IC1,Rohde & Kehler (2014),english,Megan,Angela,amused,M,Subject,Yes,Subject,0.777268154,laughed at the joke.,Object,pronoun
+I278,Angela annoyed Anna. She,F,IC1,Rohde & Kehler (2014),english,Angela,Anna,annoyed,Angela,Subject,Yes,Subject,0.976749018,refused to speak to her for the rest of the day.,Object,pronoun
+I279,Anna apologized to Nicole. She,F,IC1,Rohde & Kehler (2014),english,Anna,Nicole,apologized to,Anna,Subject,Yes,Subject,0.962629254,explained that she hadn't meant to upset her.,Subject,pronoun
+I280,Nicole bored Claire. She,F,IC1,Rohde & Kehler (2014),english,Nicole,Claire,bored,Nicole,Subject,Yes,Subject,0.981912964,felt restless and decided to leave the conversation early.,Object,pronoun
+I281,Claire charmed Jane. She,F,IC1,Rohde & Kehler (2014),english,Claire,Jane,charmed,Claire,Subject,Yes,Subject,0.994697932,smiled warmly and started a lively conversation.,ambiguous,pronoun
+I282,Jane offended Tina. She,F,IC1,Rohde & Kehler (2014),english,Jane,Tina,offended,Jane,Subject,Yes,Subject,0.620896633,apologized sincerely for her remarks.,Subject,pronoun
+I283,Tina confessed to Kate. She,F,IC1,Rohde & Kehler (2014),english,Tina,Kate,confessed to,T,Subject,Yes,Subject,0.72757966,felt guilty for keeping the secret for so long.,Subject,pronoun
+I284,Kate deceived Amy. She,F,IC1,Rohde & Kehler (2014),english,Kate,Amy,deceived,Kate,Subject,No,Object,0.924125887,lied about her intentions.,Subject,pronoun
+I285,Amy disappointed Alice. She,F,IC1,Rohde & Kehler (2014),english,Amy,Alice,disappointd,Amy,Subject,Yes,Subject,0.561826751,felt hurt and let down.,Object,pronoun
+I286,Alice exasperated Sarah. She,F,IC1,Rohde & Kehler (2014),english,Alice,Sarah,exasperated,Alice,Subject,Yes,Subject,0.98588627,threw her hands up in frustration and walked away.,Object,pronoun
+I287,Sarah fascinated Megan. She,F,IC1,Rohde & Kehler (2014),english,Sarah,Megan,fascinated,Sarah,Subject,Yes,Subject,0.988998059,quickly asked her about her experiences and interests.,Object,pronoun
+I288,Emily frightened Angela. She,F,IC1,Rohde & Kehler (2014),english,Emily,Angela,frightened,Emily,Subject,No,Object,0.047422347,screamed and backed away in fear.,Object,pronoun
+I289,Megan humiliated Anna. She,F,IC1,Rohde & Kehler (2014),english,Megan,Anna,humiliated,M,Subject,Yes,Subject,0.49502439,felt a pang of regret afterward.,Subject,pronoun
+I290,Angela infuriated Nicole. She,F,IC1,Rohde & Kehler (2014),english,Angela,Nicole,infuriated,Angela,Subject,Yes,Subject,0.998216102,refused to listen to Nicole's point of view.,Subject,pronoun
+I291,Anna inspires Claire. She,F,IC1,Rohde & Kehler (2014),english,Anna,Claire,inspires,Anna,Subject,Yes,Subject,0.879959434,looks up to her as a role model.,Object,pronoun
+I292,Nicole intimidates Jane. She,F,IC1,Rohde & Kehler (2014),english,Nicole,Jane,intimidates,Nicole,Subject,Yes,Subject,0.999568947,She always carries herself with unwavering confidence.,repeated pronoun,pronoun
+I293,Claire scares Tina. She,F,IC1,Rohde & Kehler (2014),english,Claire,Tina,scares,Claire,Subject,Yes,Subject,0.924140449,"runs away, screaming.",Object,pronoun
+I294,Jane surprised Kate. She,F,IC1,Rohde & Kehler (2014),english,Jane,Kate,surprised,Jane,Subject,No,Object,0.562073273,smiled warmly and handed her a small gift.,Subject,pronoun
+I295,Tina consulted Amy. She,F,IC1,Ferstl et al.(2010),english,Tina,Amy,consulted,T,Subject,No,Object,0.923912757,provided helpful advice about the situation.,Object,pronoun
+I296,Kate attracted Alice. She,F,IC1,Ferstl et al.(2010),english,Kate,Alice,attracted,Kate,Subject,Yes,Subject,0.999600512,was drawn to Kate's charisma.,Object,pronoun
+I297,Amy agitated Sarah. She,F,IC1,Ferstl et al.(2010),english,Amy,Sarah,agitated,Amy,Subject,No,Object,0.622278412,felt a surge of frustration rising within her.,Object,pronoun
+I298,Alice angered Emily. She,F,IC1,Ferstl et al.(2010),english,Alice,Emily,angered,Alice,Subject,No,Object,0.981300858,refused to speak to her for the rest of the day.,Object,pronoun
+I299,Sarah delighted Angela. She,F,IC1,Ferstl et al.(2010),english,Sarah,Angela,delighted,Sarah,Subject,Yes,Subject,0.99943664,smiled warmly in response.,Object,pronoun
+I300,Emily pleased Anna. She,F,IC1,Ferstl et al.(2010),english,Emily,Anna,pleased,Emily,Subject,No,Object,0.182371557,smiled warmly in response.,Object,pronoun
+I301,Megan called Nicole. She,F,IC1,Ferstl et al.(2010),english,Megan,Nicole,called,M,Subject,Yes,Subject,0.991375566,wanted to share some exciting news with her.,Subject,pronoun
+I302,Angela telephoned Claire. She,F,IC1,Ferstl et al.(2010),english,Angela,Claire,telephoned,Angela,Subject,Yes,Subject,0.997811569,wanted to discuss their plans for the weekend.,Subject,pronoun
+I303,Anna concerned Jane. She,F,IC1,Ferstl et al.(2010),english,Anna,Jane,concerned,Anna,Subject,Yes,Subject,0.998066091,worried about her well-being.,Subject,pronoun
+I304,Nicole irritated Tina. She,F,IC1,Ferstl et al.(2010),english,Nicole,Tina,irritated,Nicole,Subject,Yes,Subject,0.950226337,She refused to listen to Tina's opinion.,Subject,pronoun
+I305,Claire antagonized Kate. She,F,IC1,Ferstl et al.(2010),english,Claire,Kate,antagonized,Claire,Subject,No,Object,0.679150522,refused to apologize for her actions.,ambiguous,pronoun
+I306,Jane frustrated Amy. She,F,IC1,Ferstl et al.(2010),english,Jane,Amy,frustrated,Jane,Subject,Yes,Subject,0.938696677,felt overwhelmed by Jane's constant interruptions.,Object,pronoun
+I307,Tina appalled Alice. She,F,IC1,Ferstl et al.(2010),english,Tina,Alice,appalled,T,Subject,Yes,Subject,0.995928249,couldn't believe what Tina had said.,Object,pronoun
+I308,Kate captivated Sarah. She,F,IC1,Ferstl et al.(2010),english,Kate,Sarah,captivated,Kate,Subject,Yes,Subject,0.997968743,couldn't help but be drawn to her charm and confidence.,Object,pronoun
+I309,Amy inspired Emily. She,F,IC1,Ferstl et al.(2010),english,Amy,Emily,inspired,Amy,Subject,Yes,Subject,0.981982621,looked up to her as a mentor and aspired to follow in her footsteps.,Object,pronoun
+I310,Alice lied to Megan. She,F,IC1,Ferstl et al.(2010),english,Alice,Megan,lied to,Alice,Subject,Yes,Subject,0.993239619,felt guilty about it immediately.,Subject,pronoun
+I311,Sarah maddened Anna. She,F,IC1,Ferstl et al.(2010),english,Sarah,Anna,maddened,Anna,Object,Yes,Subject,0.904647507,stormed out of the room in frustration.,Object,pronoun
+I312,Emily peeved Nicole. She,F,IC1,Ferstl et al.(2010),english,Emily,Nicole,peeved,Emily,Subject,Yes,Subject,0.775786167,refused to apologize despite knowing she was in the wrong.,Subject,pronoun
+I313,Megan entranced Claire. She,F,IC1,Ferstl et al.(2010),english,Megan,Claire,entranced,M,Subject,Yes,Subject,0.999727377,She couldn't take her eyes off Megan.,repeated pronoun,pronoun
+I314,Angela intrigued Jane. She,F,IC1,Ferstl et al.(2010),english,Angela,Jane,intrigued,Angela,Subject,Yes,Subject,0.999446167,wanted to learn more about her mysterious past.,Object,pronoun
+I315,Anna repulsed Tina. She,F,IC1,Ferstl et al.(2010),english,Anna,Tina,repulsed,Anna,Subject,Yes,Subject,0.995873385,"quickly turned away, unwilling to confront her any longer.",Object,pronoun
+I316,Nicole worried Kate. She,F,IC1,Ferstl et al.(2010),english,Nicole,Kate,worried,Nicole,Subject,Yes,Subject,0.997508545,knew something was bothering her.,Subject,pronoun
+I317,Claire betrayed Amy. She,F,IC1,Ferstl et al.(2010),english,Claire,Amy,betrayed,Claire,Subject,No,Object,0.499986529,She revealed Amy's secret to everyone.,repeated pronoun,pronoun
+I318,Jane confessed to Alice. She,F,IC1,Ferstl et al.(2010),english,Jane,Alice,confessed to,Jane,Subject,Yes,Subject,0.962132191,felt a heavy weight lift off her shoulders as she finally revealed the truth.,Subject,pronoun
+I319,Tina scared Sarah. She,F,IC1,Ferstl et al.(2010),english,Tina,Sarah,scared,T,Subject,No,Object,0.679168576,"ran out of the room, trembling with fear.",Object,pronoun
+I320,Kate wowed Emily. She,F,IC1,Ferstl et al.(2010),english,Kate,Emily,wowed,Kate,Subject,Yes,Subject,0.994759623,"smiled in response, clearly impressed.",Object,pronoun
+I321,disappointed,F,IC1,Ferstl et al.(2010),english,Amy,Megan,disappointed,Amy,Subject,Yes,Subject,0.817536336,"apologized sincerely, hoping to make amends.",Subject,pronoun
+I322,Alice intimidated Angela. She,F,IC1,Ferstl et al.(2010),english,Alice,Angela,intimidated,Alice,Subject,Yes,Subject,0.851926088,was known for her confident and assertive demeanor.,Subject,pronoun
+I323,Sarah bugged Nicole. She,F,IC1,Ferstl et al.(2010),english,Sarah,Nicole,bugged,Sarah,Subject,Yes,Subject,0.997520997,kept asking her questions about the project.,Subject,pronoun
+I324,Emily daunted Claire. She,F,IC1,Ferstl et al.(2010),english,Emily,Claire,daunted,Emily,Subject,No,Object,0.010986936,struggled to regain her composure after the confrontation.,Object,pronoun
+I325,Megan echoed Jane. She,F,IC1,Ferstl et al.(2010),english,Megan,Jane,echoed,M,Subject,Yes,Subject,0.938886635,repeated the words with a thoughtful expression.,Subject,pronoun
+I326,Angela enthralled Tina. She,F,IC1,Ferstl et al.(2010),english,Angela,Tina,enthralled,Angela,Subject,Yes,Subject,0.97689677,couldn't take her eyes off her.,Object,pronoun
+I327,Anna excited Kate. She,F,IC1,Ferstl et al.(2010),english,Anna,Kate,excited,Anna,Subject,Yes,Subject,0.962096102,couldn‚Äôt wait to share the news with her.,Subject,pronoun
+I328,Nicole gladdened Amy. She,F,IC1,Ferstl et al.(2010),english,Nicole,Amy,gladdened,Nicole,Subject,Yes,Subject,0.999897893,smiled warmly at her.,Object,pronoun
+I329,Claire mesmerised Alice. She,F,IC1,Ferstl et al.(2010),english,Claire,Alice,mesmerised,Claire,Subject,Yes,Subject,0.991409532,couldn't take her eyes off her.,Object,pronoun
+I330,Jane enraged Sarah. She,F,IC1,Ferstl et al.(2010),english,Jane,Sarah,enraged,Jane,Subject,No,Object,0.880709429,refused to speak to Jane for the rest of the day.,Object,pronoun
+I331,Tina enticed Emily. She,F,IC1,Ferstl et al.(2010),english,Tina,Emily,enticed,T,Subject,No,Object,0.047421872,was intrigued by Tina's charm and decided to learn more about her.,Object,pronoun
+I332,Kate provoked Megan. She,F,IC1,Ferstl et al.(2010),english,Kate,Megan,provoked,Kate,Subject,Yes,Subject,0.777223818,she retaliated with a sharp remark.,repeated pronoun,pronoun
+I333,Amy unnerved Angela. She,F,IC1,Ferstl et al.(2010),english,Amy,Angela,unnerved,Amy,Subject,Yes,Subject,0.997502376,struggled to understand why Amy's words carried such a sharp edge.,Object,pronoun
+I334,Alice frightened Anna. She,F,IC1,Ferstl et al.(2010),english,Alice,Anna,frightened,Alice,Subject,Yes,Subject,0.99127294,ran out of the room in tears.,Object,pronoun
+I335,Sarah troubled Claire. She,F,IC1,Ferstl et al.(2010),english,Sarah,Claire,troubled,Sarah,Subject,Yes,Subject,0.977012488,felt overwhelmed by the constant arguments.,Object,pronoun
+I336,Emily repelled Jane. She,F,IC1,Ferstl et al.(2010),english,Emily,Jane,repelled,Emily,Subject,Yes,Subject,0.999855945,felt an inexplicable discomfort whenever Jane was around.,Subject,pronoun
+I337,Megan sickened Tina. She,F,IC1,Ferstl et al.(2010),english,Megan,Tina,sickened,M,Subject,Yes,Subject,0.968280434,quickly left the room to avoid further confrontation.,Object,pronoun
+I338,Angela revolted Kate. She,F,IC1,Ferstl et al.(2010),english,Angela,Kate,revolted,Angela,Subject,Yes,Subject,0.988669932,couldn't believe how disrespectful Angela had been.,Object,pronoun
+I339,Anna trailed Amy. She,F,IC1,Ferstl et al.(2010),english,Anna,Amy,trailed,Anna,Subject,Yes,Subject,0.776252272,was determined to catch up and ask her about the meeting.,Subject,pronoun
+I340,Nicole upset Alice. She,F,IC1,Ferstl et al.(2010),english,Nicole,Alice,upset,Nicole,Subject,Un,Subject,0.024049918,apologized sincerely for her actions.,Subject,pronoun
+I341,Claire exhausted Sarah. She,F,IC1,Ferstl et al.(2010),english,Claire,Sarah,exhausted,Claire,Subject,Yes,Subject,0.998398228,needed some time to recover.,Object,pronoun
+I342,Jane wearied Emily. She,F,IC1,Ferstl et al.(2010),english,Jane,Emily,wearied,Jane,Subject,Yes,Subject,0.999964046,found Emily's constant questions exhausting.,Subject,pronoun
+I343,Tina staggered Megan. She,F,IC1,Ferstl et al.(2010),english,Tina,Megan,staggered,T,Subject,Yes,Subject,0.991296472,gasped in shock at what Tina had just said.,Object,pronoun
+I344,Kate cheated Angela. She,F,IC1,Ferstl et al.(2010),english,Kate,Angela,cheated,Kate,Subject,Yes,Subject,0.678980828,felt betrayed and hurt.,Object,pronoun
+I345,Amy repaid Anna. She,F,IC1,Ferstl et al.(2010),english,Amy,Anna,repaid,Amy,Subject,Yes,Subject,0.979257888,appreciated her friend's support.,Object,pronoun
+I346,Alice astounded Nicole. She,F,IC1,Ferstl et al.(2010),english,Alice,Nicole,astounded,Alice,Subject,Yes,Subject,0.999742627,couldn't believe what she had just witnessed.,Object,pronoun
+I347,Sarah exhilarated Jane. She,F,IC1,Ferstl et al.(2010),english,Sarah,Jane,exhilarated,Sarah,Subject,Yes,Subject,0.988997242,felt a rush of joy and couldn't stop smiling.,Object,pronoun
+I348,Emily spooked Tina. She,F,IC1,Ferstl et al.(2010),english,Emily,Tina,spooked,Emily,Subject,Yes,Subject,0.990224945,She screamed and jumped back in surprise.,repeated pronoun,pronoun
+I349,Megan unsettled Kate. She,F,IC1,Ferstl et al.(2010),english,Megan,Kate,unsettled,M,Subject,Yes,Subject,0.998117996,couldn't shake the feeling of tension between them.,Object,pronoun
+I350,Angela flabbergasted Amy. She,F,IC1,Ferstl et al.(2010),english,Angela,Amy,flabbergasted,Angela,Subject,Yes,Subject,0.998452296,could hardly believe what Angela had just said.,Object,pronoun
+I351,Anna kissed Alice. She,F,IC1,Ferstl et al.(2010),english,Anna,Alice,kissed,Anna,Subject,Yes,Subject,0.562109155,"smiled warmly, feeling the connection between them.",Object,pronoun
+I352,Nicole nuzzled Sarah. She,F,IC1,Ferstl et al.(2010),english,Nicole,Sarah,nuzzled,Nicole,Subject,Yes,Subject,0.999982045,"smiled softly, enjoying the closeness.",Object,pronoun
+I353,Claire pained Emily. She,F,IC1,Ferstl et al.(2010),english,Claire,Emily,pained,Claire,Subject,Yes,Subject,0.996803879,felt guilty for what she had done.,Subject,pronoun
+I354,Jane confused Megan. She,F,IC1,Ferstl et al.(2010),english,Jane,Megan,confused,Jane,Subject,Yes,Subject,0.985803425,didn't understand what Jane was trying to say.,Object,pronoun
+I355,Tina distressed Angela. She,F,IC1,Ferstl et al.(2010),english,Tina,Angela,distressed,T,Subject,Yes,Subject,0.99328207,cried quietly in her room.,Object,pronoun
+I356,Kate vexed Anna. She,F,IC1,Ferstl et al.(2010),english,Kate,Anna,vexed,Kate,Subject,No,Object,0.962655766,felt hurt by Kate's words.,Object,pronoun
+I357,Amy bothered Nicole. She,F,IC1,Ferstl et al.(2010),english,Amy,Nicole,bothered,Amy,Subject,Yes,Subject,0.991375329,didn't understand why Nicole was upset.,Subject,pronoun
+I358,Alice alarmed Claire. She,F,IC1,Ferstl et al.(2010),english,Alice,Claire,alarmed,Alice,Subject,Yes,Subject,0.998841644,quickly explained the situation to calm her down.,Subject,pronoun
+I359,Sarah disgruntled Tina. She,F,IC1,Ferstl et al.(2010),english,Sarah,Tina,disgruntled,Sarah,Subject,Yes,Subject,0.985846293,apologized later to mend their relationship.,Subject,pronoun
+I360,Emily plagued Kate. She,F,IC1,Ferstl et al.(2010),english,Emily,Kate,plagued,Emily,Subject,Yes,Subject,0.998048178,felt overwhelmed by guilt for her actions.,Subject,pronoun
+I361,Megan shadowed Amy. She,F,IC1,Ferstl et al.(2010),english,Megan,Amy,shadowed,M,Subject,Yes,Subject,0.988937657,was eager to learn from her experience.,Subject,pronoun
+I362,Angela tailed Alice. She,F,IC1,Ferstl et al.(2010),english,Angela,Alice,tailed,Angela,Subject,Yes,Subject,0.998979262,wanted to know where Alice was going.,Subject,pronoun
+I363,Anna incensed Sarah. She,F,IC1,Ferstl et al.(2010),english,Anna,Sarah,incensed,Anna,Subject,Yes,Subject,0.4994996,"stormed out of the room, unable to contain her frustration.",Object,pronoun
+I364,Nicole baffled Emily. She,F,IC1,Ferstl et al.(2010),english,Nicole,Emily,baffled,Nicole,Subject,Yes,Subject,0.999962735,couldn't understand why Nicole had acted that way.,Object,pronoun
+I365,Claire shocked Megan. She,F,IC1,Ferstl et al.(2010),english,Claire,Megan,shocked,Claire,Subject,Yes,Subject,0.985832622,couldn't believe what she had just heard.,Object,pronoun
+I366,Jane disobeyed Angela. She,F,IC1,Ferstl et al.(2010),english,Jane,Angela,disobeyed,Jane,Subject,Yes,Subject,0.993954814,was frustrated by the restrictions Angela had set.,Subject,pronoun
+I367,Tina distracted Anna. She,F,IC1,Ferstl et al.(2010),english,Tina,Anna,distracted,T,Subject,Yes,Subject,0.730459718,drew her attention to the strange noise coming from the other room.,Subject,pronoun
+I368,Kate married Nicole. She,F,IC1,Ferstl et al.(2010),english,Kate,Nicole,married,Kate,Subject,No,Object,0.991395477,is now living with her in a beautiful house by the lake.,ambiguous,pronoun
+I369,Amy met Claire. She,F,IC1,Ferstl et al.(2010),english,Amy,Claire,met,Amy,Subject,No,Object,0.268520367,was excited to catch up with her.,ambiguous,pronoun
+I370,Alice ordered around Jane. She,F,IC1,Ferstl et al.(2010),english,Alice,Jane,ordered around,Alice,Subject,Yes,Subject,0.923637891,seemed confident in her directions.,Subject,pronoun
+I371,Sarah harmed Kate. She,F,IC1,Ferstl et al.(2010),english,Sarah,Kate,harmed,Sarah,Subject,Yes,Subject,0.776873139,was filled with regret afterward.,Subject,pronoun
+I372,Emily astonished Amy. She,F,IC1,Ferstl et al.(2010),english,Emily,Amy,astonished,Emily,Subject,Yes,Subject,0.993305125,couldn't believe what Emily had just done.,Object,pronoun
+I373,Megan bewildered Alice. She,F,IC1,Ferstl et al.(2010),english,Megan,Alice,bewildered,M,Subject,Yes,Subject,0.999982522,struggled to understand why Megan had acted that way.,Object,pronoun
+I374,Angela invigorated Sarah. She,F,IC1,Ferstl et al.(2010),english,Angela,Sarah,invigorated,Angela,Subject,Yes,Subject,0.999087999,felt a renewed sense of energy and purpose.,Object,pronoun
+I375,Anna tantalized Emily. She,F,IC1,Ferstl et al.(2010),english,Anna,Emily,tantalized,Anna,Subject,Yes,Subject,0.817245866,"smiled mischievously, leaving Emily curious about her intentions.",Subject,pronoun
+I376,Nicole battled Megan. She,F,IC1,Ferstl et al.(2010),english,Nicole,Megan,battled,Nicole,Subject,Yes,Subject,0.873379017,"emerged victorious, showcasing her determination.",Subject,pronoun
+I377,Claire hurt Angela. She,F,IC1,Ferstl et al.(2010),english,Claire,Angela,hurt,Claire,Subject,No,Object,0.997527047,cried in pain.,Object,pronoun
+I378,Jane followed Anna. She,F,IC1,Ferstl et al.(2010),english,Jane,Anna,followed,Jane,Subject,Yes,Subject,0.817281937,opened the door and stepped inside.,Subject,pronoun
+I379,Tina tormented Nicole. She,F,IC1,Ferstl et al.(2010),english,Tina,Nicole,tormented,T,Subject,Yes,Subject,0.962629584,She mocked her relentlessly.,Subject,pronoun
+I380,Kate grazed Claire. She,F,IC1,Ferstl et al.(2010),english,Kate,Claire,grazed,Kate,Subject,Yes,Subject,0.981980208,apologized immediately for the accidental bump.,Subject,pronoun
+I381,Amy played Jane. She,F,IC1,Ferstl et al.(2010),english,Amy,Jane,played,Amy,Subject,Yes,Subject,0.998468104,took her role very seriously.,N/A,pronoun
+I382,Alice dumbfounded Tina. She,F,IC1,Ferstl et al.(2010),english,Alice,Tina,dumbfounded,Alice,Subject,Yes,Subject,0.999816503,struggled to find the right words to respond.,Object,pronoun
+I383,Sarah flattered Amy. She,F,IC1,Ferstl et al.(2010),english,Sarah,Amy,flattered,Sarah,Subject,Yes,Subject,0.924054427,appreciated the compliment and smiled warmly.,Object,pronoun
+I384,Emily alienated Alice. She,F,IC1,Ferstl et al.(2010),english,Emily,Alice,alienated,Emily,Subject,Yes,Subject,0.991360448,felt hurt by the betrayal.,Object,pronoun
+I385,Megan harassed Sarah. She,F,IC1,Ferstl et al.(2010),english,Megan,Sarah,harassed,M,Subject,Yes,Subject,0.998498054,felt deeply upset by the situation.,Object,pronoun
+I386,Angela approached Emily. She,F,IC1,Ferstl et al.(2010),english,Angela,Emily,approached,Angela,Subject,Yes,Subject,0.994661951,smiled warmly and extended her hand for a handshake.,Subject,pronoun
+I387,Anna beguiled Megan. She,F,IC1,Ferstl et al.(2010),english,Anna,Megan,beguiled,Anna,Subject,Yes,Subject,0.989517903,was captivated by Anna's charm and couldn't help but smile.,Object,pronoun
+I388,Nicole caressed Angela. She,F,IC1,Ferstl et al.(2010),english,Nicole,Angela,caressed,Nicole,Subject,Yes,Subject,0.970040273,gently brushed a strand of hair from her face.,Subject,pronoun
+I389,Claire enlivened Anna. She,F,IC1,Ferstl et al.(2010),english,Claire,Anna,enlivened,Claire,Subject,Yes,Subject,0.999335322,brought a sense of joy and excitement to her day.,Subject,pronoun
+I390,Jane corrupted Nicole. She,F,IC1,Ferstl et al.(2010),english,Jane,Nicole,corrupted,Jane,Subject,Yes,Subject,0.818806907,sought revenge for what Jane had done.,Object,pronoun
+I391,Tina confounded Claire. She,F,IC1,Ferstl et al.(2010),english,Tina,Claire,confounded,T,Subject,Yes,Subject,0.996777697,couldn't understand why Claire reacted that way.,Subject,pronoun
+I392,Kate deserted Jane. She,F,IC1,Ferstl et al.(2010),english,Kate,Jane,deserted,Kate,Subject,No,Object,0.622404348,felt betrayed and heartbroken.,Object,pronoun
+I393,Amy discouraged Tina. She,F,IC1,Ferstl et al.(2010),english,Amy,Tina,discouraged,Amy,Subject,Yes,Subject,0.939420346,felt it was for her own good.,ambiguous,pronoun
+I394,Alice tracked Kate. She,F,IC1,Ferstl et al.(2010),english,Alice,Kate,tracked,Alice,Subject,No,Object,0.996405217,noticed her walking briskly toward the park.,Subject,pronoun
+I395,Sarah startled Alice. She,F,IC1,Ferstl et al.(2010),english,Sarah,Alice,startled,Sarah,Subject,Yes,Subject,0.995906608,dropped her coffee in surprise.,Subject,pronoun
+I396,Emily defamed Sarah. She,F,IC1,Ferstl et al.(2010),english,Emily,Sarah,defamed,Emily,Subject,No,Object,0.56211542,falsely accused her of inappropriate behavior.,Subject,pronoun
+I397,Megan abandoned Emily. She,F,IC1,Ferstl et al.(2010),english,Megan,Emily,abandoned,M,Subject,Yes,Subject,0.952544478,felt a pang of guilt but convinced herself it was for the best.,Subject,pronoun
+I398,Angela courted Megan. She,F,IC1,Ferstl et al.(2010),english,Angela,Megan,courted,Angela,Subject,Yes,Subject,0.998058373,was determined to show her how much she cared.,Subject,pronoun
+I399,Anna wounded Angela. She,F,IC1,Ferstl et al.(2010),english,Anna,Angela,wounded,Anna,Subject,No,Object,0.93991231,was rushed to the hospital for treatment.,Object,pronoun
+I400,Nicole chilled Anna. She,F,IC1,Ferstl et al.(2010),english,Nicole,Anna,chilled,Nicole,Subject,Yes,Subject,0.997428364,wrapped her in a warm blanket to help her relax.,Subject,pronoun
+I401,Claire nettled Nicole. She,F,IC1,Ferstl et al.(2010),english,Claire,Nicole,nettled,Claire,Subject,Yes,Subject,0.976816008,felt annoyed by Claire's teasing.,Object,pronoun
+I402,Jane pursued Claire. She,F,IC1,Ferstl et al.(2010),english,Jane,Claire,pursued,Jane,Subject,Yes,Subject,0.119196916,was determined to catch up and explain everything.,Subject,pronoun
+I403,Tina dreamed about Jane. She,F,IC1,Ferstl et al.(2010),english,Tina,Jane,dreamed about,T,Subject,No,Object,0.993458169,wondered what Jane was doing lately.,Subject,pronoun
+I404,Kate galled Tina. She,F,IC1,Ferstl et al.(2010),english,Kate,Tina,galled,Kate,Subject,Yes,Subject,0.777296044,felt deeply hurt by Kate's actions.,Object,pronoun
+I405,Amy stimulated Kate. She,F,IC1,Ferstl et al.(2010),english,Amy,Kate,stimulated,Amy,Subject,Yes,Subject,0.805084646,felt a surge of excitement.,Object,pronoun
+I406,Alice affected Amy. She,F,IC1,Ferstl et al.(2010),english,Alice,Amy,affected,Alice,Subject,Yes,Subject,0.817236002,felt deeply remorseful for her actions.,Object,pronoun
+I407,Julia embraced Sarah. She,F,IC1,Ferstl et al.(2010),english,Julia,Sarah,embraced,Julia,Subject,No,Object,0.952573133,felt a wave of comfort and warmth.,Object,pronoun
+I408,Julia fazed Emily. She,F,IC1,Ferstl et al.(2010),english,Julia,Emily,fazed,Julia,Subject,Yes,Subject,0.999444499,seemed unsettled by her sudden reaction.,Object,pronoun
+I409,Julia debated with Megan. She,F,IC1,Ferstl et al.(2010),english,Julia,Megan,debated with,Julia,Subject,Yes,Subject,0.959147171,proposed a new idea to resolve their disagreement.,ambiguous,pronoun
+I410,Julia defied Angela. She,F,IC1,Ferstl et al.(2010),english,Julia,Angela,defied,Julia,Subject,Yes,Subject,0.98585961,refused to follow her instructions and chose her own path instead.,Subject,pronoun
+I411,Julia questioned Anna. She,F,IC1,Ferstl et al.(2010),english,Julia,Anna,questioned,Julia,Subject,No,Object,0.075186142,wondered why Anna seemed so hesitant.,Subject,pronoun
+I412,Julia assisted Nicole. She,F,IC2,Rohde & Kehler (2014),english,Julia,Nicole,assisted,Julia,Subject,Yes,Subject,0.367573945,was grateful for the help.,Object,pronoun
+I413,Julia blames Claire. She,F,IC2,Rohde & Kehler (2014),english,Julia,Claire,blames,Julia,Subject,No,Object,0.677972812,believes Claire is responsible for the misunderstanding.,Subject,pronoun
+I414,Julia comforted Jane. She,F,IC2,Rohde & Kehler (2014),english,Julia,Jane,comforted,Julia,Subject,Yes,Subject,0.437818151,wrapped her arms around her and whispered reassuring words.,Subject,pronoun
+I415,Julia congratulated Tina. She,F,IC2,Rohde & Kehler (2014),english,Julia,Tina,congratulated,Julia,Subject,No,Object,0.99251605,was thrilled to see her friend's hard work recognized.,Subject,pronoun
+I416,Julia corrected Kate. She,F,IC2,Rohde & Kehler (2014),english,Julia,Kate,corrected,Julia,Subject,No,Object,0.56133189,apologized for the misunderstanding.,Object,pronoun
+I417,Julia detests Amy. She,F,IC2,Rohde & Kehler (2014),english,Julia,Amy,detests,Julia,Subject,No,Object,0.499939325,avoids her whenever possible.,Subject,pronoun
+I418,Julia fears Alice. She,F,IC2,Rohde & Kehler (2014),english,Julia,Alice,fears,Julia,Subject,No,Object,0.49966972,worries about what Alice might say next.,Subject,pronoun
+I419,Sarah envies Julia. She,F,IC2,Rohde & Kehler (2014),english,Sarah,Julia,envies,Sarah,Subject,Yes,Subject,0.562173252,wishes she had Julia's confidence and charisma.,Subject,pronoun
+I420,Emily hates Julia. She,F,IC2,Rohde & Kehler (2014),english,Emily,Julia,hates,Emily,Subject,Yes,Subject,0.962588273,often avoids her at social gatherings.,Subject,pronoun
+I421,Megan helped Julia. She,F,IC2,Rohde & Kehler (2014),english,Megan,Julia,helped,M,Subject,No,Object,0.851868913,was always there when Julia needed support.,Subject,pronoun
+I422,Angela mocked Julia. She,F,IC2,Rohde & Kehler (2014),english,Angela,Julia,mocked,Angela,Subject,Yes,Subject,0.970138765,laughed loudly at her reaction.,Subject,pronoun
+I423,Anna noticed Julia. She,F,IC2,Rohde & Kehler (2014),english,Anna,Julia,noticed,Anna,Subject,Yes,Subject,0.376874487,smiled warmly and walked over to greet her.,Subject,pronoun
+I424,Nicole pacified Julia. She,F,IC2,Rohde & Kehler (2014),english,Nicole,Julia,pacified,Nicole,Subject,Yes,Subject,0.841098503,explained the situation calmly to ease her worries.,Subject,pronoun
+I425,Claire praised Julia. She,F,IC2,Rohde & Kehler (2014),english,Claire,Julia,praised,Claire,Subject,No,Object,0.977001792,appreciated her hard work and dedication.,Subject,pronoun
+I426,Jane reproached Julia. She,F,IC2,Rohde & Kehler (2014),english,Jane,Julia,reproached,Jane,Subject,Yes,Subject,0.880158595,felt hurt by Julia's actions.,Subject,pronoun
+I427,Tina scolded Julia. She,F,IC2,Rohde & Kehler (2014),english,Tina,Julia,scolded,T,Subject,No,Object,0.977015334,apologized afterward for being too harsh.,Subject,pronoun
+I428,Kate stared at Julia. She,F,IC2,Rohde & Kehler (2014),english,Kate,Julia,stared at,Kate,Subject,Yes,Subject,0.993304888,wondered if her friend was telling the truth.,Subject,pronoun
+I429,Amy thanked Julia. She,F,IC2,Rohde & Kehler (2014),english,Amy,Julia,thanked,Amy,Subject,Yes,Subject,0.994666671,was grateful for her help.,Subject,pronoun
+I430,Alice trusted Julia. She,F,IC2,Rohde & Kehler (2014),english,Alice,Julia,trusted,Alice,Subject,Yes,Subject,0.952128766,always kept her promises.,Object,pronoun
+I431,Sarah values Emily. She,F,IC2,Rohde & Kehler (2014),english,Sarah,Emily,values,Sarah,Subject,Yes,Subject,0.985904104,appreciates her kindness and support.,Object,pronoun
+I432,Emily cuddled Megan. She,F,IC2,Ferstl et al.(2010),english,Emily,Megan,cuddled,Emily,Subject,Yes,Subject,0.995929667,"wrapped her arms around her tightly, offering comfort.",Subject,pronoun
+I433,Megan decried Angela. She,F,IC2,Ferstl et al.(2010),english,Megan,Angela,decried,M,Subject,Yes,Subject,0.999974297,claimed that Angela's actions were unacceptable.,Subject,pronoun
+I434,Angela moved Anna. She,F,IC2,Ferstl et al.(2010),english,Angela,Anna,moved,Angela,Subject,Yes,Subject,0.996492214,helped her find a more comfortable position.,Subject,pronoun
+I435,Anna deprecated Nicole. She,F,IC2,Ferstl et al.(2010),english,Anna,Nicole,deprecated,Anna,Subject,Yes,Subject,0.817062231,criticized her behavior harshly.,Subject,pronoun
+I436,Nicole encouraged Claire. She,F,IC2,Ferstl et al.(2010),english,Nicole,Claire,encouraged,Nicole,Subject,No,Object,0.561904849,believed in her abilities and wanted her to succeed.,Subject,pronoun
+I437,Claire played with Jane. She,F,IC2,Ferstl et al.(2010),english,Claire,Jane,played with,Claire,Subject,Yes,Subject,0.677598291,laughed as they ran around the park together.,ambiguous,pronoun
+I438,Jane hit Tina. She,F,IC2,Ferstl et al.(2010),english,Jane,Tina,hit,Jane,Subject,Yes,Subject,0.970606955,fell to the ground.,Object,pronoun
+I439,Tina reproved Kate. She,F,IC2,Ferstl et al.(2010),english,Tina,Kate,reproved,T,Subject,Yes,Subject,0.730779232,was upset by Kate's behavior.,Subject,pronoun
+I440,Kate forgot Amy. She,F,IC2,Ferstl et al.(2010),english,Kate,Amy,forgot,Kate,Subject,Yes,Subject,0.970584827,felt terrible about it.,ambiguous,pronoun
+I441,Amy exalted Alice. She,F,IC2,Ferstl et al.(2010),english,Amy,Alice,exalted,Amy,Subject,Yes,Subject,0.944642561,praised her for her incredible dedication and hard work.,Subject,pronoun
+I442,Alice instructed Sarah. She,F,IC2,Ferstl et al.(2010),english,Alice,Sarah,instructed,Alice,Subject,No,Object,0.559294525,followed the instructions carefully.,Object,pronoun
+I443,Sarah warned Megan. She,F,IC2,Ferstl et al.(2010),english,Sarah,Megan,warned,Sarah,Subject,Yes,Subject,0.938839775,should be careful about trusting him.,Object,pronoun
+I444,Emily welcomed Angela. She,F,IC2,Ferstl et al.(2010),english,Emily,Angela,welcomed,Emily,Subject,Yes,Subject,0.970537661,offered her a seat and asked how she had been.,Subject,pronoun
+I445,Megan rebuked Anna. She,F,IC2,Ferstl et al.(2010),english,Megan,Anna,rebuked,M,Subject,Yes,Subject,0.777265583,felt disappointed by her actions.,Subject,pronoun
+I446,Angela blessed Nicole. She,F,IC2,Ferstl et al.(2010),english,Angela,Nicole,blessed,Angela,Subject,No,Object,0.11847969,felt a deep sense of gratitude and joy.,Object,pronoun
+I447,Anna divorced Claire. She,F,IC2,Ferstl et al.(2010),english,Anna,Claire,divorced,Anna,Subject,Yes,Subject,0.880753158,decided to focus on rebuilding her life.,ambiguous,pronoun
+I448,Nicole persecuted Jane. She,F,IC2,Ferstl et al.(2010),english,Nicole,Jane,persecuted,Nicole,Subject,Yes,Subject,0.999941518,She made Jane's life incredibly difficult through constant criticism and unfair treatment.,Subject,pronoun
+I449,Claire derided Tina. She,F,IC2,Ferstl et al.(2010),english,Claire,Tina,derided,Claire,Subject,No,Object,0.851951262,mocked her choice of attire in front of their friends.,Subject,pronoun
+I450,Jane wanted Kate. She,F,IC2,Ferstl et al.(2010),english,Jane,Kate,wanted,Jane,Subject,Yes,Subject,0.962565514,told her how she felt.,Subject,pronoun
+I451,Tina advised Amy. She,F,IC2,Ferstl et al.(2010),english,Tina,Amy,advised,T,Subject,Yes,Subject,0.880146214,should carefully consider the options before making a decision.,Object,pronoun
+I452,Kate supported Alice. She,F,IC2,Ferstl et al.(2010),english,Kate,Alice,supported,Kate,Subject,Yes,Subject,0.777064774,was always there for her during difficult times.,Subject,pronoun
+I453,Amy chastened Sarah. She,F,IC2,Ferstl et al.(2010),english,Amy,Sarah,chastened,Amy,Subject,Yes,Subject,0.316851134,"apologized quietly, understanding her mistake.",Object,pronoun
+I454,Alice led Emily. She,F,IC2,Ferstl et al.(2010),english,Alice,Emily,led,Alice,Subject,Yes,Subject,0.999653274,"followed closely behind, trusting Alice's guidance.",Object,pronoun
+I455,Sarah petted Angela. She,F,IC2,Ferstl et al.(2010),english,Sarah,Angela,petted,Sarah,Subject,Yes,Subject,0.970652765,smiled warmly at her.,ambiguous,pronoun
+I456,Emily admonished Anna. She,F,IC2,Ferstl et al.(2010),english,Emily,Anna,admonished,Emily,Subject,Yes,Subject,0.991401922,felt disappointed by her behavior.,Subject,pronoun
+I457,Megan rushed to Nicole. She,F,IC2,Ferstl et al.(2010),english,Megan,Nicole,rushed to,M,Subject,Yes,Subject,0.776679862,was worried something might be wrong.,Subject,pronoun
+I458,Angela venerated Claire. She,F,IC2,Ferstl et al.(2010),english,Angela,Claire,venerated,Angela,Subject,Yes,Subject,0.939513664,admired her unwavering determination and kindness.,Subject,pronoun
+I459,Anna chased Jane. She,F,IC2,Ferstl et al.(2010),english,Anna,Jane,chased,Anna,Subject,No,Object,0.924139733,caught up to her quickly.,Subject,pronoun
+I460,Nicole deplored Tina. She,F,IC2,Ferstl et al.(2010),english,Nicole,Tina,deplored,Nicole,Subject,Yes,Subject,0.907616984,felt betrayed by her actions.,Subject,pronoun
+I461,Claire chided Kate. She,F,IC2,Ferstl et al.(2010),english,Claire,Kate,chided,Claire,Subject,Yes,Subject,0.148043344,felt disappointed by her behavior.,Subject,pronoun
+I462,Jane cautioned Amy. She,F,IC2,Ferstl et al.(2010),english,Jane,Amy,cautioned,Jane,Subject,Yes,Subject,0.983453891,should be careful about trusting strangers.,Object,pronoun
+I463,Tina denounced Alice. She,F,IC2,Ferstl et al.(2010),english,Tina,Alice,denounced,T,Subject,Yes,Subject,0.320797407,accused her of spreading false rumors.,Subject,pronoun
+I464,Kate escorted Sarah. She,F,IC2,Ferstl et al.(2010),english,Kate,Sarah,escorted,Kate,Subject,No,Object,0.119098145,guided her through the bustling crowd.,Subject,pronoun
+I465,Amy lauded Emily. She,F,IC2,Ferstl et al.(2010),english,Amy,Emily,lauded,Amy,Subject,Yes,Subject,0.776069025,praised her for her hard work and dedication.,Subject,pronoun
+I466,Alice pardoned Megan. She,F,IC2,Ferstl et al.(2010),english,Alice,Megan,pardoned,Alice,Subject,Yes,Subject,0.730937996,felt it was the right thing to do.,Subject,pronoun
+I467,Sarah disdained Anna. She,F,IC2,Ferstl et al.(2010),english,Sarah,Anna,disdained,Sarah,Subject,Yes,Subject,0.995922929,often avoided interacting with her.,Subject,pronoun
+I468,Emily caught Nicole. She,F,IC2,Ferstl et al.(2010),english,Emily,Nicole,caught,Emily,Subject,Yes,Subject,0.993000226,was running away after stealing Emily's purse.,Object,pronoun
+I469,Megan prosecuted Claire. She,F,IC2,Ferstl et al.(2010),english,Megan,Claire,prosecuted,M,Subject,Yes,Subject,0.988990595,argued passionately to present her case in court.,Object,pronoun
+I470,Angela castigated Jane. She,F,IC2,Ferstl et al.(2010),english,Angela,Jane,castigated,Angela,Subject,No,Object,0.268821783,was frustrated by Jane's repeated mistakes.,Subject,pronoun
+I471,Anna criticized Tina. She,F,IC2,Ferstl et al.(2010),english,Anna,Tina,criticized,Anna,Subject,Yes,Subject,0.673955327,felt that Tina's actions were unfair.,Subject,pronoun
+I472,Nicole hailed Kate. She,F,IC2,Ferstl et al.(2010),english,Nicole,Kate,hailed,Nicole,Subject,Yes,Subject,0.994349866,waved back with a smile.,Object,pronoun
+I473,Claire missed Amy. She,F,IC2,Ferstl et al.(2010),english,Claire,Amy,missed,Claire,Subject,No,Object,0.730475632,longed to hear her friend's laughter again.,Subject,pronoun
+I474,Jane visited Alice. She,F,IC2,Ferstl et al.(2010),english,Jane,Alice,visited,Jane,Subject,Yes,Subject,0.995874446,was excited to share the good news with her.,Subject,pronoun
+I475,Tina complimented Sarah. She,F,IC2,Ferstl et al.(2010),english,Tina,Sarah,complimented,T,Subject,Yes,Subject,0.119165802,smiled warmly in response.,Object,pronoun
+I476,Kate grieved Emily. She,F,IC2,Ferstl et al.(2010),english,Kate,Emily,grieved,Kate,Subject,Yes,Subject,0.99326973,struggled to find ways to cope with the loss.,Subject,pronoun
+I477,Amy protected Megan. She,F,IC2,Ferstl et al.(2010),english,Amy,Megan,protected,Amy,Subject,Yes,Subject,0.81655511,ensured that no harm would come her way.,Subject,pronoun
+I478,Alice relished Angela. She,F,IC2,Ferstl et al.(2010),english,Alice,Angela,relished,Alice,Subject,Yes,Subject,0.871563698,admired her kindness and generosity.,Subject,pronoun
+I479,Sarah shook Nicole. She,F,IC2,Ferstl et al.(2010),english,Sarah,Nicole,shook,Sarah,Subject,Yes,Subject,0.998989496,seemed desperate to get her attention.,Subject,pronoun
+I480,Emily accompanied Claire. She,F,IC2,Ferstl et al.(2010),english,Emily,Claire,accompanied,Emily,Subject,Yes,Subject,0.922858207,was excited to spend the afternoon together.,Subject,pronoun
+I481,Megan cheered Jane. She,F,IC2,Ferstl et al.(2010),english,Megan,Jane,cheered,M,Subject,Yes,Subject,0.994753252,felt a surge of pride watching her succeed.,Subject,pronoun
+I482,Angela saluted Tina. She,F,IC2,Ferstl et al.(2010),english,Angela,Tina,saluted,Angela,Subject,No,Object,0.562116325,smiled warmly and walked away.,ambiguous,pronoun
+I483,Anna scorned Kate. She,F,IC2,Ferstl et al.(2010),english,Anna,Kate,scorned,Anna,Subject,Yes,Subject,0.437753281,believed Kate had betrayed her trust.,Subject,pronoun
+I484,Nicole excused Amy. She,F,IC2,Ferstl et al.(2010),english,Nicole,Amy,excused,Nicole,Subject,Yes,Subject,0.986793172,was understanding of the situation and decided it was best to let it go.,Subject,pronoun
+I485,Claire reprimanded Alice. She,F,IC2,Ferstl et al.(2010),english,Claire,Alice,reprimanded,Claire,Subject,Yes,Subject,0.970665571,felt frustrated by Alice's repeated mistakes.,Subject,pronoun
+I487,Tina chastized Emily. She,F,IC2,Ferstl et al.(2010),english,Tina,Emily,chastized,T,Subject,Yes,Subject,0.904518563,felt frustrated by her repeated mistakes.,Subject,pronoun
+I488,Kate freed Megan. She,F,IC2,Ferstl et al.(2010),english,Kate,Megan,freed,Kate,Subject,No,Object,0.924140043,felt a sense of relief as Megan smiled gratefully.,Subject,pronoun
+I489,Amy calmed Angela. She,F,IC2,Ferstl et al.(2010),english,Amy,Angela,calmed,Amy,Subject,Yes,Subject,0.99744296,spoke to her in a soothing voice.,Subject,pronoun
+I490,Alice cherished Anna. She,F,IC2,Ferstl et al.(2010),english,Alice,Anna,cherished,Alice,Subject,Yes,Subject,0.939372161,valued their friendship deeply.,Subject,pronoun
+I491,Sarah esteemed Claire. She,F,IC2,Ferstl et al.(2010),english,Sarah,Claire,esteemed,Sarah,Subject,Yes,Subject,0.904331631,admired her intelligence and kindness.,Subject,pronoun
+I492,Emily believed Jane. She,F,IC2,Ferstl et al.(2010),english,Emily,Jane,believed,Emily,Subject,No,Object,0.901782891,was telling the truth.,Object,pronoun
+I493,Megan worshipped Tina. She,F,IC2,Ferstl et al.(2010),english,Megan,Tina,worshipped,M,Subject,Yes,Subject,0.961859918,admired her confidence and kindness deeply.,Subject,pronoun
+I494,Angela banished Kate. She,F,IC2,Ferstl et al.(2010),english,Angela,Kate,banished,Angela,Subject,Yes,Subject,0.880510761,hoped it was the right decision.,Subject,pronoun
+I495,Anna complemented Amy. She,F,IC2,Ferstl et al.(2010),english,Anna,Amy,complemented,Anna,Subject,Yes,Subject,0.87617321,smiled warmly in response.,Object,pronoun
+I496,Nicole abhorred Alice. She,F,IC2,Ferstl et al.(2010),english,Nicole,Alice,abhorred,Nicole,Subject,Yes,Subject,0.97701761,couldn't stand being around her and avoided her whenever possible.,Subject,pronoun
+I497,Claire honoured Sarah. She,F,IC2,Ferstl et al.(2010),english,Claire,Sarah,honoured,Claire,Subject,Yes,Subject,0.988689503,deeply admired her dedication and kindness.,Subject,pronoun
+I498,Jane revered Emily. She,F,IC2,Ferstl et al.(2010),english,Jane,Emily,revered,Jane,Subject,Yes,Subject,0.999874062,looked up to her as a source of inspiration and guidance.,Subject,pronoun
+I499,Tina yelled at Megan. She,F,IC2,Ferstl et al.(2010),english,Tina,Megan,yelled at,T,Subject,Yes,Subject,0.182423959,felt frustrated and couldn‚Äôt hold back her emotions.,Object,pronoun
+I500,Kate acclaimed Angela. She,F,IC2,Ferstl et al.(2010),english,Kate,Angela,acclaimed,Kate,Subject,Yes,Subject,0.730911878,was impressed by her exceptional talent.,Subject,pronoun
+I501,Amy censured Anna. She,F,IC2,Ferstl et al.(2010),english,Amy,Anna,censured,Amy,Subject,Yes,Subject,0.92413994,expressed her disappointment in Anna's actions.,Subject,pronoun
+I502,Alice ridiculed Nicole. She,F,IC2,Ferstl et al.(2010),english,Alice,Nicole,ridiculed,Alice,Subject,Yes,Subject,0.37751209,felt embarrassed but tried to laugh it off.,Object,pronoun
+I503,Sarah reassured Jane. She,F,IC2,Ferstl et al.(2010),english,Sarah,Jane,reassured,Sarah,Subject,Yes,Subject,0.985684116,understood how stressful the situation had been and offered her full support.,Subject,pronoun
+I504,Emily condemned Tina. She,F,IC2,Ferstl et al.(2010),english,Emily,Tina,condemned,Emily,Subject,Yes,Subject,0.991387159,believed Tina's actions were unfair.,Subject,pronoun
+I505,Megan answered Kate. She,F,IC2,Ferstl et al.(2010),english,Megan,Kate,answered,M,Subject,Yes,Subject,0.988886944,explained her reasoning carefully.,Subject,pronoun
+I506,Angela toasted Amy. She,F,IC2,Ferstl et al.(2010),english,Angela,Amy,toasted,Angela,Subject,Yes,Subject,0.491630347,smiled warmly and raised her glass in return.,Object,pronoun
+I507,Anna hired Alice. She,F,IC2,Ferstl et al.(2010),english,Anna,Alice,hired,Anna,Subject,Yes,Subject,0.962517034,was impressed by her qualifications and work ethic.,Subject,pronoun
+I508,Nicole idolized Sarah. She,F,IC2,Ferstl et al.(2010),english,Nicole,Sarah,idolized,Sarah,Object,No,Object,0.991080627,admired her confidence and often sought her advice.,Subject,pronoun
+I509,Claire counseled Emily. She,F,IC2,Ferstl et al.(2010),english,Claire,Emily,counseled,Claire,Subject,Un,Subject,0.727484519,appreciated the advice and felt more confident about her decision.,Subject,pronoun
+I511,Tina worried about Angela. She,F,IC2,Ferstl et al.(2010),english,Tina,Angela,worried about,T,Subject,Yes,Subject,0.851692475,hoped that Angela would be able to handle the difficult situation.,Subject,pronoun
+I512,Kate celebrated Anna. She,F,IC2,Ferstl et al.(2010),english,Kate,Anna,celebrated,Kate,Subject,Yes,Subject,0.977126858,felt immense pride in her accomplishments.,ambiguous,pronoun
+I513,Amy mourned Nicole. She,F,IC2,Ferstl et al.(2010),english,Amy,Nicole,mourned,Amy,Subject,Yes,Subject,0.998049959,was overwhelmed by the weight of her absence.,Subject,pronoun
+I514,Alice spanked Claire. She,F,IC2,Ferstl et al.(2010),english,Alice,Claire,spanked,Alice,Subject,Yes,Subject,0.939883665,felt a pang of regret afterward.,Subject,pronoun
+I515,Sarah dreaded Tina. She,F,IC2,Ferstl et al.(2010),english,Sarah,Tina,dreaded,Sarah,Subject,Yes,Subject,0.678926438,avoided her whenever possible.,Subject,pronoun
+I516,Emily guided Kate. She,F,IC2,Ferstl et al.(2010),english,Emily,Kate,guided,Emily,Subject,Yes,Subject,0.936562902,held her hand to ensure she didn‚Äôt trip on the uneven path.,Subject,pronoun
+I517,Megan adored Amy. She,F,IC2,Ferstl et al.(2010),english,Megan,Amy,adored,M,Subject,Yes,Subject,0.962552924,always looked up to her for guidance and inspiration.,Subject,pronoun
+I518,Angela consoled Alice. She,F,IC2,Ferstl et al.(2010),english,Angela,Alice,consoled,Angela,Subject,Yes,Subject,0.996546674,offered kind words to help her feel better.,Subject,pronoun
+I519,Anna prized Sarah. She,F,IC2,Ferstl et al.(2010),english,Anna,Sarah,prized,Anna,Subject,Yes,Subject,0.499794673,admired her kindness and determination.,Subject,pronoun
+I520,Nicole distrusted Emily. She,F,IC2,Ferstl et al.(2010),english,Nicole,Emily,distrusted,Nicole,Subject,Yes,Subject,0.962547298,often questioned her intentions and avoided sharing personal details.,ambiguous,pronoun
+I521,Claire employed Megan. She,F,IC2,Ferstl et al.(2010),english,Claire,Megan,employed,Claire,Subject,Yes,Subject,0.88078618,trained her for the new role.,Subject,pronoun
+I522,Jane punished Angela. She,F,IC2,Ferstl et al.(2010),english,Jane,Angela,punished,Jane,Subject,Yes,Subject,0.924120998,felt it was necessary after the repeated warnings.,Subject,pronoun
+I523,Tina resented Anna. She,F,IC2,Ferstl et al.(2010),english,Tina,Anna,resented,T,Subject,Yes,Subject,0.075853704,felt betrayed by her actions.,Subject,pronoun
+I524,Kate treasured Nicole. She,F,IC2,Ferstl et al.(2010),english,Kate,Nicole,treasured,Kate,Subject,Yes,Subject,0.880629537,valued her friendship deeply and always sought to make her feel appreciated.,Subject,pronoun
+I525,Amy penalized Claire. She,F,IC2,Ferstl et al.(2010),english,Amy,Claire,penalized,Amy,Subject,Yes,Subject,0.880772202,deserved it due to her repeated mistakes.,Object,pronoun
+I526,Alice sued Jane. She,F,IC2,Ferstl et al.(2010),english,Alice,Jane,sued,Alice,Subject,Yes,Subject,0.951287328,claimed that Jane had breached their contract.,Subject,pronoun
+I527,Sarah detested Kate. She,F,IC2,Ferstl et al.(2010),english,Sarah,Kate,detested,Sarah,Subject,Yes,Subject,0.775576865,avoided speaking to her whenever possible.,Subject,pronoun
+I529,Megan loved Alice. She,F,IC2,Ferstl et al.(2010),english,Megan,Alice,loved,M,Subject,Yes,Subject,0.99476305,always admired her kindness and unwavering strength.,Subject,pronoun
+I530,Angela commended Sarah. She,F,IC2,Ferstl et al.(2010),english,Angela,Sarah,commended,Angela,Subject,Yes,Subject,0.996663296,praised her dedication to the project.,Subject,pronoun
+I531,Anna pitied Emily. She,F,IC2,Ferstl et al.(2010),english,Anna,Emily,pitied,Anna,Subject,Yes,Subject,0.8494829,felt overwhelmed by the challenges Emily was facing.,Subject,pronoun
+I532,Nicole applauded Megan. She,F,IC2,Ferstl et al.(2010),english,Nicole,Megan,applauded,Nicole,Subject,No,Object,0.88076833,was impressed by her performance.,Subject,pronoun
+I533,Claire feared Angela. She,F,IC2,Ferstl et al.(2010),english,Claire,Angela,feared,Claire,Subject,No,Object,0.320387829,knew Angela had a way of uncovering secrets.,Subject,pronoun
+I534,Jane fed Anna. She,F,IC2,Ferstl et al.(2010),english,Jane,Anna,fed,Jane,Subject,No,Object,0.268940155,enjoyed watching her eat.,Subject,pronoun
+I535,Tina loathed Nicole. She,F,IC2,Ferstl et al.(2010),english,Tina,Nicole,loathed,T,Subject,No,Object,0.37750687,avoided her whenever possible.,Subject,pronoun
+I536,Kate rewarded Claire. She,F,IC2,Ferstl et al.(2010),english,Kate,Claire,rewarded,Kate,Subject,Yes,Subject,0.622457605,gave her a heartfelt gift.,Subject,pronoun
+I537,Amy appreciated Jane. She,F,IC2,Ferstl et al.(2010),english,Amy,Jane,appreciated,Amy,Subject,No,Object,0.923224865,valued her support and kindness immensely.,Subject,pronoun
+I538,Alice despised Tina. She,F,IC2,Ferstl et al.(2010),english,Alice,Tina,despised,Alice,Subject,Yes,Subject,0.222694891,resented her for spreading rumors about her.,Subject,pronoun
+I539,Sarah disliked Amy. She,F,IC2,Ferstl et al.(2010),english,Sarah,Amy,disliked,Sarah,Subject,Yes,Subject,0.376375657,often avoided her at social gatherings.,Subject,pronoun
+I540,Emily favoured Alice. She,F,IC2,Ferstl et al.(2010),english,Emily,Alice,favoured,Emily,Subject,Yes,Subject,0.99983533,admired her determination and often sought her advice.,Subject,pronoun
+I541,Megan hated Sarah. She,F,IC2,Ferstl et al.(2010),english,Megan,Sarah,hated,M,Subject,No,Object,0.89741651,couldn't stand the way Sarah always took credit for other people's work.,Subject,pronoun
+I542,Angela liked Emily. She,F,IC2,Ferstl et al.(2010),english,Angela,Emily,liked,Angela,Subject,Yes,Subject,0.707884839,admired her kindness and sense of humor.,Subject,pronoun
+I543,Anna respected Megan. She,F,IC2,Ferstl et al.(2010),english,Anna,Megan,respected,Anna,Subject,No,Object,0.498496918,admired her dedication and work ethic.,Subject,pronoun
+I544,Nicole admired Angela. She,F,IC2,Ferstl et al.(2010),english,Nicole,Angela,admired,Nicole,Subject,No,Object,0.959516901,aspired to have a similar level of confidence and determination.,Subject,pronoun
+I545,Claire carried Anna. She,F,IC2,Ferstl et al.(2010),english,Claire,Anna,carried,Claire,Subject,Yes,Subject,0.98192503,was carefully cradling her in her arms.,Subject,pronoun
+I546,Jane envied Nicole. She,F,IC2,Ferstl et al.(2010),english,Jane,Nicole,envied,Jane,Subject,No,Object,0.99807275,wished she had Nicole's confidence and grace.,Subject,pronoun
+I547,Tina fancied Claire. She,F,IC2,Ferstl et al.(2010),english,Tina,Claire,fancied,T,Subject,No,Object,0.985047658,hoped to find the courage to tell her.,Subject,pronoun
+I548,Kate laughed at Jane. She,F,IC2,Ferstl et al.(2010),english,Kate,Jane,laughed at,Kate,Subject,No,Object,0.92401208,couldn't help but find her friend's joke hilarious.,Subject,pronoun
